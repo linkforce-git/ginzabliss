@@ -41,7 +41,7 @@
     </div>
     <section class="mainSec">
         <div class="wrapper">
-            <p class="txta">モアナスキンクリニック（以下、当クリニックと略します）は、「患者様の個人情報」を適切に保護し管理することが重要であると考えております。<br>そのため当クリニックでは、以下の個人情報保護方針を定め確実な履行に努めます。</p>
+            <p class="txta">銀座ブリススキンクリニック（以下、当クリニックと略します）は、「患者様の個人情報」を適切に保護し管理することが重要であると考えております。<br>そのため当クリニックでは、以下の個人情報保護方針を定め確実な履行に努めます。</p>
         </div>
     </section>
     <section class="mainSec">
@@ -204,7 +204,7 @@
                 <h2 class="jp">第十一条<br> お問い合わせ窓口</h2>
             </div>
             <ol class="list1">
-                <li class="list1_item"><div class="num">1</div><p class="txta">本ポリシーに関するお問い合わせは、モアナスキンクリニック大阪天王寺院までお願いいたします。</p></li>
+                <li class="list1_item"><div class="num">1</div><p class="txta">本ポリシーに関するお問い合わせは、銀座ブリススキンクリニックまでお願いいたします。</p></li>
             </ol>
         </div>
     </section>

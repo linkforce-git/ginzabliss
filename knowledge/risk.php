@@ -51,18 +51,7 @@
     <section>
         <div class="wrapper">
             <p class="txta">医療脱毛は医師や看護師がおこなう安全な施術です。しかし、高出力のため稀に肌トラブルを起こすこともあります。<br>このページでは、医療脱毛によって起こりうるリスクや副作用と、それらに対する当院の対策・対応について説明します。</p>
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
+
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
                 <h3 class="sec"><a href="#sec1">1. 施術中の痛み</a></h3>
@@ -138,8 +127,6 @@
                     <div class="balloon">当院は蓄熱式。<br>痛みが少なめです</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <p class="txta">当院では施術をすべて蓄熱式照射でおこなっています。そのため痛みは少な目です。それでも痛みを強く感じる際は、出力を下げたり、冷やしながら施術進めて痛みを抑え、それでもダメなときはクリーム麻酔を使っています。<br>（詳細はこちら→「<a href="/features/pain_Commitment">痛み低減へのこだわり</a>」）</p>
@@ -181,8 +168,6 @@
                     <div class="balloon">症状が重いときは<br>クリニックにご連絡<br>ください</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <p class="txta">軟膏を塗って数日様子を見ても症状が改善しない場合や、症状が重いと感じた場合は我慢せずにクリニックにご連絡ください。</p>
@@ -228,8 +213,6 @@
                     <div class="balloon">当院は火傷対策を<br>徹底しています。<br>ご安心ください。</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <p class="txta">
@@ -252,8 +235,6 @@
                     <div class="balloon">もしも「火傷かな？」と<br>感じたら、すぐにクリニック<br>にご連絡ください。</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
             </div>
@@ -292,8 +273,6 @@
                     <div class="balloon">当院では過去に一例も<br>硬毛化・増毛化を<br>発症していません。</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <p class="txta">当院は熱量重視のハイパワー脱毛です。施術時は常に「安全に施術可能な最大熱量」を照射しています。それゆえ過去に硬毛化・増毛化は一例も発生していません。ご安心ください。</p>
@@ -334,8 +313,6 @@
                     <div class="balloon">まずは、お渡しする<br>お薬を塗布して様子を<br>みましょう</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <p class="txta">当では初回施術時に抗菌薬入りの抗炎症剤（軟膏）をお渡ししています。もし毛嚢炎の症状が出た場合、まずはお薬を塗布して様子を見てください。症状が数日たっても治まらない場合はクリニックにご連絡ください。</p>
@@ -361,13 +338,11 @@
                     <div class="balloon">リスク・副作用を抑えた<br>安全な医療脱毛を提供<br>しています。</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
-                <p class="txta">当院は大阪・天王寺にある医療脱毛専門クリニックです。安全で効果が高い脱毛をお手頃価格でご提供しています。医療脱毛のことならぜひ当院にご相談ください。</p>
+                <p class="txta">当院は医療脱毛専門クリニックです。安全で効果が高い脱毛をお手頃価格でご提供しています。医療脱毛のことならぜひ当院にご相談ください。</p>
                 <div class="link_detail">
-                    <p class="item"><span><a href="/">モアナスキンクリニックTOP</a></span></p>
+                    <p class="item"><span><a href="/">銀座ブリススキンクリニックTOP</a></span></p>
                 </div>
             </div>
         </div>

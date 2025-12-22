@@ -213,9 +213,6 @@ $(function(){
             'reserv_request[]': {
                 required: true,
             },
-            reserv_first: {
-                required: true,
-            },
             reserv_privacy: {
                 required: true,
             },
@@ -249,9 +246,6 @@ $(function(){
             },
             'reserv_request[]': {
                 required: "ご希望の部位を選択してください",
-            },
-            reserv_first: {
-                required: "ご来院は初めてか選択してください",
             },
             reserv_privacy: {
                 required: "プライバシーポリシーに同意が必要です",

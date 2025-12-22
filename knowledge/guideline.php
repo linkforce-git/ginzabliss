@@ -52,36 +52,25 @@
     <section>
         <div class="wrapper">
             <p class="txta">医療脱毛は、一度の施術で毛がすべてなくなるわけではありません。満足する脱毛効果を得るためには、必ず複数回の脱毛施術が必要です。<br>このページでは、医療脱毛の施術回数と抜け具合の関係について解説していきます。</p>
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
+            
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
                 <h3 class="sec"><a href="#sec1">1. 全身脱毛の施術回数と効果</a></h3>
                 <ul class="subsec">
                     <li><a href="#sec1-1">全身脱毛ってどこからどこまで？</a></li>
-                    <li><a href="#sec1-2">施術回数と効果（当院データ）</a></li>
+                    <li><a href="#sec1-2">施術回数と効果</a></li>
                     <li><a href="#sec1-3">目標別の施術回数目安</a></li>
                 </ul>
                 <h3 class="sec"><a href="#sec2">2. VIO脱毛の施術回数と効果</a></h3>
                 <ul class="subsec">
                     <li><a href="#sec2-1">VIO脱毛ってどこからどこまで？</a></li>
-                    <li><a href="#sec2-2">施術回数と効果（当院データ）</a></li>
+                    <li><a href="#sec2-2">施術回数と効果</a></li>
                     <li><a href="#sec2-3">目標別の施術回数目安</a></li>
                 </ul>
                 <h3 class="sec"><a href="#sec3">3. 顔脱毛の施術回数と効果</a></h3>
                 <ul class="subsec">
                     <li><a href="#sec3-1">顔脱毛ってどこからどこまで？</a></li>
-                    <li><a href="#sec3-2">施術回数と効果（当院データ）</a></li>
+                    <li><a href="#sec3-2">施術回数と効果</a></li>
                     <li><a href="#sec3-3">目標別の施術回数目安</a></li>
                 </ul>
             </div>
@@ -105,9 +94,9 @@
 
             <div id="sec1-2" class="h3a y">
                 <div class="shine"></div>
-                <h3 class="ttl">施術回数と効果<br>（当院アンケートデータ）</h3>
+                <h3 class="ttl">施術回数と効果<br><span class="small">（エクレアプロに関するアンケートデータ）</span></h3>
             </div>
-            <p class="txta">以下のデータは、当院で施術を受けたお客様の体感効果を「施術回数別」にグラフにしたものです。</p>
+            <p class="txta">以下のデータは、エクレアプロで施術を受けたお客様の体感効果を「施術回数別」にグラフにしたものです。</p>
             <figure class="box box_fig2">
                 <figcaption class="cap2">全身脱毛５回<br>施術後の抜け具合</figcaption>
                 <img class="fig2" src="/assets/img/knowledge/guideline/fig2.png">
@@ -167,9 +156,9 @@
 
             <div id="sec2-2" class="h3a y">
                 <div class="shine"></div>
-                <h3 class="ttl">施術回数と効果<br>（当院アンケートデータ）</h3>
+                <h3 class="ttl">施術回数と効果<br><span class="small">（エクレアプロに関するアンケートデータ）</span></h3>
             </div>
-            <p class="txta">以下のデータは、当院で施術を受けたお客様の体感効果を「施術回数別」にグラフにしたものです。</p>
+            <p class="txta">以下のデータは、エクレアプロで施術を受けたお客様の体感効果を「施術回数別」にグラフにしたものです。</p>
             <figure class="box box_fig5">
                 <figcaption class="cap2">VIO脱毛５回<br>施術後の抜け具合</figcaption>
                 <img class="fig5" src="/assets/img/knowledge/guideline/fig5.png">
@@ -227,16 +216,7 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
-                    <h3 class="ttl">当院は精密照射でキワまで照射可能</h3>
+                    <h3 class="ttl">当院は精密照射でキワまで<br>照射可能</h3>
                     <div class="icon_toggle"></div>
                 </label>
                 <div class="cBody">
@@ -247,9 +227,9 @@
 
             <div id="sec3-2" class="h3a y">
                 <div class="shine"></div>
-                <h3 class="ttl">施術回数と効果<br>（当院アンケートデータ）</h3>
+                <h3 class="ttl">施術回数と効果<br><span class="small">（エクレアプロに関するアンケートデータ）</span></h3>
             </div>
-            <p class="txta">以下のデータは、当院で施術を受けたお客様の体感効果を「施術回数別」にグラフにしたものです。</p>
+            <p class="txta">以下のデータは、エクレアプロで施術を受けたお客様の体感効果を「施術回数別」にグラフにしたものです。</p>
             <figure class="box box_fig8">
                 <figcaption class="cap2">顔脱毛５回<br>施術後の抜け具合</figcaption>
                 <img class="fig8" src="/assets/img/knowledge/guideline/fig8.png">
@@ -305,14 +285,6 @@
             <div class="link_nextPage">
                 <div class="txta">次ページ</div>
                 <div class="txta link"><a href="/knowledge/effect">脱毛効果を決定する3大因子</a></div>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が監修しました</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
             </div>
         </div>
     </section>

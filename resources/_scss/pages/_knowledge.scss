@@ -105,7 +105,7 @@ body.knowledge {
         }
     }
     .link_nextPage {
-        margin-bottom: 70px;
+//        margin-bottom: 70px;
     }
     .approach {
         margin-top: 70px;
@@ -132,14 +132,14 @@ body.knowledge {
             position: relative;
         }
         .logo {
-            width: 218px;
+            width: 147px;
             height: 65px;
             margin: 0 auto 12px;
             background: #fff;
             mask: url(../img/logo.png) left/contain no-repeat;
         }
         .speak {
-            padding-right: calc(20 / 350 * 100%);
+//            padding-right: calc(20 / 350 * 100%);
             display: flex;
             align-items: flex-start;
             justify-content: space-between;
@@ -150,7 +150,7 @@ body.knowledge {
         .balloon {
             width: calc(100% - 100px);
             margin-top: 15px;
-            padding: 14px 0 13px 24px;
+            padding: 14px 0 13px 14px;
             background: #fff;
             border-radius: 6px;
             color: $colorBk;

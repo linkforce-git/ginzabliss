@@ -15,7 +15,7 @@
     },{
         "@type": "ListItem",
         "position": 2,
-        "name": "モアナ医療脱毛の特長",
+        "name": "ブリス医療脱毛の特長",
         "item": "https://www.moana-skin-clinic.com/features/"
     },{
         "@type": "ListItem",
@@ -36,7 +36,7 @@
         <nav class="breadcrumbs">
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li><a href="/features/">モアナ医療脱毛の特長</a></li>
+                <li><a href="/features/">ブリス医療脱毛の特長</a></li>
                 <li>当院脱毛機の特長と効果の違い</li>
             </ol>
         </nav>
@@ -49,20 +49,7 @@
     <section id="tocArea">
         <div class="wrapper">
             <p class="txta">私たちが採用している脱毛機は、「エクレアプロ」という次世代コンセプトの蓄熱式脱毛機です。<br>従来型の蓄熱脱毛機にはない画期的な照射管理機能を備えており、痛みで出力を落としても照射熱量が減らないという優れた特長を持っています。</p>
-            <p class="txta">それではエクレアプロの特長と他の脱毛機との効果の違いについて解説していきます。</p>
-
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
+            <p class="txta">それではエクレアプロの特長と他の脱毛機との効果の違いについて解説していきます。</p><br>
 
             <input type="checkbox" id="suppl01_open" class="toggle_open">
             <div id="suppl01" class="folder">
@@ -192,15 +179,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">エクレアプロは痛みが<br>ほとんどありません</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -271,15 +249,6 @@
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">この照射管理機能は<br>エクレアプロとソプラノシリーズ<br>だけが搭載しています</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -292,15 +261,6 @@
             <input type="checkbox" id="comment03_open" class="comment_open">
             <div id="comment03" class="comment">
                 <label class="cHead" for="comment03_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">ソプラノチタニウムを採用する<br>格安クリニックにご注意ください</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -315,12 +275,12 @@
         <div class="wrapper">
             <div class="h2a">
                 <div class="en">NEXT PAGE</div>
-                <h2 class="jp">結局モアナ脱毛は<br>抜けるの？</h2>
+                <h2 class="jp">結局ブリス脱毛は<br>抜けるの？</h2>
             </div>
-            <p class="txta">脱毛効果を定量的に評価いただくため、顧客アンケート結果を公開しています。ぜひ検討にお役立てください。</p>
+            <p class="txta">脱毛効果を定量的に評価いただくため、エクレアプロに関するアンケート結果を公開しています。ぜひ検討にお役立てください。</p>
             <div class="link_nextPage">
                 <div class="txta">次ページ</div>
-                <div class="txta link"><a href="/features/review">お客様アンケート結果</a></div>
+                <div class="txta link"><a href="/features/review">エクレアプロに関するアンケート結果</a></div>
             </div>
         </div>
     </section>

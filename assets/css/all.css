@@ -139,7 +139,7 @@ body {
   left: min(60px, (100% - 286px) / 2);
 }
 #pcLayout .pcLeft .logo {
-  width: calc(100% - 97px);
+  width: 126px;
 }
 #pcLayout .pcLeft .h_txt {
   margin-left: 16px;
@@ -217,7 +217,7 @@ body {
   letter-spacing: 0.06em;
 }
 #pcLayout .pcLeft .telBox {
-  height: 70px;
+  height: 96px;
   padding-top: 12px;
   background: #fff;
   border-radius: 4px;
@@ -245,6 +245,7 @@ body {
   margin-top: 9px;
   color: #044E58;
   font-size: 10px;
+  line-height: 1.2;
 }
 #pcLayout .pcRight {
   width: 230px;
@@ -531,6 +532,10 @@ label {
   line-height: 32px;
   font-weight: 500;
   letter-spacing: 0.1em;
+}
+.h3a .ttl .small {
+  font-size: 15px;
+  letter-spacing: 0;
 }
 .h3a::after {
   content: "";
@@ -1325,7 +1330,7 @@ label {
 }
 #counsArea .telBox {
   max-width: 350px;
-  height: 80px;
+  height: 108px;
   margin: 0 auto;
   padding-top: 17px;
   background: #fff;
@@ -1354,6 +1359,7 @@ label {
   margin-top: 9px;
   color: #044E58;
   font-size: 10px;
+  line-height: 1.2;
 }
 
 .comment_open {
@@ -1369,7 +1375,7 @@ label {
   position: relative;
 }
 .comment_open + .comment .cHead {
-  padding: 10px;
+  padding: 20px 10px 10px 20px;
   display: flex;
   align-items: center;
   position: relative;
@@ -1392,15 +1398,12 @@ label {
   display: none;
 }
 .comment_open + .comment .ttl {
-  width: calc(100% - 110px);
+  width: calc(100% - 35px);
   margin: -3px 0 -4px;
   font-size: 15px;
   line-height: 22px;
   font-weight: 700;
   letter-spacing: 0.1em;
-}
-.comment_open + .comment .ttl br {
-  display: none;
 }
 .comment_open + .comment .icon_toggle {
   width: 18px;
@@ -1467,8 +1470,8 @@ label {
   font-family: YakuHanMPs, "Shippori Mincho", serif;
 }
 .comment_open:checked + .comment .portrait {
-  width: 90px;
-  height: 116px;
+  width: 60px;
+  height: 60px;
   margin-right: 18px;
   border-radius: 45px;
 }
@@ -1492,7 +1495,7 @@ label {
 }
 .comment_open:checked + .comment .ttl {
   width: 100%;
-  margin: 24px 0 0;
+  margin: 0 0 0;
   padding-bottom: 6px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   line-height: 26px;
@@ -1684,8 +1687,8 @@ header > .wrapper {
   align-items: center;
 }
 header .logo {
-  width: 49.4285714286%;
-  max-width: 173px;
+  width: 36%;
+  max-width: 126px;
 }
 header .h_txt {
   margin-left: 10px;
@@ -1750,7 +1753,7 @@ footer .map {
   border-radius: 6px;
 }
 footer .telBox {
-  height: 80px;
+  height: 108px;
   margin: 40px -5px 0;
   padding-top: 17px;
   background: #fff;
@@ -1778,6 +1781,7 @@ footer .telBox .num {
 footer .telBox .txt {
   margin-top: 9px;
   font-size: 10px;
+  line-height: 1.2;
 }
 footer .schedule {
   width: 100%;
@@ -1793,7 +1797,11 @@ footer .schedule thead tr {
   justify-content: space-between;
 }
 footer .schedule thead th:first-child {
-  width: 100px;
+  width: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
 }
 footer .schedule thead th:not(:first-child) {
   width: 16px;
@@ -3117,7 +3125,7 @@ body#top #top_fv .txt2 img {
 }
 body#top #top_fv .panel {
   width: 267px;
-  height: 322px;
+  height: 300px;
   padding: 31px 0 0 40px;
   background: rgba(255, 255, 255, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.8);
@@ -3156,7 +3164,7 @@ body#top #top_fv .txt3 span:last-child::after {
   width: 98px;
 }
 body#top #top_fv .txt4 {
-  width: 56px;
+  width: 76px;
   height: 37px;
   margin: -17px 0 -5px 118px;
   padding-top: 4px;
@@ -3170,7 +3178,8 @@ body#top #top_fv .txt4 {
   letter-spacing: 0.1em;
 }
 body#top #top_fv .ttl {
-  width: 174px;
+  width: 198px;
+  margin-top: 20px;
 }
 body#top #top_fv .scroll {
   width: 16px;
@@ -3776,9 +3785,6 @@ body.knowledge .cap2.y {
 body.knowledge .cap2 b {
   font-weight: 700;
 }
-body.knowledge .link_nextPage {
-  margin-bottom: 70px;
-}
 body.knowledge .approach {
   margin-top: 70px;
   padding: 38px 0 50px;
@@ -3805,7 +3811,7 @@ body.knowledge .approach > .wrapper {
   position: relative;
 }
 body.knowledge .approach .logo {
-  width: 218px;
+  width: 147px;
   height: 65px;
   margin: 0 auto 12px;
   background: #fff;
@@ -3813,7 +3819,6 @@ body.knowledge .approach .logo {
           mask: url(../img/logo.png) left/contain no-repeat;
 }
 body.knowledge .approach .speak {
-  padding-right: 5.7142857143%;
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -3824,7 +3829,7 @@ body.knowledge .approach .speak:not(:last-child) {
 body.knowledge .approach .balloon {
   width: calc(100% - 100px);
   margin-top: 15px;
-  padding: 14px 0 13px 24px;
+  padding: 14px 0 13px 14px;
   background: #fff;
   border-radius: 6px;
   color: #044E58;
@@ -5731,7 +5736,11 @@ body#access .mainSec .schedule thead tr {
   justify-content: space-between;
 }
 body#access .mainSec .schedule thead th:first-child {
-  width: 100px;
+  width: 16px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: 16px;
 }
 body#access .mainSec .schedule thead th:not(:first-child) {
   width: 16px;

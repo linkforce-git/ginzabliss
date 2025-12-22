@@ -52,18 +52,7 @@
     <section>
         <div class="wrapper">
             <p class="txta">医療脱毛は一度の施術で完了しません。満足のいく結果を得るには必ず複数回の施術が必要です。このページでは、医療脱毛において複数回の施術が必要な理由について解説していきます。</p>
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
+
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
                 <h3 class="sec"><a href="#sec1">1. 理由１：生えていない毛は脱毛できないから</a></h3>
@@ -154,14 +143,6 @@
             <div class="link_nextPage">
                 <div class="txta">次ページ</div>
                 <div class="txta link"><a href="/knowledge/guideline">医療脱毛の施術回数と効果</a></div>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が監修しました</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
             </div>
         </div>
     </section>

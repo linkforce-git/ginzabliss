@@ -62,18 +62,6 @@
             </figure>
             <p class="txta">医療脱毛は、医療用レーザーを肌に当て、生じる熱によって発毛組織を破壊する施術です。<br>そして医療脱毛の効果は「照射方式」「レーザーの種類」「照射熱量」という3つの因子に大きな影響を受けます。<br>高い脱毛効果を得るためには、毛質に適した「照射方式」「レーザー」を使い、十分な「熱量」を照射することが重要です。<br>このページでは、脱毛効果に影響をおよぼすこれら3つの因子について解説していきます。</p>
 
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
                 <h3 class="sec"><a href="#sec1">1. 決定因子①：レーザーの種類</a></h3>
@@ -164,15 +152,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">レーザーの違いは効果にそれほど<br>影響しないと考える先生もいます</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -197,11 +176,9 @@
             <div class="wrapper">
                 <div class="logo"></div>
                 <div class="speak">
-                    <div class="balloon">モアナスキンクリニックは<br><b>3つのレーザーすべて</b>を<br>同時照射しています</div>
+                    <div class="balloon">銀座ブリススキンクリニックは<br><b>3つのレーザーすべて</b>を<br>同時照射しています</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <picture class="pic">
@@ -289,11 +266,9 @@
             <div class="wrapper">
                 <div class="logo"></div>
                 <div class="speak">
-                    <div class="balloon">モアナスキンクリニックは<br><b>すべての部位を蓄熱式で<br>施術します</b></div>
+                    <div class="balloon">銀座ブリススキンクリニックは<br><b>すべての部位を蓄熱式で<br>施術します</b></div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <picture class="pic">
@@ -375,15 +350,6 @@
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">照射熱量をあえて落とす<br>クリニックにご注意ください</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -403,8 +369,6 @@
                     <div class="balloon">安全に施術可能な<br>最大熱量を確実に照射<br>しています</div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <picture class="pic">
@@ -425,14 +389,6 @@
             <div class="link_nextPage">
                 <div class="txta">次ページ</div>
                 <div class="txta link"><a href="/knowledge/laser">医療脱毛レーザーの種類と<br>効果の違い</a></div>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が監修しました</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
             </div>
         </div>
     </section>

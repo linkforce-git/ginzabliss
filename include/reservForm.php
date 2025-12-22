@@ -139,30 +139,10 @@
                                     <input id="reserv_request_parts" type="checkbox" name="reserv_request[]" value="脇／腕／足などのパーツ">
                                     <label for="reserv_request_parts">脇／腕／足などのパーツ</label>
                                 </div>
-                                <div class="inputCheck inputCheck2">
-                                    <input id="reserv_request_peeling" type="checkbox" name="reserv_request[]" value="ケミカルピーリング">
-                                    <label for="reserv_request_peeling">ケミカルピーリング</label>
-                                </div>
                             </div>
                         </dd>
                     </div>
 
-                    <!-- ↓当院へのご来院は初めてですか？↓ -->
-                    <div class="formUnit">
-                        <dt class="formUnitHead">当院へのご来院は初めてですか？</dt>
-                        <dd class="formUnitBody">
-                            <div class="checkBoxGrp">
-                                <div class="inputCheck inputCheck3">
-                                    <input id="reserv_first-1" type="radio" name="reserv_first" value="はい">
-                                    <label for="reserv_first-1">はい</label>
-                                </div>
-                                <div class="inputCheck inputCheck3">
-                                    <input id="reserv_first-2" type="radio" name="reserv_first" value="いいえ">
-                                    <label for="reserv_first-2">いいえ</label>
-                                </div>
-                            </div>
-                        </dd>
-                    </div>
                 </dl>
                 <div class="privacyBox">
                     <div class="inputCheck inputCheck1">
@@ -171,21 +151,19 @@
                     </div>
                 </div>
                 <div id="btnReserv">予約を申し込む</div>
-                <div class="note">※当院は女性専用のクリニックです</div>
                 <input type="hidden" name="csrf_token" value="<?= $csrf_token ?>">
             </form>
         </div>
         <div class="thanksWrap">
             <div class="grp1">
-                <p class="txt">ご予約ありがとうございます</p>
-                <p class="ttl">「第一希望日」で<br>ご予約が確定しました</p>
+                <p class="ttl">ご予約ありがとうございます</p>
                 <p class="txt">当日のご来院を心よりお待ちしています</p>
             </div>
             <div class="grp2">
                 <div class="head">後日ご予約確定のメールを<br>お送りします</div>
                 <p class="txt">ご予約確定した日程を改めてメールでお送りいたします。カウンセリングや当日施術を受けるにあたり重要な情報が書いてありますので、届きましたら必ずお読みいただきますようお願いいたします。</p>
                 <div class="head">日程調整のご連絡をする場合が<br>ございます</div>
-                <p class="txt">ご予約日程の調整のため、当院よりご連絡を差し上げることがございます。<br>その際は、<span class="tel">06-4703-5114</span>より発信しますので、ご対応くださいますようお願いいたします。もしご不在の場合はご登録いただいたメールアドレスにメールをお送りさせていただきます。<br>クリニックより不在着信がありましたら、メールをご確認するか折り返しのお電話をお願い申し上げます。</p>
+                <p class="txt">ご予約日程の調整のため、当院よりご連絡を差し上げることがございます。<br>その際は、<span class="tel">03-0000-0000</span>より発信しますので、ご対応くださいますようお願いいたします。もしご不在の場合はご登録いただいたメールアドレスにメールをお送りさせていただきます。<br>クリニックより不在着信がありましたら、メールをご確認するか折り返しのお電話をお願い申し上げます。</p>
             </div>
             <p class="ttl">それでは当日のご来院を<br>心よりお待ちしております。</p>
             <picture>

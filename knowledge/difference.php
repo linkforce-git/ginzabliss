@@ -58,18 +58,6 @@
             </div>
             <p class="txta">エステ脱毛に永久脱毛効果はありません。<br>その理由はレーザーそのものの違いと照射熱量の違いにあります。<br>エステ脱毛と医療脱毛はなにがどう違うのか、どうしてエステ脱毛は抜けないのか、原理の違いから詳しく解説します。</p>
 
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
                 <h3 class="sec"><a href="#sec1">1. エステ脱毛・医療脱毛 しくみの違い</a></h3>
@@ -140,15 +128,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">「エステで永久脱毛できる」<br>と謳うエステには注意しましょう</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -189,18 +168,10 @@
             <h2 class="ttl">脱毛は医療脱毛が<br>お勧めです</h2>
         </div>
         <div class="wrapper">
-            <p class="txta">モアナスキンクリニックは、大阪天王寺で「熱量重視のハイパフォーマンス脱毛」を提供する医療脱毛専門クリニックです。</p>
+            <p class="txta">銀座ブリススキンクリニックは、大阪天王寺で「熱量重視のハイパフォーマンス脱毛」を提供する医療脱毛専門クリニックです。</p>
             <p class="txta">エステ脱毛よりも安い価格で、効果が高く、短い期間で完了する医療脱毛を提供しています。医療脱毛ならぜひ当院にご相談ください。</p>
             <div class="link_nextPage">
-                <div class="txta link"><a href="/">モアナスキンクリニックのトップへ</a></div>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が監修しました</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
+                <div class="txta link"><a href="/">銀座ブリススキンクリニックのトップへ</a></div>
             </div>
         </div>
     </section>
@@ -208,7 +179,7 @@
         <div class="wrapper">
             <div class="h2a">
                 <div class="en">FEATURES</div>
-                <h2 class="jp">モアナ医療脱毛の特長</h2>
+                <h2 class="jp">ブリス医療脱毛の特長</h2>
             </div>
             <ul class="link_list">
                 <li><a href="/features/effect_Commitment">脱毛効果へのこだわり</a></li>

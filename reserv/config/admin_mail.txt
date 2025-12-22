@@ -7,7 +7,7 @@
 </pre>
 <div style="text-decoration: underline;">第一希望日に予約を入れてください。</div>
 <pre style="font-family:inherit;margin:0;">
-空いていない場合は、第二希望日またはお客様と電話でご相談して日程調整をしてください。
+空いていない場合は、第二希望日またはお客様と電話またはメールでご相談して日程調整をしてください。
 
 なお、予約日時の確定後、「予約日時確定連絡メール」をお客様にお送りください。
 よろしくお願いします。
@@ -31,7 +31,5 @@
 　{reserv_date2} {reserv_time2}
 <div style="font-weight: bold;">ご希望の部位：</div>
 　{reserv_request}
-<div style="font-weight: bold;">はじめてのご来院ですか？：</div>
-　{reserv_first}
 </body>
 </html>

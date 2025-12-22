@@ -53,18 +53,7 @@
     <section>
         <div class="wrapper">
             <p class="txta">医療用脱毛機の「照射方式（レーザーの当て方）」は2種類あります。熱破壊式と蓄熱式の2種類です。この2つの照射方式の仕組みと効果の違いについて解説します。<br>また熱破壊脱毛機を採用するクリニックが吹聴する「蓄熱式は抜けない」という情報についても、当院の見解を述べます。</p>
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
+
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
                 <h3 class="sec"><a href="#sec1">1. 熱破壊式・蓄熱式の照射のしくみ</a></h3>
@@ -142,15 +131,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">熱破壊式レーザーが破壊している<br>のは、毛乳頭だけではありません</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -177,15 +157,6 @@
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">毛乳頭は破壊しなくてもいいの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -217,15 +188,6 @@
             <input type="checkbox" id="comment03_open" class="comment_open">
             <div id="comment03" class="comment">
                 <label class="cHead" for="comment03_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">“蓄熱式は抜けない”という情報は<br>正しくありません</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -333,15 +295,6 @@
             <input type="checkbox" id="comment04_open" class="comment_open">
             <div id="comment04" class="comment">
                 <label class="cHead" for="comment04_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">当院では過去一例も硬毛化を<br>発症していません</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -473,15 +426,6 @@
             <input type="checkbox" id="comment05_open" class="comment_open">
             <div id="comment05" class="comment">
                 <label class="cHead" for="comment05_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">当院採用のエクレアプロは、<br>熱量が施術者に依存しない<br>優れた脱毛機です</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -508,11 +452,9 @@
             <div class="wrapper">
                 <div class="logo"></div>
                 <div class="speak">
-                    <div class="balloon">モアナスキンクリニックは<br><b>蓄熱式で最大熱量を照射<br>しています</b></div>
+                    <div class="balloon">銀座ブリススキンクリニックは<br><b>蓄熱式で最大熱量を照射<br>しています</b></div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <picture class="pic">
@@ -533,14 +475,6 @@
             <div class="link_nextPage">
                 <div class="txta">次ページ</div>
                 <div class="txta link"><a href="/knowledge/difference">エステ脱毛と医療脱毛の違い</a></div>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が監修しました</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
             </div>
         </div>
     </section>

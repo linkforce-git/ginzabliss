@@ -15,12 +15,12 @@
     },{
         "@type": "ListItem",
         "position": 2,
-        "name": "モアナ医療脱毛の特長",
+        "name": "ブリス医療脱毛の特長",
         "item": "https://www.moana-skin-clinic.com/features/"
     },{
         "@type": "ListItem",
         "position": 3,
-        "name": "2分でわかる！モアナ脱毛のすべて",
+        "name": "2分でわかる！ブリス脱毛のすべて",
         "item": "https://www.moana-skin-clinic.com/features/lp1/"
     }]
 }
@@ -36,8 +36,8 @@
         <nav class="breadcrumbs">
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li><a href="/features/">モアナ医療脱毛の特長</a></li>
-                <li>2分でわかる！モアナ脱毛のすべて</li>
+                <li><a href="/features/">ブリス医療脱毛の特長</a></li>
+                <li>2分でわかる！ブリス脱毛のすべて</li>
             </ol>
         </nav>
         <div class="bg">
@@ -45,7 +45,7 @@
         </div>
         <div class="wrapper">
             <div class="inner">
-                <h1 class="head1">2分でわかる！モアナ脱毛のすべて</h1>
+                <h1 class="head1">2分でわかる！ブリス脱毛のすべて</h1>
                 <h2 class="head2">
                     <span class="line">熱量重視の</span><br>
                     <span class="line">高コスパ</span><br>
@@ -87,9 +87,9 @@
 
             <img class="arrow2" src="/assets/img/features/lp1/arrow_d3.svg">
 
-            <p class="txta headline">だからモアナは</p>
+            <p class="txta headline">だからブリスは</p>
             <p class="headText1">熱量を最重視!<br>A4サイズあたり<br>28kJをしっかり照射</p>
-            <p class="txta">脱毛効果は照射熱量に比例します。<br>だからモアナは照射熱量を最重視。安全に照射可能な最大熱量である「A4サイズあたり28kJ」を確実に照射。その実現のために、以下の3つにこだわっています。</p>
+            <p class="txta">脱毛効果は照射熱量に比例します。<br>だからブリスは照射熱量を最重視。安全に照射可能な最大熱量である「A4サイズあたり28kJ」を確実に照射。その実現のために、以下の3つにこだわっています。</p>
             <picture>
                 <source type="image/webp" srcset="/assets/img/features/lp1/fig2.png.webp">
                 <img class="fig2" src="/assets/img/features/lp1/fig2.png">
@@ -124,7 +124,7 @@
 
             <div class="h3a o">
                 <div class="shine"></div>
-                <h3 class="ttl">だからモアナは蓄熱式<br>脱毛で、熱量の低下を防ぐ</h3>
+                <h3 class="ttl">だからブリスは蓄熱式<br>脱毛で、熱量の低下を防ぐ</h3>
             </div>
             <p class="txta">「出力を落とすと熱量が減る」という弱点は、痛みに弱い女性にとって大きなデメリットです。<br>このデメリットを解消するため、当院は蓄熱式脱毛機を採用。レーザー1発の出力ダウン時（痛みで出力を下げたとき）にはレーザー照射回数を増やし、照射熱量の低下を防いでいます（下図）。</p>
             <figure class="box">
@@ -245,7 +245,7 @@
     <section id="sec05">
         <div class="h2b r">
             <div class="filter"><?php include(__DIR__.'/../../include/svg_waves.php'); ?></div>
-            <div class="sub">だからモアナは</div>
+            <div class="sub">だからブリスは</div>
             <h2 class="ttl">少ない回数で<br>脱毛完了</h2>
         </div>
         <div class="wrapper">
@@ -285,7 +285,7 @@
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../../include/svg_waves.php'); ?></div>
             <div class="sub">まだまだある！</div>
-            <h2 class="ttl">モアナ医療脱毛が<br>選ばれる理由3選</h2>
+            <h2 class="ttl">ブリス医療脱毛が<br>選ばれる理由3選</h2>
         </div>
         <div class="wrapper">
             <div id="sec5-1" class="h3a b">
@@ -309,15 +309,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">施術は2か月間隔が最も効果的です</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -331,15 +322,6 @@
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">間隔を空けすぎると<br>効果が落ちるので注意！</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -786,7 +768,7 @@
         <div class="wrapper">
             <div class="h2a">
                 <div class="en">FEATURES</div>
-                <h2 class="jp">モアナ医療脱毛の特長</h2>
+                <h2 class="jp">ブリス医療脱毛の特長</h2>
             </div>
             <ul class="link_list">
                 <li><a href="/features/effect_Commitment">脱毛効果へのこだわり</a></li>

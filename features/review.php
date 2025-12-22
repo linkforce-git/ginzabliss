@@ -15,7 +15,7 @@
     },{
         "@type": "ListItem",
         "position": 2,
-        "name": "モアナ医療脱毛の特長",
+        "name": "ブリス医療脱毛の特長",
         "item": "https://www.moana-skin-clinic.com/features/"
     },{
         "@type": "ListItem",
@@ -36,19 +36,19 @@
         <nav class="breadcrumbs">
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li><a href="/features/">モアナ医療脱毛の特長</a></li>
+                <li><a href="/features/">ブリス医療脱毛の特長</a></li>
                 <li>お客様アンケート結果</li>
             </ol>
         </nav>
         <div class="wrapper">
             <div class="sub">ちゃんと抜ける？<br>施術は丁寧？<br>予約は取れるの？</div>
-            <h1 class="ttl">当院顧客アンケートの<br>結果</h1>
+            <h1 class="ttl">エクレアプロに関する<br>アンケートの結果</h1>
         </div>
         <?php include(__DIR__.'/../include/svg_waves.php'); ?>
     </div>
     <section id="tocArea">
         <div class="wrapper">
-            <p class="txta">お客様アンケートに基づく統計データを公開しています。施術効果、施術の痛み、予約の取りやすさなど、当院サービスを他のお客様がどのように評価しているのか、ぜひご覧になってください。</p>
+            <p class="txta">エクレアプロに関するアンケートに基づく統計データを公開しています。施術効果、施術の痛み、予約の取りやすさなど、他のお客様がどのように評価しているのか、ぜひご覧になってください。</p>
 
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
@@ -232,15 +232,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">VIOは痛い…<br>熱破壊式で出力維持はかなり困難…</h3>
                     <div class="icon_toggle"></div>
                 </label>

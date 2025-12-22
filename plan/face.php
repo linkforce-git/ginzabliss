@@ -184,15 +184,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">なぜ、施術は2か月に1回なの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -253,33 +244,6 @@
 
             <div class="h3a r">
                 <div class="shine"></div>
-                <h3 class="ttl">精密照射オプション<br>（オススメ！）</h3>
-            </div>
-            <p class="txta">顔プランに「精密照射オプション(1回5,000円)」を追加すると、眉毛上・口周りのキワまで照射できるようになります。さらに鼻翼(小鼻)・鼻翼まわり・鼻筋も照射できます。<br>口周り・眉毛上の産毛が気になる方や、鼻の毛穴の開きが気になる方に大変人気のメニューです。</p>
-            <div class="price_panel">
-                <h3 class="head">精密照射オプション</h3>
-                <div class="inner">
-                    <img class="pic" src="/assets/img/plan/p_f.png">
-                    <div class="priceBox">
-                        <div class="grp">
-                            <div class="course">1回</div>
-                            <div class="price"><span class="yen">&yen;</span><span class="num">5,000</span></div>
-                        </div>
-                        <div class="grp">
-                            <div class="course">5回</div>
-                            <div class="price"><span class="yen">&yen;</span><span class="num">25,000</span></div>
-                        </div>
-                        <div class="grp">
-                            <div class="course">8回</div>
-                            <div class="price"><span class="yen">&yen;</span><span class="num">40,000</span></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <p class="note">※ 価格はすべて税込みです。<br>※ 自由診療のため保険適用外となります。</p>
-
-            <div class="h3a r">
-                <div class="shine"></div>
                 <h3 class="ttl">費用はプラン料金のみです</h3>
             </div>
             <p class="txta">他に費用は一切かかりません。<br>初診料、キャンセル料、カウンセリング料、麻酔代、薬代、剃り残し剃毛代など、すべて費用に含まれています。</p>
@@ -296,7 +260,7 @@
     <section>
         <div class="h2b r">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">モアナ顔脱毛の特長１</div>
+            <div class="sub">ブリス顔脱毛の特長</div>
             <h2 class="ttl">産毛に効果的な<br>蓄熱式を採用</h2>
         </div>
         <div class="wrapper">
@@ -304,21 +268,12 @@
                 <div class="shine"></div>
                 <h3 class="ttl">蓄熱式で産毛も<br>しっかり脱毛します</h3>
             </div>
-            <p class="txta">医療脱毛には2種類の照射方式があります。蓄熱式と熱破壊式の2種類です。<br>一般的に、熱破壊式よりも蓄熱式のほうが産毛に対する効果は高いと言われています。<br>当院は「精密照射オプション」を除き、顔もすべて蓄熱式で施術。より高い脱毛効果を発揮します。</p>
+            <p class="txta">医療脱毛には2種類の照射方式があります。蓄熱式と熱破壊式の2種類です。<br>一般的に、熱破壊式よりも蓄熱式のほうが産毛に対する効果は高いと言われています。</p>
 
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
-                    <h3 class="ttl">なぜ熱破壊式は、<br>産毛への効果が蓄熱式より低いの？</h3>
+                    <h3 class="ttl">なぜ熱破壊式は、産毛への<br>効果が蓄熱式より低いの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
                 <div class="cBody">
@@ -330,45 +285,7 @@
             </div>
         </div>
     </section>
-    <section>
-        <div class="h2b r">
-            <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">モアナ顔脱毛の特長２</div>
-            <h2 class="ttl">眉毛上・小鼻・口周りを<br>精密に照射します</h2>
-        </div>
-        <div class="wrapper">
-            <p class="txta">顔プランに「精密照射オプション」を追加いただくと、眉毛上・口まわり・鼻まわりをより綺麗に脱毛できます。</p>
-            <picture>
-                <source type="image/webp" srcset="/assets/img/plan/face/fig5.png.webp">
-                <img class="fig5" src="/assets/img/plan/face/fig5.png">
-            </picture>
 
-            <div class="h3a r">
-                <div class="shine"></div>
-                <h3 class="ttl">通常の照射ヘッドでは、<br>精密な照射ができない…</h3>
-            </div>
-            <p class="txta">医療用脱毛機の照射ヘッド（照射プリズム）は四角い形をしています。そして照射プリズムの周りには「金属製のマチ（冷却板）」があるため施術面がよく見えず、“眉周りをギリギリまで攻める”ことができません。<br>この「照射ヘッド形状」による照射の限界はあらゆる医療用脱毛機に共通する弱点であり、眉毛まわりを1cm以上空けて照射しなければならない（眉毛まわり1cmは脱毛できない）ことは長年「しかたないこと」と考えられていました。</p>
-
-            <div class="h3a r">
-                <div class="shine"></div>
-                <h3 class="ttl">独自開発のアタッチメントで<br>眉毛上・小鼻・口周りを<br>精密照射します</h3>
-            </div>
-            <p class="txta">でも…<br>「眉毛の周りをキレイにしたい」<br>「眉毛周りを剃ったり抜いたりする手間をなんとかしたい…」<br>と願う女性はきっと多いはず。</p>
-            <p class="txta">そこで私たちは、通常の照射ヘッドに取り付ける特殊なアタッチメントを独自開発。顔の精密照射を可能にしました。</p>
-            <figure class="box">
-                <picture>
-                    <source type="image/webp" srcset="/assets/img/plan/face/fig6.png.webp">
-                    <img class="fig6" src="/assets/img/plan/face/fig6.png">
-                </picture>
-            </figure>
-            <p class="txta">当院の顔脱毛なら、気になる眉毛まわりや口まわり、鼻まわりなど、他院では照射できない細部までしっかり脱毛することができます。</p>
-            <p class="txta">当院は他にも様々なことにこだわってサービスを提供しています。もしお時間ある方は、ぜひ以下のリンクもご覧になってください。</p>
-            <div class="link_detail">
-                <p class="item"><span><a href="/features/effect_Commitment">脱毛効果へのこだわり</a></span></p>
-                <p class="item"><span><a href="/features/pain_Commitment">痛み低減へのこだわり</a></span></p>
-            </div>
-        </div>
-    </section>
 <?php include(__DIR__.'/../include/flowArea.php'); ?>
 <?php include(__DIR__.'/../include/counsArea.php'); ?>
 </main>

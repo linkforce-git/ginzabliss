@@ -3,7 +3,7 @@
 <pre style="font-family:inherit;margin:0;">
 {reserv_name} さま
 
-モアナスキンクリニック、受付担当でございます。
+銀座ブリススキンクリニック、受付担当でございます。
 この度は「無料カウンセリング」にご予約いただきありがとうございます。
 
 今一度お申込内容をご確認くださいませ。
@@ -27,19 +27,17 @@
 　{reserv_date2} {reserv_time2}
 <div style="font-weight: bold;">ご希望の部位：</div>
 　{reserv_request}
-<div style="font-weight: bold;">はじめてのご来院ですか？：</div>
-　{reserv_first}
 <pre style="font-family:inherit;margin:0;">
 
 ご不明点がございましたら、下記連絡先までお問い合わせください。
 
 --------------------------------------------
-モアナスキンクリニック
-〒545-0053
-大阪市阿倍野区松崎町2-2-28 アーバンシュール4階
-https://www.moana-skin-clinic.com/
-Tel：0120-235-118
-Mail：m.contact@moana-skin-clinic.com
+銀座ブリススキンクリニック
+〒104-0061
+東京都中央区銀座1丁目14-6 6F
+https://●●●●.com/
+Tel：03-0000-0000
+Mail：●●●@●●●.com
 --------------------------------------------
 </pre>
 </body>

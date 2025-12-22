@@ -1,5 +1,5 @@
 <?php
-    $title = 'モアナ医療脱毛の特長 | 天王寺・モアナスキンクリニック';
+    $title = 'ブリス医療脱毛の特長 | 天王寺・モアナスキンクリニック';
     $description = 'コンセプトは「高い脱毛効果」「痛みの低減」「公正な価格表記」。私たちは品質向上に挑み続けます。｜天王寺で医療脱毛するなら天王寺駅前１分のモアナスキンクリニック';
     include(__DIR__.'/../include/head_link.php');
 ?>
@@ -15,7 +15,7 @@
     },{
         "@type": "ListItem",
         "position": 2,
-        "name": "モアナ医療脱毛の特長",
+        "name": "ブリス医療脱毛の特長",
         "item": "https://www.moana-skin-clinic.com/features/"
     }]
 }
@@ -34,12 +34,12 @@
         <nav class="breadcrumbs">
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li>モアナ医療脱毛の特長</li>
+                <li>ブリス医療脱毛の特長</li>
             </ol>
         </nav>
         <div class="wrapper">
             <div class="sub">～当院をご検討中の方へ～</div>
-            <h1 class="ttl">モアナ医療脱毛<br>の特長</h1>
+            <h1 class="ttl">ブリス医療脱毛<br>の特長</h1>
         </div>
         <?php include(__DIR__.'/../include/svg_waves.php'); ?>
     </div>

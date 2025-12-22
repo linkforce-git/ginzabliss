@@ -15,7 +15,7 @@
     },{
         "@type": "ListItem",
         "position": 2,
-        "name": "モアナ医療脱毛の特長",
+        "name": "ブリス医療脱毛の特長",
         "item": "https://www.moana-skin-clinic.com/features/"
     },{
         "@type": "ListItem",
@@ -36,7 +36,7 @@
         <nav class="breadcrumbs">
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li><a href="/features/">モアナ医療脱毛の特長</a></li>
+                <li><a href="/features/">ブリス医療脱毛の特長</a></li>
                 <li>脱毛効果へのこだわり</li>
             </ol>
         </nav>
@@ -211,15 +211,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">他院の照射熱量は、<br>必ずご自身でご確認ください</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -240,15 +231,6 @@
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">術者による照射熱量差も<br>理論上起こりません</h3>
                     <div class="icon_toggle"></div>
                 </label>

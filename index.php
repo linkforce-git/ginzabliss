@@ -20,7 +20,7 @@
         </div>
         <div class="panel">
             <div class="txt3"><span>科学的根拠に基づく</span><br><span>確かな医療脱毛を</span><br><span>提供する</span></div>
-            <div class="txt4">天王寺駅<br>徒歩１分</div>
+            <div class="txt4">銀座一丁目駅<br>徒歩１分</div>
             <h1 class="ttl"><img src="/assets/img/top/fv_logo.png" alt="モアナスキンクリニック"></h1>
         </div>
         <div class="scroll">SCROLL</div>
@@ -28,10 +28,6 @@
     </div>
     <section id="msgArea">
         <div class="wrapper">
-            <div class="h2a">
-                <div class="en">MESSAGE</div>
-                <h2 class="jp">院長よりお客様へ</h2>
-            </div>
             <div class="h3a y">
                 <div class="shine"></div>
                 <h3 class="ttl">「抜けない格安脱毛は嫌だ…」<br>そんなお客様に選ばれています</h3>
@@ -43,13 +39,9 @@
                 <p class="msgTxt">だから私たちは熱量にこだわります。</p>
                 <p class="msgTxt">安全に施術可能な最大熱量を照射し、<br>少ない回数・短い期間で完了する、<br>総額が安い医療脱毛を提供します。</p>
             </div>
-            <div class="doctor">
-                <div class="clinic">モアナスキンクリニック</div>
-                <div class="name"><span class="job">院長</span> 太田 好紀</div>
-            </div>
             <div class="box">
                 <h4 class="box_head"><span class="txt1">8回以下の施術で</span><br><span class="line"><span class="txt2">91</span><span class="txt3">%が</span><span class="txt4">効果に満足</span></span></h4>
-                <div class="enq_ttl1">～お客様アンケート～</div>
+                <div class="enq_ttl1">～エクレアプロに関するアンケート～</div>
                 <div class="enq_ttl2">満足するまでに要した施術回数</div>
                 <img src="/assets/img/top/msg_graph.png">
             </div>
@@ -158,7 +150,7 @@
                 <div class="icon shine"></div>
             </div>
             <div class="sub">当院をご検討中の方へ</div>
-            <h2 class="ttl">モアナ医療脱毛の特長</h2>
+            <h2 class="ttl">ブリス医療脱毛の特長</h2>
         </div>
         <div class="wrapper">
             <div class="h3a b">
@@ -340,6 +332,8 @@
     </section>
 <?php include(__DIR__.'/include/flowArea.php'); ?>
 <?php include(__DIR__.'/include/counsArea.php'); ?>
+
+<?php /*
  <section id="newsArea">
         <div class="wrapper">
             <div class="h2a">
@@ -425,10 +419,11 @@
                     </div>
                 </div>
                 <label class="btn_toggle" for="newsAll_open">VIEW ALL<span class="icon"></span></label>
-*/ ?>
+* ?>
             </div>
         </div>
     </section>
+*/ ?>
 </main>
 
 <?php include(__DIR__.'/include/footer.php'); ?>

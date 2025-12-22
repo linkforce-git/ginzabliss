@@ -2,7 +2,7 @@
     <div class="pcLeft">
         <div class="logoGrp">
             <a class="logo" href="/"><img src="/assets/img/logo.png" alt="モアナスキンクリニック"></a>
-            <p class="h_txt">天王寺駅前1分<br><span>医療脱毛専門</span></p>
+            <p class="h_txt">銀座一丁目駅<br><span>徒歩2分</span></p>
         </div>
         <div class="btnWrap">
             <div class="ttl">
@@ -21,8 +21,8 @@
                 <h3 class="txt">お電話でのご質問・ご予約はこちら</h3>
             </div>
             <div class="telBox">
-                <a class="link" href="tel:0120235118"><span class="tel">TEL.</span><span class="num">0120-235-118</span></a>
-                <p class="txt">受付：11：00～20：00　定休日：月曜・火曜</p>
+                <a class="link" href="tel:0300000000"><span class="tel">TEL.</span><span class="num">03-0000-0000</span></a>
+                <p class="txt">受付：平日12：00～21：00<br>土日祝：10：00～19：00<br>休診日：木曜(祝日は除く)</p>
             </div>
         </div>
     </div>
@@ -31,7 +31,7 @@
             <p class="txt">スマホサイトは<br>こちら</p>
             <div class="box"><img src="/assets/img/pc/qrcode.svg"></div>
         </div>
-        <p class="txt">モアナ特設ページ<br>2分でわかるモアナのすべて</p>
+        <p class="txt">ブリススキン特設ページ<br>2分でわかるブリスのすべて</p>
         <a class="lplink" href="/features/lp1/">
             <picture>
                 <source type="image/webp" srcset="/assets/img/lplink.jpg.webp">
@@ -151,7 +151,7 @@
                             </span>
                             <span class="txtWrap">
                                 <span class="sub">当院をご検討中の方へ</span>
-                                <span class="ttl">モアナ医療脱毛<br>の特長</span>
+                                <span class="ttl">ブリス医療脱毛<br>の特長</span>
                             </span>
                             <span class="icon_toggle"></span>
                         </label>
@@ -267,7 +267,7 @@
         </label>
         <label class="menuGrpBtn" for="nav_float_features">
             <div class="icon shine"></div>
-            <span class="txt">モアナ<br>の特長</span>
+            <span class="txt">ブリス<br>の特長</span>
         </label>
         <label class="menuGrpBtn" for="nav_float_plan">
             <img class="icon" src="/assets/img/icon_plan.svg">

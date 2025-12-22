@@ -196,15 +196,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">なぜ、施術は2か月に1回なの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -233,15 +224,6 @@
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">土日は少し予約が取りづらい日も<br>あるかもしれません</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -316,7 +298,7 @@
     <section class="continueSec">
         <div class="h2b r">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">モアナVIO脱毛の特長１</div>
+            <div class="sub">ブリスVIO脱毛の特長１</div>
             <h2 class="ttl">蓄熱式だから<br>痛みが少ない</h2>
         </div>
         <div class="wrapper">
@@ -346,7 +328,7 @@
     <section>
         <div class="h2b r">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">モアナVIO脱毛の特長２</div>
+            <div class="sub">ブリスVIO脱毛の特長２</div>
             <h2 class="ttl">痛みで出力を下げても<br>熱量は減りません</h2>
         </div>
         <div class="wrapper">
@@ -369,7 +351,7 @@
     <section>
         <div class="h2b r">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">モアナVIO脱毛の特長３</div>
+            <div class="sub">ブリスVIO脱毛の特長３</div>
             <h2 class="ttl">デザイン・毛量・毛質<br>を好みにアレンジ</h2>
         </div>
         <div class="wrapper">

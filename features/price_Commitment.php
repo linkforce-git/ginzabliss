@@ -15,7 +15,7 @@
     },{
         "@type": "ListItem",
         "position": 2,
-        "name": "モアナ医療脱毛の特長",
+        "name": "ブリス医療脱毛の特長",
         "item": "https://www.moana-skin-clinic.com/features/"
     },{
         "@type": "ListItem",
@@ -36,7 +36,7 @@
         <nav class="breadcrumbs">
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li><a href="/features/">モアナ医療脱毛の特長</a></li>
+                <li><a href="/features/">ブリス医療脱毛の特長</a></li>
                 <li>公正な価格表記へのこだわり</li>
             </ol>
         </nav>
@@ -52,13 +52,6 @@
                 <div class="en">POLICY</div>
                 <h2 class="jp">当院の料金ポリシー</h2>
             </div>
-            <div class="doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="job">モアナスキンクリニック 院長</div>
-                    <div class="name">太田好紀</div>
-                </div>
-            </div>
             <div class="h3a b">
                 <div class="shine"></div>
                 <h3 class="ttl">「5万円かと思ったら、<br>40万円だった‼」他院で<br>そんな経験、ありませんか？</h3>
@@ -73,7 +66,7 @@
             </p>
             <p class="txta">当院のホームページに掲載している商品価格は、（かなり安いですが）購入不可能な釣りメニューの価格ではありません。</p>
             <p class="txta">いずれのプランも、このホームページで再三にわたりご紹介してきた“安全に照射可能な最大熱量を照射する、自慢のハイパフォーマンス脱毛”の価格です。</p>
-            <p class="txta">モアナは公正価格主義。<br>実売価格をしっかり表記しています。</p>
+            <p class="txta">銀座ブリススキンクリニックは公正価格主義。<br>実売価格をしっかり表記しています。</p>
         </div>
     </section>
     <section id="commitArea">

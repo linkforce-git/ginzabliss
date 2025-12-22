@@ -229,7 +229,7 @@
         <div class="wrapper">
             <div class="h2a">
                 <div class="en">FEATURES</div>
-                <h2 class="jp">モアナ医療脱毛の特長</h2>
+                <h2 class="jp">ブリス医療脱毛の特長</h2>
             </div>
             <a class="lplink" href="/features/lp1/">
                 <picture>

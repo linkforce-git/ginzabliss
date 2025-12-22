@@ -52,18 +52,7 @@
     <section>
         <div class="wrapper">
             <p class="txta">医療用脱毛機に使用されるレーザーは3種類あります。アレキサンドライト、ダイオード、ヤグの3つです。これら3つのレーザーの特性と効果の違いについて詳しく解説します。</p>
-            <div class="h2a">
-                <div class="en">SUPERVISION</div>
-                <h2 class="jp">この記事の監修医師</h2>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が解説します</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
-            </div>
+
             <div class="tocBox">
                 <h2 class="ttl">もくじ</h2>
                 <h3 class="sec"><a href="#sec1">1. レーザーってなに？</a></h3>
@@ -222,15 +211,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">ジェントルマックスプロが産毛に<br>対しても効果が高いかは疑問も残る…</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -244,11 +224,9 @@
             <div class="wrapper">
                 <div class="logo"></div>
                 <div class="speak">
-                    <div class="balloon">モアナスキンクリニックは<br><b>3つのレーザー同時照射の<br>エクレアプロで施術します</b></div>
+                    <div class="balloon">銀座ブリススキンクリニックは<br><b>3つのレーザー同時照射の<br>エクレアプロで施術します</b></div>
                     <div class="doctor">
                         <img class="portrait" src="/assets/img/portrait.png">
-                        <div class="job">院長</div>
-                        <div class="name">太田好紀</div>
                     </div>
                 </div>
                 <picture class="pic">
@@ -269,14 +247,6 @@
             <div class="link_nextPage">
                 <div class="txta">次ページ</div>
                 <div class="txta link"><a href="/knowledge/type">熱破壊式と蓄熱式の違い</a></div>
-            </div>
-            <div class="sv_doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="balloon">私が監修しました</div>
-                    <div class="clinic">モアナスキンクリニック</div>
-                    <div class="name"><span class="job">院長</span> 太田好紀</div>
-                </div>
             </div>
         </div>
     </section>

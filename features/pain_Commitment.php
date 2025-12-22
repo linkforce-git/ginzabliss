@@ -15,7 +15,7 @@
     },{
         "@type": "ListItem",
         "position": 2,
-        "name": "モアナ医療脱毛の特長",
+        "name": "ブリス医療脱毛の特長",
         "item": "https://www.moana-skin-clinic.com/features/"
     },{
         "@type": "ListItem",
@@ -36,7 +36,7 @@
         <nav class="breadcrumbs">
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li><a href="/features/">モアナ医療脱毛の特長</a></li>
+                <li><a href="/features/">ブリス医療脱毛の特長</a></li>
                 <li>痛み低減へのこだわり</li>
             </ol>
         </nav>
@@ -46,23 +46,6 @@
         </div>
         <?php include(__DIR__.'/../include/svg_waves.php'); ?>
     </div>
-    <section id="msgArea">
-        <div class="wrapper">
-            <div class="h3a b">
-                <div class="shine"></div>
-                <h2 class="ttl">“医療脱毛って痛そう…”<br>そんな不安を<br>抱えていませんか？</h2>
-            </div>
-            <div class="doctor">
-                <img class="portrait" src="/assets/img/portrait.png">
-                <div>
-                    <div class="job">モアナスキンクリニック<br>院長（麻酔科専門医）</div>
-                    <div class="name">太田好紀</div>
-                </div>
-            </div>
-            <p class="txta">院長の私は麻酔科専門医。痛みを取り除くスペシャリストです。<br>当院では、私が麻酔科専門医として培った知識を活かし、使用機器を厳選し、施術法・麻酔術を磨き上げ、極限まで痛みを抑えた医療脱毛を提供しています。</p>
-            <p class="txta">このページでは、そんな当院の「痛み低減へのこだわり」についてご説明します。</p>
-        </div>
-    </section>
     <section>
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
@@ -112,16 +95,7 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
-                    <h3 class="ttl">出力を下げても効果は落ちないの？</h3>
+                    <h3 class="ttl">出力を下げても効果は<br>落ちないの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
                 <div class="cBody">
@@ -148,7 +122,7 @@
     <section>
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <h2 class="ttl">モアナ脱毛って<br>痛いの？</h2>
+            <h2 class="ttl">ブリス脱毛って<br>痛いの？</h2>
         </div>
         <div class="wrapper">
             <div class="h3a b">

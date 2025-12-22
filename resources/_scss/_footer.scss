@@ -13,7 +13,7 @@ footer {
         border-radius: 6px;
     }
     .telBox {
-        height: 80px;
+        height: 108px;
         margin: 40px -5px 0;
         padding-top: 17px;
         background: #fff;
@@ -39,6 +39,7 @@ footer {
         .txt {
             margin-top: 9px;
             font-size: 10px;
+            line-height: 1.2;
         }
     }
     .schedule {
@@ -56,7 +57,12 @@ footer {
             }
             th {
                 &:first-child {
-                    width: 100px;
+//                    width: 100px;
+                    width: 16px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 16px;
                 }
                 &:not(:first-child) {
                     width: 16px;

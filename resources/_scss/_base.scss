@@ -63,7 +63,8 @@ body {
             left: min(60px, (100% - 286px) / 2);
         }
         .logo {
-            width: calc(100% - 97px);
+//            width: calc(100% - 97px);
+            width: 126px;
         }
         .h_txt {
             margin-left: 16px;
@@ -143,7 +144,7 @@ body {
             }
         }
         .telBox {
-            height: 70px;
+            height: 96px;
             padding-top: 12px;
             background: #fff;
             border-radius: 4px;
@@ -169,6 +170,7 @@ body {
                 margin-top: 9px;
                 color: $colorBk;
                 font-size: 10px;
+                line-height: 1.2;
             }
         }
     }
@@ -463,6 +465,10 @@ label {
         line-height: 32px;
         font-weight: 500;
         letter-spacing: .1em;
+        .small {
+            font-size: 15px;
+            letter-spacing: 0;
+        }
     }
     &::after {
         content: "";
@@ -1249,7 +1255,7 @@ label {
     }
     .telBox {
         max-width: 350px;
-        height: 80px;
+        height: 108px;
         margin: 0 auto;
         padding-top: 17px;
         background: #fff;
@@ -1276,6 +1282,7 @@ label {
             margin-top: 9px;
             color: $colorBk;
             font-size: 10px;
+            line-height: 1.2;
         }
     }
 }
@@ -1291,7 +1298,7 @@ label {
         color: #fff;
         position: relative;
         .cHead {
-            padding: 10px;
+            padding: 20px 10px 10px 20px;
             display: flex;
             align-items: center;
             position: relative;
@@ -1313,14 +1320,14 @@ label {
             display: none;
         }
         .ttl {
-            width: calc(100% - 110px);
+            width: calc(100% - 35px);
             margin: -3px 0 -4px;
             font-size: 15px;
             line-height: 22px;
             font-weight: 700;
             letter-spacing: .1em;
             br {
-                display: none;
+//                display: none;
             }
         }
         .icon_toggle {
@@ -1388,8 +1395,8 @@ label {
             font-family: $fontM;
         }
         .portrait {
-            width: 90px;
-            height: 116px;
+            width: 60px;
+            height: 60px;
             margin-right: 18px;
             border-radius: 45px;
         }
@@ -1412,7 +1419,7 @@ label {
         }
         .ttl {
             width: 100%;
-            margin: 24px 0 0;
+            margin: 0 0 0;
             padding-bottom: 6px;
             border-bottom: 1px solid rgba(#fff, .5);
             line-height: 26px;

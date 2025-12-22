@@ -157,15 +157,6 @@
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">なぜ、施術は2か月に1回なの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -194,15 +185,6 @@
             <input type="checkbox" id="comment02_open" class="comment_open">
             <div id="comment02" class="comment">
                 <label class="cHead" for="comment02_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">土日は少し予約が取りづらい日も<br>あるかもしれません</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -349,15 +331,6 @@
             <input type="checkbox" id="comment03_open" class="comment_open">
             <div id="comment03" class="comment">
                 <label class="cHead" for="comment03_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">照射熱量が少ないクリニックに<br>ご注意ください</h3>
                     <div class="icon_toggle"></div>
                 </label>
@@ -384,15 +357,6 @@
             <input type="checkbox" id="comment04_open" class="comment_open">
             <div id="comment04" class="comment">
                 <label class="cHead" for="comment04_open">
-                    <div class="doctor">
-                        <div class="portrait">
-                            <img src="/assets/img/portrait2.png">
-                        </div>
-                        <div>
-                            <div class="job">院長</div>
-                            <div class="name">太田 好紀</div>
-                        </div>
-                    </div>
                     <h3 class="ttl">体格差による照射熱量差も<br>ありません</h3>
                     <div class="icon_toggle"></div>
                 </label>
