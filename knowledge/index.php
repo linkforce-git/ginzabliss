@@ -116,7 +116,7 @@
                             <div class="num"><span>3</span><img src="/assets/img/slash.svg"><span>8</span></div>
                             <div class="ttl"><a href="/knowledge/guideline">医療脱毛の<br>施術回数と効果</a></div>
                         </div>
-                        <p class="txta">施術部位別に、施術回数と効果の目安について説明します。一般値とされる目安に加え、当院症例における実績データ（顧客アンケ―トにより取得したデータ）も公開します。</p>
+                        <p class="txta">施術部位別に、施術回数と効果の目安について説明します。一般値とされる目安に加え、実績データも公開します。</p>
                         <div class="linkWrap">
                             <div class="state"><?= isset($_COOKIE['read_knowledge_guideline']) ? '閲覧済みです' : 'まだ読んでいません' ?></div>
                             <a class="link" href="/knowledge/guideline"><div class="arw"></div>VIEW MORE</a>
@@ -242,7 +242,7 @@
                 <li><a href="/features/pain_Commitment">痛み低減へのこだわり</a></li>
                 <li><a href="/features/price_Commitment">公正な価格表記へのこだわり</a></li>
                 <li><a href="/features/machine">当院脱毛機の特長と効果の違い</a></li>
-                <li><a href="/features/review">お客様アンケート結果</a></li>
+                <li><a href="/features/review">エクレアプロに関するアンケート結果</a></li>
                 <li><a href="/features/faq">当院サービスに関するQ&amp;A</a></li>
             </ul>
         </div>

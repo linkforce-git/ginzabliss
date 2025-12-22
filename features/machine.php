@@ -295,7 +295,7 @@
                 <li><a href="/features/pain_Commitment">痛み低減へのこだわり</a></li>
                 <li><a href="/features/price_Commitment">公正な価格表記へのこだわり</a></li>
                 <li class="current">当院脱毛機の特長と効果の違い</li>
-                <li><a href="/features/review">お客様アンケート結果</a></li>
+                <li><a href="/features/review">エクレアプロに関するアンケート結果</a></li>
                 <li><a href="/features/faq">当院サービスに関するQ&amp;A</a></li>
             </ul>
         </div>

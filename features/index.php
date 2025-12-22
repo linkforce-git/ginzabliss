@@ -152,9 +152,9 @@
                     <div class="inner">
                         <div class="head">
                             <div class="num"><span>5</span><img src="/assets/img/slash.svg"><span>6</span></div>
-                            <div class="ttl"><a href="/features/review">お客様アンケート結果</a></div>
+                            <div class="ttl"><a href="/features/review">エクレアプロに関する<br>アンケート結果　</a></div>
                         </div>
-                        <p class="txta">お客様アンケートに基づく統計データを公開しています。施術効果、施術の痛み、予約の取りやすさなど、当院サービスを他のお客様がどのように評価しているのか、ぜひご覧になってください。</p>
+                        <p class="txta">アンケートに基づく統計データを公開しています。施術効果、施術の痛み、予約の取りやすさなど、当院サービスを他のお客様がどのように評価しているのか、ぜひご覧になってください。</p>
                         <div class="linkWrap">
                             <div class="state"><?= isset($_COOKIE['read_features_review']) ? '閲覧済みです' : 'まだ読んでいません' ?></div>
                             <a class="link" href="/features/review"><div class="arw"></div>VIEW MORE</a>
