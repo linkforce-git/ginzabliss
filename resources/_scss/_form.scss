@@ -1,0 +1,392 @@
+@charset "UTF-8";
+
+// ------------------------------
+//  テキストボックス
+// ------------------------------
+// テキストボックスベースクラス
+.inputText {
+    position: relative;
+    display: inline-block;
+    input, select, textarea {
+        position: relative;
+        z-index: 1;
+        outline: none;
+        box-sizing: border-box;
+        background: transparent;
+        &::-ms-clear {
+            visibility: hidden
+        }
+    }
+    img {
+        position: absolute;
+        z-index: 2;
+        top: 0;
+        bottom: 0;
+        margin: auto 0;
+        pointer-events: none;
+    }
+}
+
+// テキストボックスサンプル１
+.inputText1 {
+    width: 100%;
+    input, select {
+        width: 100%;
+        height: 40px;
+        padding: 0 10px;
+        border-radius: 3px;
+        color: $colorBk;
+        font-size: 15px;
+        letter-spacing: .1em;
+        background: transparent;
+        border: none;
+        border: 1px solid $colorGy2;
+        appearance: none;
+        font-family: $fontG;
+        &::-ms-clear {
+            visibility: hidden
+        }
+        &::placeholder{
+            color: $colorBk;
+        }
+    }
+}
+
+
+// ------------------------------
+//  チェックボックス
+// ------------------------------
+//
+.checkBoxGrp {
+    margin-top: 10px;
+    margin-bottom: -6px;
+    label.error {
+        margin-bottom: 6px;
+    }
+}
+
+
+// チェックボックスベースクラス
+.inputCheck {
+    position: relative;
+    input {
+        display: none;
+    }
+    label {
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+        white-space: nowrap;
+        &::before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            margin: auto 0;
+        }
+    }
+    input:checked + label::after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        margin: auto 0;
+    }
+}
+
+
+// チェックボックスサンプル１
+.inputCheck1 {
+    font-size: 12px;
+    line-height: 16px;
+    label {
+        padding-left: 20px;
+        letter-spacing: .1em;
+        &::before{
+            width: 16px;
+            height: 16px;
+            border: 1px solid $colorGy2;
+            border-radius: 2px;
+        }
+    }
+    input:checked + label {
+        &::after {
+            width: 10px;
+            height: 9px;
+            background: $colorGy;
+            mask: url(../img/check.svg) center/100% 100% no-repeat;
+            left: 3px;
+        }
+    }
+}
+
+.inputCheck2, .inputCheck3 {
+    line-height: 30px;
+    label {
+        padding-left: 30px;
+        font-size: 14px;
+        &::before{
+            width: 18px;
+            height: 18px;
+            border: 1px solid $colorGy2;
+            border-radius: 2px;
+        }
+    }
+}
+.inputCheck2 {
+    input:checked + label {
+        &::after {
+            width: 11px;
+            height: 10px;
+            background: $colorGy;
+            mask: url(../img/check.svg) center/100% 100% no-repeat;
+            left: 4px;
+        }
+    }
+}
+.inputCheck3 {
+    label {
+        &::before{
+            border-radius: 50%;
+        }
+    }
+    input:checked + label {
+        &::after {
+            width: 8px;
+            height: 8px;
+            background-color: $colorGy;
+            border-radius: 50%;
+            left: 5px;
+        }
+    }
+}
+
+
+#reserv_open {
+    display: none;
+    &:checked ~ #reserv_popup {
+        opacity: 1;
+        pointer-events: auto;
+        transition: opacity .5s;
+    }
+}
+#reserv_popup {
+    width: 100%;
+    height: 100%;
+    padding: 24px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 300;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0s;
+    .bg {
+        display: block;
+        width: 100%;
+        height: 100%;
+        background: rgba($colorBk, .6);
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .wrapper {
+        width: calc(350 / 390 * 100%);
+        max-width: calc(350 / 390 * 450px);
+        height: 100%;
+        margin: 0 auto;
+        padding-top: 40px;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0px 10px 40px 0px rgba(4, 78, 88, 0.20);
+        overflow: hidden;
+        position: relative;
+        @media (min-width: 768px) {
+            width: 350px;
+        }
+    }
+    .close {
+        width: 58px;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 3px;
+        font-family: $fontEC;
+        font-size: 12px;
+        font-weight: 700;
+        &::before {
+            content: "";
+            display: block;
+            width: 6px;
+            height: 6px;
+            margin-top: 1px;
+            background: currentColor;
+            mask: url(../img/close.svg) center/contain no-repeat;
+        }
+        &.hClose {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1;
+        }
+    }
+    .ttl {
+        margin: -6px 0;
+        padding-left: .14em;
+        text-align: center;
+        font-family: $fontM;
+        font-size: 20px;
+        line-height: 32px;
+        font-weight: 500;
+        letter-spacing: .14em;
+    }
+    .formWrap {
+        height: 100%;
+        padding: 10px 0 30px;
+        overflow-y: auto;
+    }
+    .formBox {
+        width: 290px;
+        margin: 45px auto 0;
+        .formUnit {
+            margin-top: 20px;
+            .formUnitHead {
+                font-size: 15px;
+                font-weight: 700;
+                letter-spacing: .1em;
+                .required {
+                    color: #E71F19;
+                    font-size: 10px;
+                    letter-spacing: .1em;
+                }
+            }
+            .formUnitBody {
+                margin-top: 10px;
+            }
+        }
+        .calendar, .time {
+            width: 240px;
+            img {
+                width: 16px;
+                left: 11px;
+            }
+            input, select {
+                padding-left: 36px;
+            }
+        }
+        .time {
+            margin-top: 10px;
+        }
+        .age {
+            width: 60px;
+            vertical-align: 6px;
+        }
+    }
+    .privacyBox {
+        margin-top: 30px;
+        text-align: center;
+        color: $colorGy;
+        a {
+            text-decoration: underline;
+        }
+    }
+    #btnReserv {
+        width: 260px;
+        height: 60px;
+        margin: 12px auto 0;
+        background: $colorGy;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-family: $fontM;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: .06em;
+        cursor: pointer;
+    }
+    .note {
+        margin-top: 10px;
+        padding-left: .14em;
+        text-align: center;
+        font-family: $fontM;
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: .14em;
+    }
+    label.error {
+        display: block;
+        color: #f00;
+        font-size: 12px;
+        letter-spacing: .05em;
+        margin-top: 8px;
+    }
+    .thanksWrap {
+        display: none;
+        height: 100%;
+        padding: 25px 0 30px;
+        overflow-y: auto;
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        .txt {
+            margin: -4px -.1em -5px 0;
+            font-size: 13px;
+            line-height: 22px;
+            letter-spacing: .1em;
+        }
+        .grp1 {
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            gap: 20px;
+        }
+        .grp2 {
+            width: 290px;
+            margin: 60px auto 80px;
+            .head {
+                margin: -5px 0 20px;
+                padding-bottom: 6px;
+                border-bottom: 1px solid $colorGy2;
+                font-size: 15px;
+                line-height: 26px;
+                font-weight: 700;
+                letter-spacing: .1em;
+                &:not(:first-child) {
+                    margin-top: 45px;
+                }
+            }
+            .tel {
+                display: block;
+                margin: 8px 0 11px;
+                font-family: $fontEG;
+                font-size: 20px;
+                letter-spacing: .1em;
+            }
+        }
+        .pic {
+            width: 95px;
+            margin-top: 40px;
+        }
+        .logo {
+            width: 173px;
+            margin: 36px 0 10px;
+        }
+        .close {
+            margin: auto auto 0;
+        }
+    }
+    &.thanks {
+        .formWrap {
+            display: none;
+        }
+        .thanksWrap {
+            display: flex;
+        }
+    }
+}

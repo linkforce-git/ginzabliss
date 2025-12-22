@@ -1,0 +1,37 @@
+<html>
+<body style="font-size: 13px;">
+<pre style="font-family:inherit;margin:0;">
+受付担当者様
+
+ホームページより「カウンセリング予約」がありました。
+</pre>
+<div style="text-decoration: underline;">第一希望日に予約を入れてください。</div>
+<pre style="font-family:inherit;margin:0;">
+空いていない場合は、第二希望日またはお客様と電話でご相談して日程調整をしてください。
+
+なお、予約日時の確定後、「予約日時確定連絡メール」をお客様にお送りください。
+よろしくお願いします。
+
+────────────────────
+◆ お申込内容
+────────────────────
+
+</pre>
+<div style="font-weight: bold;">お名前：</div>
+　{reserv_name}
+<div style="font-weight: bold;">電話番号：</div>
+　{reserv_tel}
+<div style="font-weight: bold;">メールアドレス：</div>
+　{reserv_email}
+<div style="font-weight: bold;">年齢：</div>
+　{reserv_age}歳
+<div style="font-weight: bold;">予約希望日時第一希望：</div>
+　{reserv_date1} {reserv_time1}
+<div style="font-weight: bold;">予約希望日時第二希望：</div>
+　{reserv_date2} {reserv_time2}
+<div style="font-weight: bold;">ご希望の部位：</div>
+　{reserv_request}
+<div style="font-weight: bold;">はじめてのご来院ですか？：</div>
+　{reserv_first}
+</body>
+</html>

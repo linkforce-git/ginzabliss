@@ -1,0 +1,441 @@
+@charset "UTF-8";
+
+body#features {
+    #fv {
+        position: relative;
+        .bg {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            &::after {
+                content: "";
+                display: block;
+                width: 100%;
+                height: 100%;
+                background: #FFF;
+                opacity: 0.6;
+                mix-blend-mode: soft-light;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            video {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+    #conceptArea {
+        padding-bottom: 0;
+        .concept {
+            display: block;
+            width: calc(352 / 350 * 100%);
+            margin: 0 0 40px calc(-2 / 350 * 100%);
+        }
+        .lplink {
+            margin-top: 60px;
+        }
+        .waves {
+            margin-top: 60px;
+            fill: $color_bg;
+        }
+    }
+    #featuresArea {
+        padding-top: 40px;
+    }
+}
+
+body.features {
+    main {
+        em {
+            background: $colorB3;
+            font-weight: 700;
+        }
+    }
+    .tocBox {
+        .ttl {
+            background: $colorB2;
+        }
+        .subsec li::before {
+            background: $colorB1;
+        }
+    }
+    .box {
+        padding: 20px calc(20 / 350 * 100%);
+        background: #fff;
+        border-radius: 6px;
+        box-shadow: 0px 10px 20px 0px rgba(50, 57, 59, 0.12);
+        &:not(:first-child) {
+            margin-top: 30px;
+        }
+        &:not(:last-child) {
+            margin-bottom: 30px;
+        }
+    }
+    .cap1 {
+        margin: 14px -.1em 24px 0;
+        text-align: center;
+        font-family: $fontM;
+        font-size: 20px;
+        line-height: 32px;
+        font-weight: 500;
+        letter-spacing: .1em;
+    }
+    .cap2 {
+        margin-bottom: 20px;
+        padding: 9px 0 9px .1em;
+        background: $colorBk;
+        border-radius: 6px;
+        text-align: center;
+        color: #fff;
+        font-size: 18px;
+        line-height: 26px;
+        letter-spacing: .1em;
+        &.b {
+            background: $colorB2;
+        }
+        b {
+            font-weight: 700;
+        }
+    }
+}
+
+body#effect_Commitment {
+    #fv {
+        background-image: url(../img/features/effect_Commitment/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/features/effect_Commitment/fv.jpg);
+        }
+    }
+    .continueSec {
+        padding-bottom: 30px;
+    }
+    .next_arw {
+        width: 10px;
+        height: 42px;
+        margin: 40px auto 0;
+        background: $colorB1;
+        mask: url(../img/next.svg) center/100% 100% no-repeat;
+    }
+    .box.inline {
+        box-shadow: none;
+    }
+    .fig1, .fig4, .fig5 {
+        margin-bottom: 10px;
+    }
+    .fig2 {
+        margin-bottom: 30px;
+        border-radius: 6px;
+    }
+    .fig3 {
+        margin-bottom: 20px;
+    }
+    .fig7 {
+        margin: 20px 0 10px;
+    }
+    .fig8 {
+        margin: 40px 0 30px;
+    }
+    .fig9 {
+        margin-bottom: 30px;
+    }
+}
+
+body#pain_Commitment {
+    #fv {
+        background-image: url(../img/features/pain_Commitment/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/features/pain_Commitment/fv.jpg);
+        }
+    }
+    #msgArea {
+        .doctor {
+            margin-bottom: 35px;
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            font-family: $fontM;
+            font-weight: 500;
+            .portrait {
+                width: 96px;
+            }
+            .job {
+                margin-bottom: 10px;
+                padding: 3px calc(11px - .1em) 4px 11px;
+                background: $colorBk;
+                border-radius: 2px;
+                color: #fff;
+                font-size: 12px;
+                line-height: 16px;
+                letter-spacing: .1em;
+            }
+            .name {
+                font-size: 21px;
+                letter-spacing: .14em;
+            }
+            +.h3a {
+                margin-top: 40px;
+            }
+        }
+    }
+    .box {
+        padding-bottom: 30px;
+        +.box {
+            margin-top: -10px;
+        }
+    }
+    .fig1 {
+        margin-bottom: 20px;
+    }
+    .fig2 {
+        margin-top: 60px;
+    }
+}
+
+body#price_Commitment {
+    #fv {
+        background-image: url(../img/features/price_Commitment/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/features/price_Commitment/fv.jpg);
+        }
+    }
+    #policyArea {
+        .doctor {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            font-family: $fontM;
+            font-weight: 500;
+            .portrait {
+                width: 96px;
+            }
+            .job {
+                margin-bottom: 10px;
+                padding: 4px calc(13px - .1em) 4px 13px;
+                background: $colorBk;
+                border-radius: 2px;
+                color: #fff;
+                font-size: 12px;
+                letter-spacing: .1em;
+            }
+            .name {
+                font-size: 21px;
+                letter-spacing: .14em;
+            }
+            +.h3a {
+                margin-top: 40px;
+            }
+        }
+    }
+    #commitArea {
+        .listBox {
+            margin: 30px 0;
+            padding: 20px calc(20 / 350 * 100%);
+            background: #fff;
+            border-radius: 4px;
+            display: flex;
+            flex-flow: column;
+            gap: 11px;
+            font-size: 15px;
+            line-height: 20px;
+            letter-spacing: .06em;
+            li {
+                padding-left: 23px;
+                position: relative;
+                &::before {
+                    content: "";
+                    width: 11.5px;
+                    height: 10px;
+                    background: $colorB1;
+                    mask: url(../img/check.svg) center/100% 100% no-repeat;
+                    position: absolute;
+                    top: calc(50% - 4.5px);
+                    left: 1.5px;
+                }
+            }
+        }
+        .next_arw {
+            width: 10px;
+            height: 42px;
+            margin: 30px auto;
+            background: $colorB1;
+            mask: url(../img/next.svg) center/100% 100% no-repeat;
+        }
+    }
+}
+
+body#machine {
+    #fv {
+        background-image: url(../img/features/machine/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/features/machine/fv.jpg);
+        }
+        .ttl span {
+            font-size: 16px;
+            letter-spacing: .2em;
+        }
+    }
+    #tocArea {
+        .sv_doctor {
+            margin-bottom: 60px;
+        }
+        #suppl01 {
+            .h3a .ttl span {
+                color: $colorB1;
+                font-size: 16px;
+            }
+        }
+    }
+    .fig1 {
+        margin-bottom: -10px;
+    }
+    .box+.box {
+        margin-top: -10px;
+    }
+    .txt_fig {
+        margin: 15px -.1em 4px 0;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: .1em;
+    }
+    .fig5, .fig6, .fig7 {
+        margin-bottom: 10px;
+    }
+    .fig9, .fig10 {
+        margin-bottom: 20px;
+    }
+    .list_item {
+        padding-left: 20px;
+        font-weight: 700;
+        position: relative;
+        &::before {
+            content: "";
+            width: 11.5px;
+            height: 10px;
+            background: $colorB1;
+            mask: url(../img/check.svg) center/100% 100% no-repeat;
+            position: absolute;
+            top: calc(50% - 4.5px);
+            left: 1.5px;
+        }
+    }
+}
+
+body#review {
+    #fv {
+        background-image: url(../img/features/review/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/features/review/fv.jpg);
+        }
+    }
+    .box {
+        padding-bottom: 30px;
+    }
+}
+
+body#faq {
+    #fv {
+        background-image: url(../img/features/faq/fv.jpg.webp);
+        background-position: bottom;
+        .no-webp & {
+            background-image: url(../img/features/faq/fv.jpg);
+        }
+    }
+    #tocArea {
+        padding-bottom: 40px;
+        .box {
+            margin-top: 40px;
+            padding-bottom: 40px;
+            background: $color_bg;
+            box-shadow: none;
+        }
+        .ttl {
+            height: 45px;
+            padding-left: .1em;
+            background: $colorB2;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: #fff;
+            font-size: 17px;
+            font-weight: 700;
+            letter-spacing: .1em;
+        }
+        .cat {
+            margin: 40px 0 28px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid currentColor;
+            font-size: 17px;
+            font-weight: 700;
+            letter-spacing: .1em;
+        }
+        .toc {
+            margin: -5px -.1em -6px 0;
+            padding-left: 20px;
+            font-size: 15px;
+            line-height: 26px;
+            letter-spacing: .1em;
+            li {
+                position: relative;
+                &::before {
+                    content: "";
+                    display: block;
+                    width: 4px;
+                    height: 4px;
+                    background: $color_link;
+                    border-radius: 50%;
+                    position: absolute;
+                    top: 11px;
+                    left: -14px;
+                }
+            }
+        }
+        .next_arw {
+            width: 10px;
+            height: 42px;
+            margin: 40px auto 0;
+            background: $colorB1;
+            mask: url(../img/next.svg) center/100% 100% no-repeat;
+        }
+    }
+    .qaList {
+        .q {
+            min-height: 35px;
+            margin-bottom: 25px;
+            padding: 2px 0 0 49px;
+            font-size: 17px;
+            line-height: 26px;
+            font-weight: 700;
+            letter-spacing: .1em;
+            white-space: nowrap;
+            position: relative;
+            &:not(:first-child) {
+                margin-top: 70px;
+            }
+            &::before {
+                content: "Q";
+                display: block;
+                width: 30px;
+                height: 30px;
+                background: $colorGy;
+                border-radius: 2px;
+                text-align: center;
+                color: #fff;
+                font-family: $fontEC;
+                font-size: 16px;
+                line-height: 28px;
+                font-weight: 500;
+                letter-spacing: 0;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+        }
+    }
+}

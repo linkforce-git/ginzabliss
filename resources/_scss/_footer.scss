@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+footer {
+    .wrapper {
+        width: calc(310 / 390 * 100%);
+        min-width: 310px;
+        margin: 60px auto 90px;
+    }
+    .map {
+        width: 100%;
+        margin-bottom: 20px;
+        vertical-align: top;
+        border-radius: 6px;
+    }
+    .telBox {
+        height: 80px;
+        margin: 40px -5px 0;
+        padding-top: 17px;
+        background: #fff;
+        border-radius: 4px;
+        text-align: center;
+        .link {
+            color: $color_link;
+            text-decoration: underline;
+            text-underline-offset: 0px;
+            text-decoration-skip-ink: none;
+        }
+        .tel {
+            font-family: $fontEC;
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: .09em;
+        }
+        .num {
+            font-family: $fontEG;
+            font-size: 30px;
+            letter-spacing: .04em;
+        }
+        .txt {
+            margin-top: 9px;
+            font-size: 10px;
+        }
+    }
+    .schedule {
+        width: 100%;
+        margin: 47px 0 20px;
+        font-family: $fontM;
+        white-space: nowrap;
+        thead {
+            tr {
+                height: 66px;
+                border-top: 1px solid $colorGy2;
+                border-bottom: 1px solid $colorGy2;
+                display: flex;
+                justify-content: space-between;
+            }
+            th {
+                &:first-child {
+                    width: 100px;
+                }
+                &:not(:first-child) {
+                    width: 16px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 16px;
+                }
+            }
+        }
+        tbody {
+            tr {
+                height: 65px;
+                border-bottom: 1px solid $colorGy2;
+                display: flex;
+                justify-content: space-between;
+            }
+            th {
+                width: 100px;
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                font-size: 14px;
+                letter-spacing: .1em;
+                .compact {
+                    letter-spacing: -.02em;
+                }
+            }
+            td {
+                width: 16px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                .open {
+                    display: block;
+                    width: 10px;
+                    height: 10px;
+                    background: currentColor;
+                    border-radius: 50%;
+                }
+                .close {
+                    display: block;
+                    width: 10px;
+                    height: 1px;
+                    background: currentColor;
+                }
+            }
+        }
+    }
+    .waveBox {
+        height: 200px;
+        background: linear-gradient(transparent 30px, $colorB2 30px, $colorB2 66px, #00AFAF);
+        position: relative;
+    }
+    .sun {
+        position: absolute;
+        top: -69px;
+        left: calc(50% - 80px);
+    }
+    .waves {
+        fill: $colorB2;
+        position: relative;
+    }
+    .shine {
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        top: -10px;
+        left: calc(50% - 20px);
+    }
+    .logo {
+        display: block;
+        width: 235px;
+        height: 76px;
+        margin: 26px auto 0;
+        background: #fff;
+        mask: url(../img/logo.png) center/contain no-repeat;
+    }
+    .copy {
+        margin-top: 27px;
+        color: #fff;
+        text-align: center;
+        font-family: $fontEC;
+        font-size: 13px;
+        font-weight: 600;
+        letter-spacing: .1em;
+    }
+}

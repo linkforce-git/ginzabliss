@@ -1,0 +1,134 @@
+@charset "UTF-8";
+
+body#access {
+    #fv {
+        background-image: url(../img/access/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/access/fv.jpg);
+        }
+    }
+    .mainSec {
+        background: #fff;
+        .map {
+            width: 100%;
+            margin-bottom: 30px;
+            vertical-align: top;
+            border-radius: 6px;
+        }
+        .telBox {
+            text-align: center;
+            .link {
+                margin: -7px 0 -5px;
+                color: $color_link;
+                text-decoration: underline;
+                text-underline-offset: 2px;
+                text-decoration-skip-ink: none;
+            }
+            .tel {
+                font-family: $fontEC;
+                font-size: 16px;
+                font-weight: 600;
+                letter-spacing: .09em;
+            }
+            .num {
+                font-family: $fontEG;
+                font-size: 40px;
+                letter-spacing: .04em;
+            }
+            .txta {
+                margin-top: 15px;
+            }
+        }
+        .scBox {
+            width: calc(310 / 350 * 100%);
+            margin: 0 auto;
+        }
+        .schedule {
+            width: 100%;
+            margin-bottom: 20px;
+            font-family: $fontM;
+            white-space: nowrap;
+            thead {
+                tr {
+                    height: 41px;
+                    border-bottom: 1px solid $colorGy2;
+                    display: flex;
+                    justify-content: space-between;
+                }
+                th {
+                    &:first-child {
+                        width: 100px;
+                    }
+                    &:not(:first-child) {
+                        width: 16px;
+                        display: flex;
+                        align-items: flex-start;
+                        justify-content: center;
+                        font-size: 16px;
+                    }
+                }
+            }
+            tbody {
+                tr {
+                    height: 65px;
+                    border-bottom: 1px solid $colorGy2;
+                    display: flex;
+                    justify-content: space-between;
+                }
+                th {
+                    width: 100px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: flex-start;
+                    font-size: 14px;
+                    letter-spacing: .1em;
+                    .compact {
+                        letter-spacing: -.02em;
+                    }
+                }
+                td {
+                    width: 16px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    .open {
+                        display: block;
+                        width: 10px;
+                        height: 10px;
+                        background: currentColor;
+                        border-radius: 50%;
+                    }
+                    .close {
+                        display: block;
+                        width: 10px;
+                        height: 1px;
+                        background: currentColor;
+                    }
+                }
+            }
+        }
+        .doctor {
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            font-family: $fontM;
+            font-weight: 500;
+            .portrait {
+                width: 96px;
+            }
+            .clinic {
+                margin-bottom: 10px;
+                font-size: 12px;
+            }
+            .name {
+                font-size: 21px;
+                letter-spacing: .14em;
+            }
+            .job {
+                font-size: 15px;
+                letter-spacing: .1em;
+            }
+        }
+    }
+}

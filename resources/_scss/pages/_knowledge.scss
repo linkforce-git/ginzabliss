@@ -1,0 +1,785 @@
+@charset "UTF-8";
+
+body.knowledge {
+    header.fv {
+        padding: 11px 0;
+        background: rgba(#fff, .6);
+    }
+    #fv {
+        padding-top: 78px;
+        position: relative;
+        .breadcrumbs {
+            position: absolute;
+            right: calc(20 / 390 * 100%);
+            bottom: 0;
+            z-index: 1;
+        }
+        >.wrapper {
+            min-height: 180px;
+            padding-bottom: 0;
+            justify-content: flex-end;
+        }
+        .sub {
+            width: fit-content;
+            margin: 0 0 15px 0;
+            padding: 4px calc(17px - .1em) 4px 17px;
+            background: $colorGy;
+            border-radius: 4px;
+            color: #fff;
+            font-size: 14px;
+            line-height: 23px;
+            letter-spacing: .1em;
+            position: relative;
+            &::after {
+                content: "";
+                display: block;
+                width: 9px;
+                height: 9px;
+                background: $colorGy;
+                clip-path: polygon(0 0, 100% 0, 100% 100%);
+                position: absolute;
+                left: 35px;
+                bottom: -8px;
+            }
+        }
+        .ttlGrp {
+            gap: 5px;
+            .ttl {
+                margin: 0 0 0 calc(-20 / 350 * 100%);
+                padding: 10px calc(16px - .2em) 10px calc(20 / 350 * 100%);
+                background: rgba(#fff, .8);
+                font-size: 25px;
+                line-height: 1;
+            }
+            .small {
+                margin: 0 0 0 calc(-20 / 350 * 100%);
+                padding: 10px calc(15px - .2em) 10px calc(20 / 350 * 100%);
+                background: rgba(#fff, .8);
+                font-size: 15px;
+                letter-spacing: .2em;
+            }
+        }
+    }
+    main {
+        em {
+            background: $colorY3;
+            font-weight: 700;
+        }
+    }
+    .box {
+        padding: 20px calc(20 / 350 * 100%);
+        background: #fff;
+        border-radius: 6px;
+        box-shadow: 0px 10px 20px 0px rgba(50, 57, 59, 0.12);
+        &:not(:first-child) {
+            margin-top: 40px;
+        }
+        &:not(:last-child) {
+            margin-bottom: 40px;
+        }
+    }
+    .cap1 {
+        margin: 14px -.1em 24px 0;
+        text-align: center;
+        font-family: $fontM;
+        font-size: 20px;
+        line-height: 32px;
+        font-weight: 500;
+        letter-spacing: .1em;
+    }
+    .cap2 {
+        margin-bottom: 20px;
+        padding: 9px 0 9px .1em;
+        background: $colorBk;
+        border-radius: 6px;
+        text-align: center;
+        color: #fff;
+        font-size: 18px;
+        line-height: 26px;
+        letter-spacing: .1em;
+        &.y {
+            background: $colorY2;
+        }
+        b {
+            font-weight: 700;
+        }
+    }
+    .link_nextPage {
+        margin-bottom: 70px;
+    }
+    .approach {
+        margin-top: 70px;
+        padding: 38px 0 50px;
+        background: #fff url(../img/knowledge/approach_bg.jpg.webp) top/100% no-repeat;
+        color: #fff;
+        position: relative;
+        .no-webp & {
+            background-image: url(../img/knowledge/approach_bg.jpg);
+        }
+        &::before {
+            content: "";
+            display: block;
+            width: 100%;
+            height: 100%;
+            background: rgba(#00A4BC, .76);
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        >.wrapper {
+            width: calc(350 / 390 * 100%);
+            margin: 0 auto;
+            position: relative;
+        }
+        .logo {
+            width: 218px;
+            height: 65px;
+            margin: 0 auto 12px;
+            background: #fff;
+            mask: url(../img/logo.png) left/contain no-repeat;
+        }
+        .speak {
+            padding-right: calc(20 / 350 * 100%);
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            &:not(:last-child) {
+                margin-bottom: 25px;
+            }
+        }
+        .balloon {
+            width: calc(100% - 100px);
+            margin-top: 15px;
+            padding: 14px 0 13px 24px;
+            background: #fff;
+            border-radius: 6px;
+            color: $colorBk;
+            font-size: 14px;
+            line-height: 21px;
+            letter-spacing: .1em;
+            position: relative;
+            &::after {
+                content: "";
+                width: 12px;
+                height: 12px;
+                background: #fff;
+                clip-path: polygon(0 0, 100% 50%, 0 100%);
+                position: absolute;
+                top: 22px;
+                right: -11px;
+            }
+            b {
+                font-weight: 700;
+            }
+        }
+        .doctor {
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            font-family: $fontM;
+            font-weight: 500;
+        }
+        .portrait {
+            width: 75px;
+            margin-bottom: 6px;
+        }
+        .job {
+            margin-bottom: 5px;
+            padding: 2px calc(7px - .1em) 2px 7px;
+            background: $colorBk;
+            border-radius: 2px;
+            color: #fff;
+            font-size: 10px;
+            letter-spacing: .1em;
+        }
+        .name {
+            margin-right: -.14em;
+            font-size: 16px;
+            letter-spacing: .14em;
+        }
+        .pic {
+            display: block;
+            margin: 30px 0;
+            img {
+                border-radius: 6px;
+            }
+        }
+        a {
+            color: #fff;
+        }
+    }
+}
+
+body#knowledge {
+    #fv {
+        background-image: url(../img/knowledge/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/fv.jpg);
+        }
+    }
+    #ncssryArea {
+        padding-bottom: 0;
+        .listBox {
+            margin-bottom: 30px;
+            padding: 20px calc(20 / 350 * 100%) 40px;
+            background: $color_bg;
+            border-radius: 6px;
+            .head {
+                margin-bottom: 30px;
+                padding: 9px 0 9px .1em;
+                background: $colorY2;
+                border-radius: 6px;
+                text-align: center;
+                color: #fff;
+                font-size: 18px;
+                line-height: 26px;
+                letter-spacing: .1em;
+            }
+            ul {
+                margin: -2px 0 -3px;
+                display: flex;
+                flex-flow: column;
+                gap: 11px;
+                font-size: 15px;
+                line-height: 20px;
+                letter-spacing: .06em;
+            }
+            li {
+                padding-left: 23px;
+                position: relative;
+                &::before {
+                    content: "";
+                    width: 11.5px;
+                    height: 10px;
+                    background: $colorY1;
+                    mask: url(../img/check.svg) center/100% 100% no-repeat;
+                    position: absolute;
+                    top: calc(50% - 4.5px);
+                    left: 1.5px;
+                }
+            }
+        }
+        .waves {
+            margin-top: 100px;
+            fill: $color_bg;
+        }
+    }
+    #explainArea {
+        padding-top: 40px;
+    }
+    #featuresArea{
+        .lplink {
+            margin-bottom: 50px;
+        }
+    }
+}
+
+body#principle {
+    #fv {
+        background-image: url(../img/knowledge/principle/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/principle/fv.jpg);
+        }
+    }
+    .treat_flow {
+        margin-bottom: 40px;
+    }
+    #suppl01_open {
+        & + .folder {
+            max-height: 154px;
+            padding-top: 154px;
+            background: #fff;
+            opacity: 1;
+            .h2b {
+                opacity: 0;
+                transition: opacity .5s;
+            }
+            >.wrapper {
+                width: calc(350 / 390 * 100%);
+                margin: 0 auto;
+                opacity: 0;
+                transition: opacity .5s;
+            }
+            & + .btn_toggle {
+                margin-top: -154px;
+            }
+        }
+        &:checked + .folder {
+            max-height: 2000px;
+            padding-top: 0;
+            background: none;
+            .h2b {
+                opacity: 1;
+            }
+            >.wrapper {
+                opacity: 1;
+            }
+            & + .btn_toggle {
+                margin-top: 0;
+            }
+        }
+    }
+    .fig1_list {
+        margin-top: 40px;
+        li>.box {
+            margin: 20px 0;
+            padding-top: 30px;
+            padding-bottom: 35px;
+            display: flex;
+            gap: calc(24 / 310 * 100%);
+        }
+        picture {
+            width: calc(134 / 310 * 100%);
+        }
+        .txtGrp {
+            width: calc(145 / 310 * 100%);
+            padding-top: 5px;
+        }
+        .num {
+            width: 34px;
+            height: 34px;
+            margin: 0 auto 20px;
+            background: $colorGy;
+            border-radius: 50%;
+            color: #fff;
+            text-align: center;
+            font-family: $fontEG;
+            font-size: 16px;
+            line-height: 32px;
+        }
+        .txt {
+            margin: -5px -.1em -6px 0;
+            font-size: 13px;
+            line-height: 24px;
+            letter-spacing: .1em;
+        }
+    }
+    #suppl02_open {
+        &:checked + .folder {
+            margin-top: 70px;
+            & + .btn_toggle {
+                margin-bottom: 70px;
+            }
+        }
+    }
+    .fig2 {
+        margin-bottom: 20px;
+    }
+    .fig3 {
+        margin-bottom: 40px;
+    }
+    .fig4 {
+        margin-top: 40px;
+    }
+    .fig5 {
+        display: block;
+        width: calc(182 / 350 * 100%);
+        margin: 0 auto 40px;
+    }
+    .fig6 {
+        margin-top: 40px;
+    }
+}
+
+body#reason {
+    #fv {
+        background-image: url(../img/knowledge/reason/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/reason/fv.jpg);
+        }
+    }
+    .fig1, .fig2, .fig3, .fig4 {
+        margin: 40px 0;
+    }
+}
+
+body#guideline {
+    #fv {
+        background-image: url(../img/knowledge/guideline/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/guideline/fv.jpg);
+        }
+    }
+    .box {
+        margin-bottom: 30px;
+    }
+    .fig1, .fig4, .fig7 {
+        display: block;
+        width: 314px;
+        max-width: none;
+        margin: 0 calc(50% - 157px) 20px;
+    }
+    .fig2, .fig3,
+    .fig5, .fig6,
+    .fig8, .fig9 {
+        margin-bottom: 20px;
+    }
+    .box_fig2,
+    .box_fig5,
+    .box_fig8 {
+            margin-top: 30px;
+    }
+    .timesBox {
+        margin-bottom: 30px;
+        padding: 40px calc(20 / 350 * 100%);
+        background: #fff;
+        border-radius: 6px;
+        .head {
+            width: fit-content;
+            margin: 0 auto 30px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid $colorGy2;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            font-family: $fontM;
+            font-size: 20px;
+            line-height: 24px;
+            font-weight: 500;
+            letter-spacing: .1em;
+            &::before {
+                content: "";
+                width: 16px;
+                height: 26px;
+                background: $colorY1;
+            }
+            &.body::before {
+                mask: url(../img/plan/icon_body.svg) center/contain no-repeat;
+            }
+            &.vio::before {
+                mask: url(../img/plan/icon_vio.svg) center/14px no-repeat;
+            }
+            &.face::before {
+                mask: url(../img/plan/icon_face.svg) center/12px no-repeat;
+            }
+        }
+        ul {
+            padding-left: 14px;
+            display: flex;
+            flex-flow: column;
+            gap: 22px;
+        }
+        li {
+            background: radial-gradient($colorGy 20%, transparent 20%) right 3px/10px 10px repeat-x;
+            display: flex;
+            justify-content: space-between;
+            position: relative;
+            &::before {
+                content: "";
+                display: block;
+                width: 4px;
+                height: 4px;
+                background: $colorY2;
+                border-radius: 50%;
+                position: absolute;
+                top: 5px;
+                left: -13px;
+            }
+        }
+        .goal {
+            width: fit-content;
+            padding-right: 10px;
+            background-color: #fff;
+            font-size: 14px;
+            letter-spacing: .1em;
+        }
+        .note {
+            margin-top: 4px;
+            color: $colorGy;
+            font-size: 10px;
+            letter-spacing: .1em;
+            transform-origin: 0 100%;
+            transform: scale(.7);
+        }
+        .times {
+            margin-top: -5px;
+            padding-left: 8px;
+            background-color: #fff;
+            font-family: $fontM;
+            font-size: 15px;
+            letter-spacing: .1em;
+            .num {
+                font-size: 20px;
+                letter-spacing: .1em;
+            }
+        }
+    }
+}
+
+body#effect {
+    #fv {
+        background-image: url(../img/knowledge/effect/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/effect/fv.jpg);
+        }
+    }
+    #tocArea {
+        .box {
+            margin-bottom: 30px;
+            background: $color_bg;
+            box-shadow: none;
+        }
+    }
+    .fig1 {
+        margin-bottom: 10px;
+    }
+    .fig2 {
+        margin-bottom: 30px;
+        border-radius: 6px;
+    }
+    .fig3 {
+        margin-bottom: 20px;
+    }
+    .fig4 {
+        margin-bottom: 20px;
+    }
+    .txt_fig5 {
+        margin: 10px calc(9px - .1em) 10px 9px;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: .1em;
+    }
+    .fig6 {
+        margin: 40px 0 30px;
+    }
+    em.diode {
+        background: #FBCAB7;
+    }
+    em.yag {
+        background: #F297A8;
+    }
+    .fig7 {
+        margin-bottom: 10px;
+    }
+    .fig9 {
+        margin-bottom: 10px;
+    }
+    .fig10, .fig12 {
+        margin: 10px 0 20px;
+    }
+    .wrap_fig11 {
+        margin-bottom: 20px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        picture {
+            width: calc(147 / 310 * 100%);
+        }
+        dl {
+            width: calc(143 / 310 * 100%);
+        }
+        dt {
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: .1em;
+            &:not(:first-child) {
+                margin-top: 16px;
+            }
+            &::after {
+                content: "：";
+            }
+        }
+        dd {
+            margin: 8px -.1em -6px 0;
+            font-size: 12px;
+            line-height: 23px;
+            letter-spacing: .1em;
+        }
+    }
+    .fig13 {
+        margin-bottom: 10px;
+    }
+    .fig15 {
+        border-radius: 6px;
+    }
+    .fig17, .fig18 {
+        margin-bottom: 15px;
+    }
+    .fig19 {
+        margin-bottom: 10px;
+    }
+}
+
+body#laser {
+    #fv {
+        background-image: url(../img/knowledge/laser/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/laser/fv.jpg);
+        }
+    }
+    .fig1 {
+        margin-bottom: 30px;
+        border-radius: 6px;
+    }
+    .fig2 {
+        margin-bottom: 20px;
+    }
+    .txt_fig3 {
+        margin: 25px calc(9px - .1em) 4px 9px;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: .1em;
+    }
+    .fig4 {
+        margin: 5px 0 15px;
+    }
+    .txt_fig5 {
+        margin: 10px calc(9px - .1em) 10px 9px;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: .1em;
+    }
+    .wrap_fig6 {
+        margin: 30px 0 10px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        picture {
+            width: calc(149 / 310 * 100%);
+        }
+        .txtGrp {
+            width: calc(135 / 310 * 100%);
+        }
+        dt {
+            margin: 24px -.1em 12px 0;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: .1em;
+            &::after {
+                content: "：";
+            }
+        }
+        p, dd {
+            margin: -5px -.1em -6px 0;
+            font-size: 12px;
+            line-height: 23px;
+            letter-spacing: .1em;
+        }
+    }
+    .txt_fig7 {
+        margin: 15px calc(9px - .1em) 4px 9px;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: .1em;
+    }
+    .fig8 {
+        margin: 5px 0 15px;
+    }
+}
+
+body#type {
+    #fv {
+        background-image: url(../img/knowledge/type/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/type/fv.jpg);
+        }
+    }
+    .fig1, .fig3 {
+        margin: 10px 0 20px;
+    }
+    .wrap_fig2 {
+        margin-bottom: 20px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        picture {
+            width: calc(147 / 310 * 100%);
+        }
+        dl {
+            width: calc(143 / 310 * 100%);
+        }
+        dt {
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: .1em;
+            &:not(:first-child) {
+                margin-top: 16px;
+            }
+            &::after {
+                content: "：";
+            }
+        }
+        dd {
+            margin: 8px -.1em -6px 0;
+            font-size: 12px;
+            line-height: 23px;
+            letter-spacing: .1em;
+        }
+    }
+    .fig4, .fig5, .fig7, .fig11 {
+        margin-bottom: 10px;
+    }
+    .fig6_list {
+        margin-top: 40px;
+        li:not(:first-child) {
+            margin-top: 30px;
+        }
+        .type1 {
+            color: #2C6EB0;
+        }
+        .type2 {
+            color: #C34723;
+        }
+        .wrap {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+        picture {
+            width: calc(148 / 310 * 100%);
+        }
+        p {
+            width: calc((140 / 310 * 100%) + .1em);
+            margin: -5px -.1em -6px 0;
+            font-size: 12px;
+            line-height: 23px;
+            letter-spacing: .1em;
+        }
+    }
+    .fig8, .fig9, .fig10, .fig12 {
+        margin-bottom: 20px;
+    }
+}
+
+body#difference {
+    #fv {
+        background-image: url(../img/knowledge/difference/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/difference/fv.jpg);
+        }
+    }
+    .fig1 {
+        margin-bottom: 10px;
+    }
+}
+
+body#risk {
+    #fv {
+        background-image: url(../img/knowledge/risk/fv.jpg.webp);
+        .no-webp & {
+            background-image: url(../img/knowledge/risk/fv.jpg);
+        }
+        >.wrapper {
+            min-height: 140px;
+        }
+    }
+    #sec3-4 {
+        .speak:last-child {
+            margin: 40px 0 0;
+            .balloon {
+                letter-spacing: 0;
+            }
+        }
+        .tag {
+            padding: 3px calc(7px - .1em) 3px 8px;
+            background: $colorBk;
+            border-radius: 2px;
+            font-size: 13px;
+            letter-spacing: .1em;
+        }
+    }
+    .approach .link_detail {
+        color: #fff;
+    }
+}

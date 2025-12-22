@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+// --------------------------------
+//  定数定義
+// --------------------------------
+$colorBk: #044E58;
+$colorGy: #50999E;
+$colorGy2: #DCD8D2;
+$color_link: #00AABC;
+$color_bg: #F6F6EE;
+$colorY1: #FAB400;
+$colorY2: #FFCC19;
+$colorY3: #FFE090;
+$colorB1: #00C3B7;
+$colorB2: #2BD5CB;
+$colorB3: #80E7D4;
+$colorR1: #F3597B;
+$colorR2: #FF85A0;
+$colorR3: #FFDBCB;
+$grad: #00AFAF 0%, #00C2BB 21.25%, #00D9CC 42.5%, #31D385 52.5%, #84C41B 62.5%, #C2BF00 72.25%, #FAB400 82%;
+$gradY: $colorY1 0%, $colorY2 100%;
+$gradB: $colorB1 0%, $colorB2 100%;
+$gradR: $colorR1 0%, $colorR2 100%;
+$fontG: "Hiragino Kaku Gothic ProN", "游ゴシック", YuGothic, Meiryo, sans-serif;
+$fontM: YakuHanMPs, "Shippori Mincho", serif;
+$fontEC: "Cormorant", serif;
+$fontEG: "EB Garamond", serif;
+$fontEJ: "Jost", sans-serif;
+
+// --------------------------------
+//  ファイル読み込み
+// --------------------------------
+@import "reset";
+// サイト全体
+@import "base";
+@import "header";
+@import "footer";
+@import "nav";
+@import "form";
+// ページ単位
+@import "pages/top";
+@import "pages/knowledge";
+@import "pages/features";
+@import "pages/plan";
+@import "pages/access";
+@import "pages/privacy";
+
+// LP
+@import "pages/lp1";
+
