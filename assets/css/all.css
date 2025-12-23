@@ -1177,7 +1177,7 @@ label {
   letter-spacing: 0.1em;
 }
 #flowArea .pic {
-  width: 100%;
+  width: calc(100% + 2px);
   height: 200px;
   border-radius: 6px;
   overflow: hidden;
@@ -1187,6 +1187,7 @@ label {
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+  margin-left: -2px;
 }
 #flowArea .txt {
   margin: 16px -0.1em 0 0;
@@ -3057,9 +3058,9 @@ body#top #top_fv {
 }
 body#top #top_fv .bg {
   width: 100%;
-  height: 100%;
+  height: calc(100% + 2px);
   position: absolute;
-  top: 0;
+  top: -2px;
   left: 0;
   z-index: -1;
 }
