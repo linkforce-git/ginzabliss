@@ -1,7 +1,7 @@
 <div id="pcLayout">
     <div class="pcLeft">
         <div class="logoGrp">
-            <a class="logo" href="/"><img src="/assets/img/logo.png" alt="モアナスキンクリニック"></a>
+            <a class="logo" href="/"><img src="/assets/img/logo.png" alt="銀座ブリススキンクリニック"></a>
             <p class="h_txt">銀座一丁目駅<br><span>徒歩2分</span></p>
         </div>
         <div class="btnWrap">

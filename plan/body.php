@@ -281,7 +281,7 @@
     <section class="continueSec">
         <div class="h2b r">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">モアナ全身脱毛の特長１</div>
+            <div class="sub">ブリス全身脱毛の特長１</div>
             <h2 class="ttl">痛みで出力を下げても<br>熱量は減りません</h2>
         </div>
         <div class="wrapper">
@@ -315,7 +315,7 @@
     <section>
         <div class="h2b r">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">モアナ全身脱毛の特長２</div>
+            <div class="sub">ブリス全身脱毛の特長２</div>
             <h2 class="ttl">安全に照射可能な<br>最大熱量を照射します</h2>
         </div>
         <div class="wrapper">

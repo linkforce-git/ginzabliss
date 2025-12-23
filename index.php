@@ -21,7 +21,7 @@
         <div class="panel">
             <div class="txt3"><span>科学的根拠に基づく</span><br><span>確かな医療脱毛を</span><br><span>提供する</span></div>
             <div class="txt4">銀座一丁目駅<br>徒歩１分</div>
-            <h1 class="ttl"><img src="/assets/img/top/fv_logo.png" alt="モアナスキンクリニック"></h1>
+            <h1 class="ttl"><img src="/assets/img/top/fv_logo.png" alt="銀座ブリススキンクリニック"></h1>
         </div>
         <div class="scroll">SCROLL</div>
         <?php include(__DIR__.'/include/svg_waves.php'); ?>
@@ -347,7 +347,7 @@
                     <input type="checkbox" id="news02_open" class="news_open">
                     <div class="folder">
                         <p class="txt">
-                            この度モアナスキンクリニックでケミカルピーリングの取り扱いをはじめました。<br>
+                            この度銀座ブリススキンクリニックでケミカルピーリングの取り扱いをはじめました。<br>
                             ケミカルピーリングは肌の表⾯や⽑⽳に残った古い⾓質を取り除く美肌治療です。<br>
                             1回5,500円(税込)～となりますので、気になった方は下記詳細ページをご覧ください。
                         </p>
@@ -362,14 +362,14 @@
                 </div>
                 <div class="unit">
                     <div class="date">2024年9月25日</div>
-                    <h3 class="ttl">脱毛サロン・クリニック比較メディア脱毛ベストで「モアナスキンクリニック」が紹介されました！</h3>
+                    <h3 class="ttl">脱毛サロン・クリニック比較メディア脱毛ベストで「銀座ブリススキンクリニック」が紹介されました！</h3>
                     <input type="checkbox" id="news01_open" class="news_open">
                     <div class="folder">
                         <p class="txt">
-                            この度、モアナスキンクリニックが脱毛サロン・クリニック比較メディア「脱毛ベスト」に掲載いただきました。<br>
+                            この度、銀座ブリススキンクリニックが脱毛サロン・クリニック比較メディア「脱毛ベスト」に掲載いただきました。<br>
                             脱毛ベストは社員全員が脱毛サロン・クリニックに通っており、ユーザーから信頼されるコンテンツの発信を心がけているそうです。<br>
                             部位もVIO含む全身脱毛やヒゲ脱毛、脇脱毛など痛みが異なる部位を体験しているとのことです。<br>
-                            脱毛ベストにモアナスキンクリニックが掲載しているページは以下なので是非見てみてください！
+                            脱毛ベストに銀座ブリススキンクリニックが掲載しているページは以下なので是非見てみてください！
                         </p>
                         <p class="txt">
                             <a href="https://beautybest.jp/datsumo/vio-price" target="_blank" rel="noopener">VIO脱毛の値段に関する記事</a><br>

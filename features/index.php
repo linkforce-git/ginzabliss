@@ -73,7 +73,7 @@
         <div class="wrapper">
             <div class="h2a">
                 <div class="en">FEATURES</div>
-                <h2 class="jp">モアナのこだわり・特長</h2>
+                <h2 class="jp">ブリスのこだわり・特長</h2>
             </div>
             <ol>
                 <li id="f1" class="link_panel b <?= isset($_COOKIE['read_features_effect_Commitment']) ? 'read' : 'unread' ?>">

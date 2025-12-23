@@ -170,7 +170,7 @@
                 <source type="image/webp" srcset="/assets/img/thanks.png.webp">
                 <img class="pic" src="/assets/img/thanks.png">
             </picture>
-            <img class="logo" src="/assets/img/logo.png" alt="モアナスキンクリニック">
+            <img class="logo" src="/assets/img/logo.png" alt="銀座ブリススキンクリニック">
             <label class="close" for="reserv_open">CLOSE</label>
         </div>
     </div>
