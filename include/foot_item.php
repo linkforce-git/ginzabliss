@@ -193,7 +193,7 @@
                                 </li>
                                 <li class="link <?= isset($_COOKIE['read_features_review']) ? 'read' : 'unread' ?>">
                                     <a href="/features/review">
-                                        <div class="ttl">お客様アンケート結果</div>
+                                        <div class="ttl">エクレアプロに関する<br>アンケート結果</div>
                                         <div class="arw"></div>
                                         <div class="state"></div>
                                     </a>

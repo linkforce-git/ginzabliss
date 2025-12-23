@@ -1,6 +1,6 @@
 <?php
-    $title = 'お客様アンケート結果 | 銀座ブリススキンクリニック';
-    $description = '「ちゃんと抜ける？」「施術は丁寧？」「予約は取れる？」お客様アンケートをすべて公開します。｜銀座で医療脱毛するなら銀座一丁目駅徒歩2分の銀座ブリススキンクリニック';
+    $title = 'エクレアプロに関するアンケート結果 | 銀座ブリススキンクリニック';
+    $description = '「ちゃんと抜ける？」「施術は丁寧？」「予約は取れる？」エクレアプロに関するアンケートをすべて公開します。｜銀座で医療脱毛するなら銀座一丁目駅徒歩2分の銀座ブリススキンクリニック';
     include(__DIR__.'/../include/head_link.php');
 ?>
 <script type="application/ld+json">
@@ -20,7 +20,7 @@
     },{
         "@type": "ListItem",
         "position": 3,
-        "name": "お客様アンケート結果",
+        "name": "エクレアプロに関するアンケート結果",
         "item": "https://www.ginza-bliss-skin.medical-gl.com/features/review"
     }]
 }
@@ -37,7 +37,7 @@
             <ol>
                 <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
                 <li><a href="/features/">ブリス医療脱毛の特長</a></li>
-                <li>お客様アンケート結果</li>
+                <li>エクレアプロに関するアンケート結果</li>
             </ol>
         </nav>
         <div class="wrapper">
@@ -89,7 +89,7 @@
     <section id="sec1">
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">お客様アンケート結果</div>
+            <div class="sub">エクレアプロに関するアンケート結果</div>
             <h2 class="ttl">全身脱毛の<br>効果について</h2>
         </div>
         <div class="wrapper">
@@ -125,7 +125,7 @@
     <section id="sec2">
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">お客様アンケート結果</div>
+            <div class="sub">エクレアプロに関するアンケート結果</div>
             <h2 class="ttl">VIO脱毛の<br>効果について</h2>
         </div>
         <div class="wrapper">
@@ -161,7 +161,7 @@
     <section id="sec3">
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">お客様アンケート結果</div>
+            <div class="sub">エクレアプロに関するアンケート結果</div>
             <h2 class="ttl">顔脱毛の<br>効果について</h2>
         </div>
         <div class="wrapper">
@@ -197,7 +197,7 @@
     <section id="sec4">
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">お客様アンケート結果</div>
+            <div class="sub">エクレアプロに関するアンケート結果</div>
             <h2 class="ttl">痛みについて</h2>
         </div>
         <div class="wrapper">
@@ -245,7 +245,7 @@
     <section id="sec5">
         <div class="h2b b">
             <div class="filter"><?php include(__DIR__.'/../include/svg_waves.php'); ?></div>
-            <div class="sub">お客様アンケート結果</div>
+            <div class="sub">アンケート結果</div>
             <h2 class="ttl">サービスの評価</h2>
         </div>
         <div class="wrapper">
