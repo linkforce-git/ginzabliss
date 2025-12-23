@@ -2,7 +2,7 @@
 var workdir = ''; // コンパイルする階層を入れる
 //var workdir = 'recruit_form/'; // コンパイルする階層を入れる
 
-var url = "http://moana-skin-clinic.192.168.0.211.nip.io/"+workdir; // ブラウザ自動リロードで使用
+var url = "http://ginzabliss.test.192.168.0.211.nip.io/"+workdir; // ブラウザ自動リロードで使用
 
 
 // プラグイン読み込み

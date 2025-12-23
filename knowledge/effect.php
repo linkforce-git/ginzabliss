@@ -11,17 +11,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.moana-skin-clinic.com/"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "医療脱毛のイロハ",
-        "item": "https://www.moana-skin-clinic.com/knowledge/"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/"
     },{
         "@type": "ListItem",
         "position": 3,
         "name": "脱毛効果を決定する3大因子",
-        "item": "https://www.moana-skin-clinic.com/knowledge/effect"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/effect"
     }]
 }
 </script>

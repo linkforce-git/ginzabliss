@@ -352,7 +352,7 @@
                             1回5,500円(税込)～となりますので、気になった方は下記詳細ページをご覧ください。
                         </p>
                         <p class="txt">
-                            <a href="https://www.moana-skin-clinic.com/plan/peeling">ケミカルピーリング</a><br>
+                            <a href="https://www.ginza-bliss-skin.medical-gl.com/plan/peeling">ケミカルピーリング</a><br>
                         </p>
                         <p class="txt">
                             ご予約は「無料カウンセリング予約」ボタンからできますので、お気軽にお問い合わせください。

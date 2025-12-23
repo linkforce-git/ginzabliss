@@ -11,12 +11,12 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.moana-skin-clinic.com/"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "アクセス・連絡先情報",
-        "item": "https://www.moana-skin-clinic.com/access"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/access"
     }]
 }
 </script>

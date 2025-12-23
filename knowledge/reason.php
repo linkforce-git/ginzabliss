@@ -11,17 +11,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.moana-skin-clinic.com/"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "医療脱毛のイロハ",
-        "item": "https://www.moana-skin-clinic.com/knowledge/"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/"
     },{
         "@type": "ListItem",
         "position": 3,
         "name": "何回も脱毛施術が必要な理由",
-        "item": "https://www.moana-skin-clinic.com/knowledge/reason"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/reason"
     }]
 }
 </script>

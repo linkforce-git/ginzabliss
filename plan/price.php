@@ -11,12 +11,12 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.moana-skin-clinic.com/"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "医療脱毛の料金一覧",
-        "item": "https://www.moana-skin-clinic.com/plan/price"
+        "item": "https://www.ginza-bliss-skin.medical-gl.com/plan/price"
     }]
 }
 </script>
