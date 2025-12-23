@@ -110,11 +110,11 @@ body.knowledge {
     .approach {
         margin-top: 70px;
         padding: 38px 0 50px;
-        background: #fff url(../img/knowledge/approach_bg.jpg.webp) top/100% no-repeat;
+//        background: #fff url(../img/knowledge/approach_bg.jpg.webp) top/100% no-repeat;
         color: #fff;
         position: relative;
         .no-webp & {
-            background-image: url(../img/knowledge/approach_bg.jpg);
+//            background-image: url(../img/knowledge/approach_bg.jpg);
         }
         &::before {
             content: "";

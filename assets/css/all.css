@@ -1367,7 +1367,6 @@ label {
 }
 .comment_open + .comment {
   width: 91.4285714286%;
-  min-height: 80px;
   margin: 40px -5.7142857143% 0 auto;
   background: #50999E;
   border-radius: 56px 0 0 56px;
@@ -1375,7 +1374,7 @@ label {
   position: relative;
 }
 .comment_open + .comment .cHead {
-  padding: 20px 10px 10px 20px;
+  padding: 20px 10px 20px 20px;
   display: flex;
   align-items: center;
   position: relative;
@@ -3788,12 +3787,8 @@ body.knowledge .cap2 b {
 body.knowledge .approach {
   margin-top: 70px;
   padding: 38px 0 50px;
-  background: #fff url(../img/knowledge/approach_bg.jpg.webp) top/100% no-repeat;
   color: #fff;
   position: relative;
-}
-.no-webp body.knowledge .approach {
-  background-image: url(../img/knowledge/approach_bg.jpg);
 }
 body.knowledge .approach::before {
   content: "";

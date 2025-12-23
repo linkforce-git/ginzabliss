@@ -81,18 +81,6 @@
                         <p class="txt">お着換えののち、次回のご予約をお取りいただきます（後日承ることもできます）。以上で終了です。お疲れ様でした。</p>
                     </div>
                 </div>
-                <div class="item">
-                    <div class="inner">
-                        <h3 class="head"><span class="num">EX</span><span class="ttl">パウダールーム</span></h3>
-                        <div class="pic">
-                            <picture>
-                                <source type="image/webp" srcset="/assets/img/flow/flowEX.jpg.webp">
-                                <img src="/assets/img/flow/flowEX.jpg">
-                            </picture>
-                        </div>
-                        <p class="txt">パウダールームのご用意がございます。お帰り前にご自由にお使いください。</p>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
