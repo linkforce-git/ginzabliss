@@ -342,84 +342,84 @@
             </div>
             <div class="newsList">
                 <div class="unit">
-                    <div class="date">2024年12月23日</div>
-                    <h3 class="ttl">ケミカルピーリングはじめました</h3>
-                    <input type="checkbox" id="news02_open" class="news_open">
+                    <div class="date">2025年12月23日</div>
+                    <h3 class="ttl">タイトルタイトル</h3>
+                    <input type="checkbox" id="news05_open" class="news_open">
                     <div class="folder">
                         <p class="txt">
-                            この度銀座ブリススキンクリニックでケミカルピーリングの取り扱いをはじめました。<br>
-                            ケミカルピーリングは肌の表⾯や⽑⽳に残った古い⾓質を取り除く美肌治療です。<br>
-                            1回5,500円(税込)～となりますので、気になった方は下記詳細ページをご覧ください。
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト
                         </p>
                         <p class="txt">
-                            <a href="https://www.ginza-bliss-skin.medical-gl.com/plan/peeling">ケミカルピーリング</a><br>
-                        </p>
-                        <p class="txt">
-                            ご予約は「無料カウンセリング予約」ボタンからできますので、お気軽にお問い合わせください。
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト
                         </p>
                     </div>
-                    <label class="btn_news_open" for="news02_open">MORE<span class="icon"></span></label>
+                    <label class="btn_news_open" for="news05_open">MORE<span class="icon"></span></label>
                 </div>
                 <div class="unit">
-                    <div class="date">2024年9月25日</div>
-                    <h3 class="ttl">脱毛サロン・クリニック比較メディア脱毛ベストで「銀座ブリススキンクリニック」が紹介されました！</h3>
-                    <input type="checkbox" id="news01_open" class="news_open">
+                    <div class="date">2025年12月23日</div>
+                    <h3 class="ttl">タイトルタイトル</h3>
+                    <input type="checkbox" id="news04_open" class="news_open">
                     <div class="folder">
                         <p class="txt">
-                            この度、銀座ブリススキンクリニックが脱毛サロン・クリニック比較メディア「脱毛ベスト」に掲載いただきました。<br>
-                            脱毛ベストは社員全員が脱毛サロン・クリニックに通っており、ユーザーから信頼されるコンテンツの発信を心がけているそうです。<br>
-                            部位もVIO含む全身脱毛やヒゲ脱毛、脇脱毛など痛みが異なる部位を体験しているとのことです。<br>
-                            脱毛ベストに銀座ブリススキンクリニックが掲載しているページは以下なので是非見てみてください！
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト
                         </p>
                         <p class="txt">
-                            <a href="https://beautybest.jp/datsumo/vio-price" target="_blank" rel="noopener">VIO脱毛の値段に関する記事</a><br>
-                            <a href="https://beautybest.jp/datsumo/dataumo-mottainai" target="_blank" rel="noopener">脱毛はお金がもったいない？に関する記事　</a><br>
-                            <a href="https://beautybest.jp/datsumo/datsumo-counseling" target="_blank" rel="noopener">脱毛のカウンセリングに関する記事　</a><br>
-                            <a href="https://beautybest.jp/datsumo/datsumo-price" target="_blank" rel="noopener">脱毛の値段に関する記事　</a><br>
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト
                         </p>
                         <p class="txt">
-                            掲載メディア：<a href="https://beautybest.jp/" target="_blank" rel="noopener">脱毛ベスト</a><br>
+                            掲載メディア：<a href="https://xxxx.jp/" target="_blank" rel="noopener">リンクサンプル</a><br>
                         </p>
                     </div>
-                    <label class="btn_news_open" for="news01_open">MORE<span class="icon"></span></label>
+                    <label class="btn_news_open" for="news04_open">MORE<span class="icon"></span></label>
                 </div>
-
-<?php /*
                 <div class="unit">
-                    <div class="date">2023年2月8日</div>
-                    <h3 class="ttl">家庭の便利帳さんで、痛みが少ない医療脱毛として紹介されました。</h3>
+                    <div class="date">2025年12月23日</div>
+                    <h3 class="ttl">タイトルタイトル</h3>
                     <input type="checkbox" id="news03_open" class="news_open">
                     <div class="folder">
-                        <p class="txt">大阪江坂、天王寺エリアでのおすすめクリニックとして家庭の便利帳さまでご紹介頂きました。<br>蓄熱式の医療脱毛はまだまだ珍しいので、是非選択肢に入れてみてください。<br>江坂や三ノ宮では痛みの強い傾向のある男性の脱毛も行っております。<br>ヤグレーザーで痛みのために挫折した患者さまでもリラックスして施術することができます。</p>
-                        <p class="txt">大阪 天王寺院：<a href="https://sentakusuki.com/da-osaka-tennouji/" target="_blank" rel="noopener">こちらをクリック</a><br>大阪 江坂院：<a href="https://sentakusuki.com/da-osaka-suita-esaka/" target="_blank" rel="noopener">こちらをクリック</a></p>
+                        <p class="txt">
+                            テキストテキストテキスト<br>
+                            テキストテキストテキスト
+                        </p>
                     </div>
                     <label class="btn_news_open" for="news03_open">MORE<span class="icon"></span></label>
                 </div>
                 <input type="checkbox" id="newsAll_open" class="toggle_open">
                 <div class="folder">
                     <div class="unit">
-                        <div class="date">2023年2月8日</div>
-                        <h3 class="ttl">家庭の便利帳さんで、痛みが少ない医療脱毛として紹介されました。</h3>
+                        <div class="date">2025年12月23日</div>
+                        <h3 class="ttl">タイトルタイトル</h3>
                         <input type="checkbox" id="news02_open" class="news_open">
                         <div class="folder">
-                            <p class="txt">大阪江坂、天王寺エリアでのおすすめクリニックとして家庭の便利帳さまでご紹介頂きました。<br>蓄熱式の医療脱毛はまだまだ珍しいので、是非選択肢に入れてみてください。<br>江坂や三ノ宮では痛みの強い傾向のある男性の脱毛も行っております。<br>ヤグレーザーで痛みのために挫折した患者さまでもリラックスして施術することができます。</p>
-                            <p class="txt">大阪 天王寺院：<a href="https://sentakusuki.com/da-osaka-tennouji/" target="_blank" rel="noopener">こちらをクリック</a><br>大阪 江坂院：<a href="https://sentakusuki.com/da-osaka-suita-esaka/" target="_blank" rel="noopener">こちらをクリック</a></p>
+                            <p class="txt">
+                                テキストテキストテキスト<br>
+                                テキストテキストテキスト
+                            </p>
                         </div>
                         <label class="btn_news_open" for="news02_open">MORE<span class="icon"></span></label>
                     </div>
                     <div class="unit">
-                        <div class="date">2023年2月8日</div>
-                        <h3 class="ttl">家庭の便利帳さんで、痛みが少ない医療脱毛として紹介されました。</h3>
+                        <div class="date">2025年12月23日</div>
+                        <h3 class="ttl">タイトルタイトル</h3>
                         <input type="checkbox" id="news01_open" class="news_open">
                         <div class="folder">
-                            <p class="txt">大阪江坂、天王寺エリアでのおすすめクリニックとして家庭の便利帳さまでご紹介頂きました。<br>蓄熱式の医療脱毛はまだまだ珍しいので、是非選択肢に入れてみてください。<br>江坂や三ノ宮では痛みの強い傾向のある男性の脱毛も行っております。<br>ヤグレーザーで痛みのために挫折した患者さまでもリラックスして施術することができます。</p>
-                            <p class="txt">大阪 天王寺院：<a href="https://sentakusuki.com/da-osaka-tennouji/" target="_blank" rel="noopener">こちらをクリック</a><br>大阪 江坂院：<a href="https://sentakusuki.com/da-osaka-suita-esaka/" target="_blank" rel="noopener">こちらをクリック</a></p>
+                            <p class="txt">
+                                テキストテキストテキスト<br>
+                                テキストテキストテキスト
+                            </p>
                         </div>
                         <label class="btn_news_open" for="news01_open">MORE<span class="icon"></span></label>
                     </div>
                 </div>
                 <label class="btn_toggle" for="newsAll_open">VIEW ALL<span class="icon"></span></label>
-* ?>
             </div>
         </div>
     </section>
