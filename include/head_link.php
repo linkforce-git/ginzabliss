@@ -35,7 +35,7 @@
 <link rel="stylesheet" href="/assets/js/slick-1.8.1/slick.css"/>
 <link rel="stylesheet" href="/assets/js/slick-1.8.1/slick-theme.css"/>
 <link rel="stylesheet" href="/assets/js/jquery-ui-1.12.1/jquery-ui.min.css">
-<link rel="stylesheet" href="/assets/css/all.min.css?date=20241220">
+<link rel="stylesheet" href="/assets/css/all.min.css?date=20251223">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

@@ -3050,7 +3050,7 @@ footer .copy {
 
 body#top #top_fv {
   height: 550px;
-  padding-top: 117px;
+  padding-top: 193px;
   display: flex;
   flex-flow: column;
   position: relative;
@@ -3124,7 +3124,7 @@ body#top #top_fv .txt2 img {
 }
 body#top #top_fv .panel {
   width: 267px;
-  height: 300px;
+  height: 270px;
   padding: 31px 0 0 40px;
   background: rgba(255, 255, 255, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.8);
@@ -3132,7 +3132,7 @@ body#top #top_fv .panel {
   -webkit-backdrop-filter: blur(7px);
           backdrop-filter: blur(7px);
   position: absolute;
-  top: 268px;
+  top: 320px;
   right: 0;
   z-index: 1;
 }
@@ -3163,9 +3163,9 @@ body#top #top_fv .txt3 span:last-child::after {
   width: 98px;
 }
 body#top #top_fv .txt4 {
-  width: 76px;
-  height: 37px;
-  margin: -17px 0 -5px 118px;
+  width: 186px;
+  height: 24px;
+  margin: 20px auto 0 -4px;
   padding-top: 4px;
   background: #50999E;
   border-radius: 4px;
@@ -3178,7 +3178,7 @@ body#top #top_fv .txt4 {
 }
 body#top #top_fv .ttl {
   width: 198px;
-  margin-top: 20px;
+  margin-top: 6px;
 }
 body#top #top_fv .scroll {
   width: 16px;

@@ -3,7 +3,7 @@
 body#top {
     #top_fv {
         height: 550px;
-        padding-top: 117px;
+        padding-top: 193px;
         display: flex;
         flex-flow: column;
         position: relative;
@@ -75,14 +75,14 @@ body#top {
         }
         .panel {
             width: 267px;
-            height: 300px;
+            height: 270px;
             padding: 31px 0 0 40px;
             background: rgba(#fff, .9);
             border: 1px solid rgba(#fff, .8);
             border-radius: 10px 0 0 70px;
             backdrop-filter: blur(7px);
             position: absolute;
-            top: 268px;
+            top: 320px;
             right: 0;
             z-index: 1;
         }
@@ -115,9 +115,9 @@ body#top {
             }
         }
         .txt4 {
-            width: 76px;
-            height: 37px;
-            margin: -17px 0 -5px 118px;
+            width: 186px;
+            height: 24px;
+            margin: 20px auto 0 -4px;
             padding-top: 4px;
             background: $colorGy;
             border-radius: 4px;
@@ -130,7 +130,7 @@ body#top {
         }
         .ttl {
             width: 198px;
-            margin-top: 20px;
+            margin-top: 6px;
         }
         .scroll {
             width: 16px;

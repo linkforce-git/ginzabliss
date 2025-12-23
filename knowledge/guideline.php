@@ -213,18 +213,6 @@
             </figure>
             <p class="txta">顔脱毛とは、眉毛・目・鼻・口周り1cm程度を除く顔全体の施術を指します。細かな照射範囲はクリニックによって結構違います。</p>
 
-            <input type="checkbox" id="comment01_open" class="comment_open">
-            <div id="comment01" class="comment">
-                <label class="cHead" for="comment01_open">
-                    <h3 class="ttl">当院は精密照射でキワまで<br>照射可能</h3>
-                    <div class="icon_toggle"></div>
-                </label>
-                <div class="cBody">
-                    <p class="txt">当院は顔脱毛に「精密照射オプション」というオプションをご用意しています。顔専用の照射ヘッドを使い、眉毛上や口周りなど、通常の照射ヘッドでは照射できないようなキワまでしっかり脱毛できます。</p>
-                </div>
-                <label class="icon_close" for="comment01_open"></label>
-            </div>
-
             <div id="sec3-2" class="h3a y">
                 <div class="shine"></div>
                 <h3 class="ttl">施術回数と効果<br><span class="small">（エクレアプロに関するアンケートデータ）</span></h3>

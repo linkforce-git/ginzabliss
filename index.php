@@ -6,7 +6,7 @@
 </head>
 <body id="top">
 <div class="bodyWrapper">
-
+<?php $pageId = 'top'; ?>
 <?php include(__DIR__.'/include/header.php'); ?>
 
 <main>
@@ -19,8 +19,8 @@
             <div class="txt2">EPILATION EFFECT<img src="/assets/img/top/proportional.png">THERMAL ENERGY</div>
         </div>
         <div class="panel">
-            <div class="txt3"><span>科学的根拠に基づく</span><br><span>確かな医療脱毛を</span><br><span>提供する</span></div>
-            <div class="txt4">銀座一丁目駅<br>徒歩１分</div>
+            <div class="txt3"><span>科学的根拠に基づく</span><br><span>確かな医療脱毛を</span></div>
+            <div class="txt4">銀座一丁目駅歩２分</div>
             <h1 class="ttl"><img src="/assets/img/top/fv_logo.png" alt="銀座ブリススキンクリニック"></h1>
         </div>
         <div class="scroll">SCROLL</div>

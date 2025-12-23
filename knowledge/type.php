@@ -292,18 +292,6 @@
             <p class="txta">硬毛化とは、施術後に毛が太く長くなってしまう症状で、照射熱量不足によって生じると考えられています。</p>
             <p class="txta">熱破壊式は硬毛化リスクが低めです。蓄熱式はクリニックの施術プロトコル次第です。十分な熱量を照射しないと硬毛化リスクが上がります。</p>
 
-            <input type="checkbox" id="comment04_open" class="comment_open">
-            <div id="comment04" class="comment">
-                <label class="cHead" for="comment04_open">
-                    <h3 class="ttl">当院では過去一例も硬毛化を<br>発症していません</h3>
-                    <div class="icon_toggle"></div>
-                </label>
-                <div class="cBody">
-                    <p class="txt">当院は熱量重視のハイパワー脱毛です。施術時は常に「安全に施術可能な最大熱量」を照射しており、過去に硬毛化は一例も発生していません。ご安心ください。</p>
-                </div>
-                <label class="icon_close" for="comment04_open"></label>
-            </div>
-
             <div id="sec3-6" class="h3a y">
                 <div class="shine"></div>
                 <h3 class="ttl">熱破壊式は施術後、<br>抜け落ちるのが早い</h3>
