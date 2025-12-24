@@ -17,10 +17,8 @@
                             </div>
                             <div class="inputText inputText1 time">
                                 <img src="/assets/img/form_time.svg">
-                                <select id="reserv_time1" name="reserv_time1">
+                                <select id="reserv_time1" name="reserv_time1" class="reserv_time1" disabled="disabled">
                                     <option value="" selected="">時間を選択 ▼</option>
-                                    <option value="11:00～">11:00～</option>
-                                    <option value="11:30～">11:30～</option>
                                     <option value="12:00～">12:00～</option>
                                     <option value="12:30～">12:30～</option>
                                     <option value="13:00～">13:00～</option>
@@ -36,6 +34,7 @@
                                     <option value="18:00～">18:00～</option>
                                     <option value="18:30～">18:30～</option>
                                     <option value="19:00～">19:00～</option>
+                                    <option value="19:30～">19:30～</option>
                                 </select>
                             </div>
                         </dd>
@@ -50,10 +49,8 @@
                             </div>
                             <div class="inputText inputText1 time">
                                 <img src="/assets/img/form_time.svg">
-                                <select id="reserv_time2" name="reserv_time2">
+                                <select id="reserv_time2" name="reserv_time2" class="reserv_time2" disabled="disabled">
                                     <option value="" selected="">時間を選択 ▼</option>
-                                    <option value="11:00～">11:00～</option>
-                                    <option value="11:30～">11:30～</option>
                                     <option value="12:00～">12:00～</option>
                                     <option value="12:30～">12:30～</option>
                                     <option value="13:00～">13:00～</option>
@@ -69,6 +66,7 @@
                                     <option value="18:00～">18:00～</option>
                                     <option value="18:30～">18:30～</option>
                                     <option value="19:00～">19:00～</option>
+                                    <option value="19:30～">19:30～</option>
                                 </select>
                             </div>
                         </dd>

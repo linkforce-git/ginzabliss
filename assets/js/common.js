@@ -173,7 +173,7 @@ $(function(){
     /* ********************************************
     //   カレンダー（詳細は別ファイルで設定）
     /* ******************************************** */
-    $('#reserv_date1, #reserv_date2').datepicker(createCalendarOption).blur();
+//    $('#reserv_date1, #reserv_date2').datepicker(createCalendarOption).blur();
 
 
     /* 

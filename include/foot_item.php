@@ -291,7 +291,7 @@
 <script src="/assets/js/slick-1.8.1/slick.min.js"></script>
 <script src="/assets/js/jquery-validation/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery-ui-1.12.1/jquery-ui.min.js"></script>
-<script src="/assets/js/calendarSettings.min.js?date=20241212"></script>
-<script src="/assets/js/common.min.js?date=20240501"></script>
+<script src="/assets/js/calendarSettings.min.js?date=20251224-2"></script>
+<script src="/assets/js/common.min.js?date=202451224"></script>
 </body>
 </html>
