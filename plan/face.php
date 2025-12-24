@@ -35,7 +35,7 @@
             </ol>
         </nav>
         <div class="wrapper">
-            <div class="catch"><span>蓄熱式だから</span><br><span>”産毛”にも高い効果。</span><br><span>眉･鼻･口周りは</span><br><span>キワまで精密照射</span></div>
+            <div class="catch"><span>蓄熱式だから</span><br><span>”産毛”にも高い効果。</span></div>
             <h1 class="ttlGrp">
                 <span class="ttl">顔脱毛プラン</span>
                 <span class="small">の効果・施術部位・料金</span>
@@ -151,7 +151,7 @@
                 <h3 class="ttl">顔脱毛 施術の流れ</h3>
             </div>
             <ol class="treat_flow">
-                <li><div class="num">1</div>パウダールームで<br>日焼け止め・メイクを落とす</li>
+                <li><div class="num">1</div>日焼け止め・メイクを落とす</li>
                 <li><div class="num">2</div>施術室に入る</li>
                 <li><div class="num">3</div>ベッドに仰向けになる</li>
                 <li><div class="num">4</div>呼び鈴を押して、看護師さんを待つ</li>
