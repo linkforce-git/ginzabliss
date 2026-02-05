@@ -79,7 +79,6 @@
                 <h3 class="sec"><a href="#sec5">5. サービスの評価</a></h3>
                 <ul class="subsec">
                     <li><a href="#sec5-1">予約は取りやすいですか？</a></li>
-                    <li><a href="#sec5-2">通院間隔は？</a></li>
                     <li><a href="#sec5-3">施術体験に関する感想・ご意見</a></li>
                     <li><a href="#sec5-4">カウンセリングに関する感想・ご意見</a></li>
                 </ul>
@@ -258,17 +257,6 @@
                 <img class="fig13" src="/assets/img/features/review/fig13.png">
             </figure>
             <p class="txta">お客様の<b>54％が「予約が取りやすい（ほぼ希望日で予約できている）」</b>と回答し、<br>お客様の<b>42％が「予約はまあまあ取りやすい（希望タイミングの前後2週間程度で予約できている）」</b>と回答しています。<br>当院であれば、推奨の施術間隔・お客様のご希望の日程でしっかり通院いただけます。</p>
-
-            <div id="sec5-2" class="h3a b">
-                <div class="shine"></div>
-                <h3 class="ttl">通院間隔は？</h3>
-            </div>
-            <figure class="box">
-                <figcaption class="cap2">通院間隔は？</figcaption>
-                <img class="fig14" src="/assets/img/features/review/fig14.png">
-            </figure>
-            <p class="txta">当院では75％のお客様が2～3か月間隔で通院しています。<br>3か月以上間隔をあけていらっしゃる方や、頻度がまちまちの方が25％ほどいらっしゃいますが、その多く(75％)は妊娠やご旅行などお客様の自己都合によるものです。</p>
-            <p class="txta">2か月に1回しっかり通えるから最大の脱毛効果を得ることができ、脱毛もより短い期間で完了します。当院なら“脱毛完了までに3年も4年もかかる”ということはありませんし、毎日キャンセル待ちをする必要もありません。</p>
 
             <div id="sec5-3" class="h3a b">
                 <div class="shine"></div>

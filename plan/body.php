@@ -43,7 +43,7 @@
             <div class="priceBox">
                 <div class="course">5回コース</div>
                 <div class="price"><span class="yen">&yen;</span><span class="num">98,000</span><span class="tax">税込</span></div>
-                <div class="loan">月額3,000円×42回</div>
+                <div class="loan">月額2,200円×60回</div>
 
                 <div class="course">都度払い (1回)</div>
                 <div class="price"><span class="yen">&yen;</span><span class="num">23,000</span><span class="tax">税込</span></div>
@@ -152,47 +152,25 @@
                 <div class="shine"></div>
                 <h3 class="ttl">全身脱毛の施術間隔</h3>
             </div>
-            <p class="txta"><em>施術間隔はおよそ2か月に一度です。</em><br>脱毛効果を最大限に高めるため、すべてのお客様に2か月（＋1～2週間）に一度の来院を推奨しています。できる限り2か月に一度の頻度でご来院ください。</p>
+            <p class="txta"><em>施術間隔はおよそ1.5か月～2か月に一度です。</em><br>脱毛効果を最大限に高めるため、すべてのお客様に1.5か月～2か月に一度の来院を推奨しています。できる限り1.5か月～2か月に一度の頻度でご来院ください。</p>
 
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <h3 class="ttl">なぜ、施術は2か月に1回なの？</h3>
+                    <h3 class="ttl">なぜ、施術は1.5か月～2か月に<br>1回なの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
                 <div class="cBody">
-                    <p class="txt">推奨は2か月に一度です。<em>施術間隔の空けすぎは決して望ましくありません。</em>その理由は“照射されない毛が増えてしまうから”です。詳しく説明しましょう。</p>
+                    <p class="txt">推奨は1.5か月～2か月に一度です。<em>施術間隔の空けすぎは決して望ましくありません。</em>その理由は“照射されない毛が増えてしまうから”です。詳しく説明しましょう。</p>
                     <p class="txt">肌には、常にすべての毛が生えているわけではありません。肌に「今生えている毛」は20％程度であり、残り80％は休眠しています。</p>
-                    <p class="txt">一度照射をすると、今生えている20％の毛の大部分は抜け落ちます。その後、休眠していた次の20％が生えてくるのですが、この<em>次に生えてくる毛は、2か月から4か月のうちに生えそろい、そして次々に抜け始めて休止期に入ってしまう</em>のです。</p>
+                    <p class="txt">一度照射をすると、今生えている20％の毛の大部分は抜け落ちます。その後、休眠していた次の20％が生えてくるのですが、この<em>次に生えてくる毛は、1.5か月～2か月から4か月のうちに生えそろい、そして次々に抜け始めて休止期に入ってしまう</em>のです。</p>
                     <p class="txt">つまり…照射の後に<em>3か月も4か月も施術間隔をあけてしまうと、前回照射後に生えそろったの毛にレーザーを照射できない</em>ことになってしまいます。</p>
                     <p class="txt">そして、この打ち漏らした毛が次に生えてくるのは約10ヵ月も先…。<br>しかも、次に生えてくるときは一斉に生えてくるわけではなく、毛穴ごとに数か月単位で発毛タイミングがズレます。つまり、<em>一度打ち漏らした毛を抜くために、複数回の施術が必要になってしまう</em>ということなのです。</p>
-                    <p class="txt">施術間隔の空けすぎはよくありません。「2か月以上ならどれだけ空けても問題ない」というのは間違いです。できる限り、2か月に一度の頻度で施術を受けるようにしましょう。</p>
+                    <p class="txt">施術間隔の空けすぎはよくありません。「1.5か月～2か月以上ならどれだけ空けても問題ない」というのは間違いです。できる限り、1.5か月～2か月に一度の頻度で施術を受けるようにしましょう。</p>
                 </div>
                 <label class="icon_close" for="comment01_open"></label>
             </div>
 
-            <div class="h3a r">
-                <div class="shine"></div>
-                <h3 class="ttl">2か月に一度、<br>しっかり通えます</h3>
-            </div>
-            <figure class="box">
-                <figcaption class="cap">通院間隔は？</figcaption>
-                <img src="/assets/img/plan/body/fig5.png">
-            </figure>
-            <p class="txta"><em>当院では75％のお客様が2～3か月間隔で通院しています。</em><br>3か月以上間隔をあけていらっしゃる方や、頻度がまちまちの方が25％ほどいらっしゃいますが、その多く(75％)は妊娠やご旅行などお客様の自己都合によるものです。</p>
-            <p class="txta">2か月に1回しっかり通えるから最大の脱毛効果を得ることができ、脱毛もより短い期間で完了します。<em>脱毛完了までに3年も4年もかかるということはありません</em>し、毎日キャンセル待ちをする必要もありません。</p>
-
-            <input type="checkbox" id="comment02_open" class="comment_open">
-            <div id="comment02" class="comment">
-                <label class="cHead" for="comment02_open">
-                    <h3 class="ttl">土日は少し予約が取りづらい日も<br>あるかもしれません</h3>
-                    <div class="icon_toggle"></div>
-                </label>
-                <div class="cBody">
-                    <p class="txt">アンケートでは全体のうち3%程度のお客様が「本当はもっと短い間隔で通いたいが予約が取れない」と回答していらっしゃいましたが、原因は週末希望によるものです。<br>土日に限っては、お客様に時間帯の選択肢が少ないと多少予約を取りづらく感じることがあるかもしれません。<br>すべてのお客様のご要望を叶えられるよう、さらに施術体制を強化するなど改善して参ります。</p>
-                </div>
-                <label class="icon_close" for="comment02_open"></label>
-            </div>
         </div>
         <div class="next_arw"></div>
     </section>
@@ -215,12 +193,12 @@
                         <div class="grp">
                             <div class="course">5回</div>
                             <div class="price"><span class="yen">&yen;</span><span class="num">98,000</span></div>
-                            <div class="loan">医療ローン42回払い：<br>月&yen;3,000｜総額&yen;127,841</div>
+                            <div class="loan">医療ローン60回払い：<br>月&yen;2,200｜総額&yen;133,280</div>
                         </div>
                         <div class="grp">
                             <div class="course">8回</div>
                             <div class="price"><span class="yen">&yen;</span><span class="num">149,200</span></div>
-                            <div class="loan">医療ローン60回払い：<br>月&yen;3,500｜総額&yen;214,102</div>
+                            <div class="loan">医療ローン60回払い：<br>月&yen;3,300｜総額&yen;202,912</div>
                         </div>
                     </div>
                 </div>
@@ -237,12 +215,12 @@
                         <div class="grp">
                             <div class="course">5回</div>
                             <div class="price"><span class="yen">&yen;</span><span class="num">128,000</span></div>
-                            <div class="loan">医療ローン60回払い：<br>月&yen;3,000｜総額&yen;183,680</div>
+                            <div class="loan">医療ローン60回払い：<br>月&yen;2,900｜総額&yen;174,080</div>
                         </div>
                         <div class="grp">
                             <div class="course">8回</div>
                             <div class="price"><span class="yen">&yen;</span><span class="num">194,800</span></div>
-                            <div class="loan">医療ローン60回払い：<br>月&yen;4,600｜総額&yen;279,538</div>
+                            <div class="loan">医療ローン60回払い：<br>月&yen;4,400｜総額&yen;264,928</div>
                         </div>
                     </div>
                 </div>

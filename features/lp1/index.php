@@ -59,7 +59,7 @@
                         <span class="text1">全身脱毛</span>
                     </span>
                     <span class="price2"><span class="yen">¥</span><span class="num">98,000</span><span class="zei">税込</span></span>
-                    <span class="price3">分割時：月額3,000円×42回</span>
+                    <span class="price3">分割時：月額2,200円×60回</span>
                 </div>
 
                 <div class="scroll">
@@ -292,45 +292,12 @@
                 <div class="shine"></div>
                 <h3 class="ttl">理由１：予約が取りやすい</h3>
             </div>
+            <p class="txta">当院では96%のお客様から予約が取りやすいという評価を受けています。「契約したのはいいけど予約が取れない・・・」などのトラブルが起きないように心がけて予約管理をしています。</p>
+
             <figure class="box">
                 <figcaption class="cap2">予約は取りやすい？</figcaption>
                 <img class="fig16" src="/assets/img/features/lp1/fig16.png">
             </figure>
-
-
-            <figure class="box">
-                <figcaption class="cap2">通院間隔は？</figcaption>
-                <img class="fig17" src="/assets/img/features/lp1/fig17.png">
-            </figure>
-            <p class="txtb">75%のお客様が<br>2～3か月の頻度で通院。<br>効果的なタイミングで<br>しっかり通える</p>
-            <p class="txta">3～4か月と回答した18％のお客様も、そのうち75％の方は自己都合で間隔をあけています。つまり、全体の9割の方が「最も効果的とされる2か月」から3か月の間隔で施術を受けることができています。</p>
-
-
-            <input type="checkbox" id="comment01_open" class="comment_open">
-            <div id="comment01" class="comment">
-                <label class="cHead" for="comment01_open">
-                    <h3 class="ttl">施術は2か月間隔が最も効果的です</h3>
-                    <div class="icon_toggle"></div>
-                </label>
-                <div class="cBody">
-                    <p class="txt">ベストな施術間隔はおよそ2か月です。多くの臨床結果より、何か月も間隔を空けて施術するよりも、2か月に1度の間隔で施術を受けたほうが脱毛効果が高いことが明らかになっています。（「2か月以上ならどれだけ間隔をあけても問題ない」というのは間違いです。）</p>
-                    <p class="txt">2か月に1回しっかり通うことで最大の脱毛効果を得ることができ、脱毛もより短い期間で完了します。</p>
-                </div>
-                <label class="icon_close" for="comment01_open"></label>
-            </div>
-
-            <input type="checkbox" id="comment02_open" class="comment_open">
-            <div id="comment02" class="comment">
-                <label class="cHead" for="comment02_open">
-                    <h3 class="ttl">間隔を空けすぎると<br>効果が落ちるので注意！</h3>
-                    <div class="icon_toggle"></div>
-                </label>
-                <div class="cBody">
-                    <p class="txt">施術間隔の空けすぎはよくありません。施術後に生えそろった毛が、レーザー照射を受けることなく休止期に入ってしまうためです。打てなかった毛は次回成長期がやってくる約10か月後まで照射することができません。しかもすべての毛が10ヵ月後に生えそろうわけではなく、周期にズレが生じるため、打ち逃した毛の照射にはもう数回照射が必要になってしまうのです。可能な限り2か月に1回ご来院ください。</p>
-                </div>
-                <label class="icon_close" for="comment02_open"></label>
-            </div>
-
 
 
             <div id="sec5-3" class="h3a b">
@@ -391,12 +358,12 @@
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">98,000</span></div>
-                                <div class="loan">医療ローン42回払い：<br>月&yen;3,000｜総額&yen;127,841</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;2,200｜総額&yen;133,280</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">149,200</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;3,500｜総額&yen;214,102</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;3,300｜総額&yen;202,912</div>
                             </div>
                         </div>
                     </div>
@@ -413,12 +380,12 @@
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">62,500</span></div>
-                                <div class="loan">医療ローン24回払い：<br>月&yen;3,000｜総額&yen;73,375</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;1,400｜総額&yen;85,000</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">95,000</span></div>
-                                <div class="loan">医療ローン41回払い：<br>月&yen;3,000｜総額&yen;123,238</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;2,100｜総額&yen;129,200</div>
                             </div>
                         </div>
                     </div>
@@ -435,12 +402,12 @@
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">100,000</span></div>
-                                <div class="loan">医療ローン43回払い：<br>月&yen;3,000｜総額&yen;131,175</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;2,200｜総額&yen;136,000</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">152,000</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;3,600｜総額&yen;218,120</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;3,400｜総額&yen;206,720</div>
                             </div>
                         </div>
                     </div>
@@ -457,12 +424,12 @@
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">75,000</span></div>
-                                <div class="loan">医療ローン30回払い：<br>月&yen;3,000｜総額&yen;91,312</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;1,700｜総額&yen;102,000</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">114,000</span></div>
-                                <div class="loan">医療ローン52回払い：<br>月&yen;3,000｜総額&yen;156,978</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;2,500｜総額&yen;155,040</div>
                             </div>
                         </div>
                     </div>
@@ -479,12 +446,12 @@
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">128,000</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;3,000｜総額&yen;183,680</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;2,900｜総額&yen;174,080</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">194,800</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;4,600｜総額&yen;279,538</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;4,400｜総額&yen;264,928</div>
                             </div>
                         </div>
                     </div>
@@ -611,12 +578,12 @@
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">203,000</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;4,800｜総額&yen;291,305</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;4,600｜総額&yen;276,080</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">308,800</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;7,300｜総額&yen;443,128</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;6,900｜総額&yen;419,968</div>
                             </div>
                         </div>
                     </div>
@@ -633,12 +600,12 @@
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">190,500</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;4,500｜総額&yen;273,367</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;4,300｜総額&yen;259,080</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">289,800</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;6,900｜総額&yen;415,863</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;6,500｜総額&yen;394,128</div>
                             </div>
                         </div>
                     </div>
@@ -673,7 +640,6 @@
                             <div class="grp">
                                 <div class="course">1回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">60,000</span></div>
-                                <div class="loan">医療ローン23回払い：<br>月&yen;3,000｜総額&yen;70,005</div>
                             </div>
                             <div class="grp">
                                 <div class="course">5回</div>
@@ -696,17 +662,16 @@
                             <div class="grp">
                                 <div class="course">1回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">52,000</span></div>
-                                <div class="loan">医療ローン19回払い：<br>月&yen;3,100｜総額&yen;59,163</div>
                             </div>
                             <div class="grp">
                                 <div class="course">5回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">228,000</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;5,400｜総額&yen;327,180</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;5,100｜総額&yen;310,080</div>
                             </div>
                             <div class="grp">
                                 <div class="course">8回</div>
                                 <div class="price"><span class="yen">&yen;</span><span class="num">346,800</span></div>
-                                <div class="loan">医療ローン60回払い：<br>月&yen;8,200｜総額&yen;497,658</div>
+                                <div class="loan">医療ローン60回払い：<br>月&yen;7,800｜総額&yen;471,648</div>
                             </div>
                         </div>
                     </div>

@@ -260,7 +260,7 @@
                     <div class="grp">
                         <div class="course">5回コース</div>
                         <div class="price"><span class="yen">&yen;</span><span class="num">98,000</span><span class="tax">税込</span></div>
-                        <div class="loan">医療ローン42回払い：<br>月&yen;3,000｜総額&yen;127,841</div>
+                        <div class="loan">医療ローン60回払い：<br>月&yen;2,200｜総額&yen;133,280</div>
                     </div>
                 </div>
                 <img class="pic" src="/assets/img/plan/p_w.png">
@@ -281,7 +281,7 @@
                     <div class="grp">
                         <div class="course">5回コース</div>
                         <div class="price"><span class="yen">&yen;</span><span class="num">100,000</span><span class="tax">税込</span></div>
-                        <div class="loan">医療ローン43回払い：<br>月&yen;3,000｜総額&yen;131,175</div>
+                        <div class="loan">医療ローン60回払い：<br>月&yen;2,200｜総額&yen;136,000</div>
                     </div>
                 </div>
                 <img class="pic" src="/assets/img/plan/p_v.png">
@@ -302,7 +302,7 @@
                     <div class="grp">
                         <div class="course">5回コース</div>
                         <div class="price"><span class="yen">&yen;</span><span class="num">75,000</span><span class="tax">税込</span></div>
-                        <div class="loan">医療ローン30回払い：<br>月&yen;3,000｜総額&yen;91,312</div>
+                        <div class="loan">医療ローン60回払い：<br>月&yen;1,700｜総額&yen;102,000</div>
                     </div>
                 </div>
                 <img class="pic" src="/assets/img/plan/p_f.png">

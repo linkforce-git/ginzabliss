@@ -43,7 +43,7 @@
             <div class="priceBox">
                 <div class="course">5回コース</div>
                 <div class="price"><span class="yen">&yen;</span><span class="num">75,000</span><span class="tax">税込</span></div>
-                <div class="loan">月額3,000円×30回</div>
+                <div class="loan">月額1,700円×60回</div>
 
                 <div class="course">都度払い (1回)</div>
                 <div class="price"><span class="yen">&yen;</span><span class="num">20,000</span><span class="tax">税込</span></div>
@@ -179,31 +179,24 @@
                 <div class="shine"></div>
                 <h3 class="ttl">顔脱毛の施術間隔</h3>
             </div>
-            <p class="txta"><em>施術間隔はおよそ2か月に一度です。</em><br>脱毛効果を最大限に高めるため、すべてのお客様に2か月（＋1～2週間）に一度の来院を推奨しています。できる限り2か月に一度の頻度でご来院ください。</p>
+            <p class="txta"><em>施術間隔はおよそ1.5か月～2か月に一度です。</em><br>脱毛効果を最大限に高めるため、すべてのお客様に1.5か月～2か月に一度の来院を推奨しています。できる限り1.5か月～2か月に一度の頻度でご来院ください。</p>
 
             <input type="checkbox" id="comment01_open" class="comment_open">
             <div id="comment01" class="comment">
                 <label class="cHead" for="comment01_open">
-                    <h3 class="ttl">なぜ、施術は2か月に1回なの？</h3>
+                    <h3 class="ttl">なぜ、施術は1.5か月～2か月に<br>1回なの？</h3>
                     <div class="icon_toggle"></div>
                 </label>
                 <div class="cBody">
-                    <p class="txt">推奨は2か月に一度です。<em>施術間隔の空けすぎは決して望ましくありません。</em>その理由は“照射されない毛が増えてしまうから”です。詳しく説明しましょう。</p>
+                    <p class="txt">推奨は1.5か月～2か月に一度です。<em>施術間隔の空けすぎは決して望ましくありません。</em>その理由は“照射されない毛が増えてしまうから”です。詳しく説明しましょう。</p>
                     <p class="txt">肌には、常にすべての毛が生えているわけではありません。肌に「今生えている毛」は20％程度であり、残り80％は休眠しています。</p>
-                    <p class="txt">一度照射をすると、今生えている20％の毛の大部分は抜け落ちます。その後、休眠していた次の20％が生えてくるのですが、この<em>次に生えてくる毛は、2か月から4か月のうちに生えそろい、そして次々に抜け始めて休止期に入ってしまう</em>のです。</p>
+                    <p class="txt">一度照射をすると、今生えている20％の毛の大部分は抜け落ちます。その後、休眠していた次の20％が生えてくるのですが、この<em>次に生えてくる毛は、1.5か月～2か月から4か月のうちに生えそろい、そして次々に抜け始めて休止期に入ってしまう</em>のです。</p>
                     <p class="txt">つまり…照射の後に<em>3か月も4か月も施術間隔をあけてしまうと、前回照射後に生えそろったの毛にレーザーを照射できない</em>ことになってしまいます。</p>
                     <p class="txt">そして、この打ち漏らした毛が次に生えてくるのは約10ヵ月も先…。<br>しかも、次に生えてくるときは一斉に生えてくるわけではなく、毛穴ごとに数か月単位で発毛タイミングがズレます。つまり、<em>一度打ち漏らした毛を抜くために、複数回の施術が必要になってしまう</em>ということなのです。</p>
-                    <p class="txt">施術間隔の空けすぎはよくありません。「2か月以上ならどれだけ空けても問題ない」というのは間違いです。できる限り、2か月に一度の頻度で施術を受けるようにしましょう。</p>
+                    <p class="txt">施術間隔の空けすぎはよくありません。「1.5か月～2か月以上ならどれだけ空けても問題ない」というのは間違いです。できる限り、1.5か月～2か月に一度の頻度で施術を受けるようにしましょう。</p>
                 </div>
                 <label class="icon_close" for="comment01_open"></label>
             </div>
-
-            <div class="h3a r">
-                <div class="shine"></div>
-                <h3 class="ttl">2か月に一度、<br>しっかり通えます</h3>
-            </div>
-            <p class="txta"><em>当院では95％以上のお客様が、2～3か月に一度のペースで通い続けています。</em><br>「予約が取れなくて2か月に1回通えない」ということはほぼありません。残り5％も、ご妊娠や体調不良など、お客様都合によるものがほとんどです。</p>
-            <p class="txta">2か月に1回しっかり通えるから、最大の脱毛効果を得ることができ、脱毛もより短い期間で完了します。<em>脱毛完了までに3年も4年もかかるということはありません</em>し、毎日キャンセル待ちをする必要もありません。</p>
         </div>
         <div class="next_arw"></div>
     </section>
@@ -230,12 +223,12 @@
                         <div class="grp">
                             <div class="course">5回</div>
                             <div class="price"><span class="yen">&yen;</span><span class="num">75,000</span></div>
-                            <div class="loan">医療ローン30回払い：<br>月&yen;3,000｜総額&yen;91,312</div>
+                            <div class="loan">医療ローン60回払い：<br>月&yen;1,700｜総額&yen;102,000</div>
                         </div>
                         <div class="grp">
                             <div class="course">8回</div>
                             <div class="price"><span class="yen">&yen;</span><span class="num">114,000</span></div>
-                            <div class="loan">医療ローン52回払い：<br>月&yen;3,000｜総額&yen;156,978</div>
+                            <div class="loan">医療ローン60回払い：<br>月&yen;2,500｜総額&yen;155,040</div>
                         </div>
                     </div>
                 </div>
