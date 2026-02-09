@@ -11,17 +11,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "ブリス医療脱毛の特長",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/features/"
+        "item": "https://www.ginzabliss.com/features/"
     },{
         "@type": "ListItem",
         "position": 3,
         "name": "2分でわかる！ブリス脱毛のすべて",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/features/lp1/"
+        "item": "https://www.ginzabliss.com/features/lp1/"
     }]
 }
 </script>

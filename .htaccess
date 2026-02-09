@@ -1,7 +1,6 @@
-
 #AuthType Basic
 #AuthName "Input your ID and Password."
-#AuthUserFile /home/linkforce-media/www/ginza-bliss-skin.medical-gl.com/.htpasswd
+#AuthUserFile /home/maroonalpaca44/www/ginzabliss.com/.htpasswd
 #require valid-user
 
 <IfModule mod_rewrite.c>

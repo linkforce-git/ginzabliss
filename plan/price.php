@@ -11,12 +11,12 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "医療脱毛の料金一覧",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/plan/price"
+        "item": "https://www.ginzabliss.com/plan/price"
     }]
 }
 </script>

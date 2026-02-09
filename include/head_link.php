@@ -1,5 +1,5 @@
 <?php
-    if ($_SERVER["HTTP_HOST"] === "www.ginza-bliss-skin.medical-gl.com") {
+    if ($_SERVER["HTTP_HOST"] === "www.ginzabliss.com") {
         $gtm_id = "GTM-5MGVZJGV"; // 本番
     } else {
         $gtm_id = "GTM-5TPFMRG"; // テスト

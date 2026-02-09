@@ -11,17 +11,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "医療脱毛のイロハ",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/"
+        "item": "https://www.ginzabliss.com/knowledge/"
     },{
         "@type": "ListItem",
         "position": 3,
         "name": "エステ脱毛と医療脱毛の違い",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/difference"
+        "item": "https://www.ginzabliss.com/knowledge/difference"
     }]
 }
 </script>

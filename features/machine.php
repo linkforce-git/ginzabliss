@@ -11,17 +11,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "ブリス医療脱毛の特長",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/features/"
+        "item": "https://www.ginzabliss.com/features/"
     },{
         "@type": "ListItem",
         "position": 3,
         "name": "当院脱毛機の特長と効果の違い",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/features/machine"
+        "item": "https://www.ginzabliss.com/features/machine"
     }]
 }
 </script>

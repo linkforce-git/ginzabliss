@@ -11,12 +11,12 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "VIO脱毛プラン",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/plan/vio"
+        "item": "https://www.ginzabliss.com/plan/vio"
     }]
 }
 </script>

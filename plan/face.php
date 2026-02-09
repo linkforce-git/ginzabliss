@@ -11,12 +11,12 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "顔脱毛プラン",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/plan/face"
+        "item": "https://www.ginzabliss.com/plan/face"
     }]
 }
 </script>

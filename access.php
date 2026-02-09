@@ -11,12 +11,12 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "アクセス・連絡先情報",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/access"
+        "item": "https://www.ginzabliss.com/access"
     }]
 }
 </script>

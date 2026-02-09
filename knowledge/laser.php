@@ -11,17 +11,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "TOP",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/"
+        "item": "https://www.ginzabliss.com/"
     },{
         "@type": "ListItem",
         "position": 2,
         "name": "医療脱毛のイロハ",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/"
+        "item": "https://www.ginzabliss.com/knowledge/"
     },{
         "@type": "ListItem",
         "position": 3,
         "name": "医療脱毛レーザーの種類と効果の違い",
-        "item": "https://www.ginza-bliss-skin.medical-gl.com/knowledge/laser"
+        "item": "https://www.ginzabliss.com/knowledge/laser"
     }]
 }
 </script>
