@@ -69,7 +69,7 @@
                 <h2 class="jp">電話番号</h2>
             </div>
             <div class="telBox">
-                <p class="link"><a href="tel:0300000000"><span class="tel">TEL.</span><span class="num">03-0000-0000</span></a></p>
+                <p class="link"><a href="tel:0363272322"><span class="tel">TEL.</span><span class="num">03-6327-2322</span></a></p>
                 <p class="txta">
                     　受付　平日12：00～21：00<br>
                     土日祝　10：00～19：00<br>
