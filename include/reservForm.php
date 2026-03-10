@@ -151,6 +151,25 @@
                 <div id="btnReserv">予約を申し込む</div>
                 <input type="hidden" name="csrf_token" value="<?= $csrf_token ?>">
             </form>
+
+            <div class="commingsoon">
+                <div class="grp1">
+                    <p class="ttl">Commin Soon！</p>
+                    <p class="txt">現在、フォームからのご予約はできません。</p>
+                </div>
+                <div class="grp2">
+                    <p class="txt">大変お手数ではございますが、ご予約のお問い合わせはお電話にてお願いいたします。</p>
+                    <br>
+                    <br>
+                    <p class="txt">
+                        TEL：<a class="link1" href="tel:0363272322">03-6327-2322</a><br>
+                        受付：平日12：00～21：00<br>
+                        土日祝：10：00～19：00<br>
+                        休診日：木曜(祝日は除く)
+                    </p>
+                </div>
+                <label class="close" for="reserv_open">CLOSE</label>
+            </div>
         </div>
         <div class="thanksWrap">
             <div class="grp1">
