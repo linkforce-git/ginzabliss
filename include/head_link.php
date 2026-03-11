@@ -1,6 +1,6 @@
 <?php
     if ($_SERVER["HTTP_HOST"] === "www.ginzabliss.com") {
-        $gtm_id = "GTM-5MGVZJGV"; // 本番
+        $gtm_id = "GTM-PVLC247K"; // 本番
     } else {
         $gtm_id = "GTM-5TPFMRG"; // テスト
     }
