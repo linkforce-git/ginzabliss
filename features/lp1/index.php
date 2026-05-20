@@ -33,19 +33,12 @@
 
 <main>
     <div id="fv">
-        <nav class="breadcrumbs">
-            <ol>
-                <li><a href="/"><img src="/assets/img/home.svg" alt="HOME"></a></li>
-                <li><a href="/features/">ブリス医療脱毛の特長</a></li>
-                <li>2分でわかる！ブリス脱毛のすべて</li>
-            </ol>
-        </nav>
         <div class="bg">
             <video src="/assets/img/features/lp1/lpfv.mp4" type="video/mp4" autoplay muted loop playsinline></video>
         </div>
         <div class="wrapper">
             <div class="inner">
-                <h1 class="head1">2分でわかる！ブリス脱毛のすべて</h1>
+                <h1 class="head1">早く・安く・キレイな素肌へ</h1>
                 <h2 class="head2">
                     <span class="line">熱量重視の</span><br>
                     <span class="line">高コスパ</span><br>
@@ -703,57 +696,12 @@
 
 <?php include(__DIR__.'/../../include/flowArea.php'); ?>
 
-<?php $linkToTop = true; // 電話番号の部分をトップへのリンクに変更（true:変更する、false:変更しない） ?>
+<?php
+    $linkToTop = true; // 電話番号の部分をトップへのリンクに変更（true:変更する、false:変更しない）
+    $isViewTelArea = false; // 電話番号の部分（トップへのリンクの場合も）を表示（true:表示する、false:表示しない）
+?>
 <?php include(__DIR__.'/../../include/counsArea.php'); ?>
 
-    <section id="secFootLink1">
-        <div class="wrapper">
-            <div class="h2a">
-                <div class="en">IROHA</div>
-                <h2 class="jp">医療脱毛のイロハ</h2>
-            </div>
-            <ul class="link_list">
-                <li><a href="/knowledge/principle">医療脱毛のしくみ</a></li>
-                <li><a href="/knowledge/reason">何回も脱毛施術が必要な理由</a></li>
-                <li><a href="/knowledge/guideline">医療脱毛の施術回数と効果</a></li>
-                <li><a href="/knowledge/effect">脱毛効果を決定する3大因子</a></li>
-                <li><a href="/knowledge/laser">医療脱毛レーザーの種類と効果の違い</a></li>
-                <li><a href="/knowledge/type">熱破壊式と蓄熱式の違い</a></li>
-                <li><a href="/knowledge/difference">エステ脱毛と医療脱毛の違い</a></li>
-                <li><a href="/knowledge/risk">医療脱毛のリスク・副作用</a></li>
-            </ul>
-        </div>
-    </section>
-    <section id="secFootLink2">
-        <div class="wrapper">
-            <div class="h2a">
-                <div class="en">FEATURES</div>
-                <h2 class="jp">ブリス医療脱毛の特長</h2>
-            </div>
-            <ul class="link_list">
-                <li><a href="/features/effect_Commitment">脱毛効果へのこだわり</a></li>
-                <li><a href="/features/pain_Commitment">痛み低減へのこだわり</a></li>
-                <li><a href="/features/price_Commitment">公正な価格表記へのこだわり</a></li>
-                <li><a href="/features/machine">当院脱毛機の特長と効果の違い</a></li>
-                <li><a href="/features/review">エクレアプロに関するアンケート結果</a></li>
-                <li><a href="/features/faq">当院サービスに関するQ&amp;A</a></li>
-            </ul>
-        </div>
-    </section>
-    <section id="secFootLink3">
-        <div class="wrapper">
-            <div class="h2a">
-                <div class="en">PLAN</div>
-                <h2 class="jp">医療脱毛プランと<br>料金のご案内</h2>
-            </div>
-            <ul class="link_list">
-                <li><a href="/plan/body">全身脱毛プラン</a></li>
-                <li><a href="/plan/vio">VIO脱毛プラン</a></li>
-                <li><a href="/plan/face">顔脱毛プラン</a></li>
-                <li><a href="/plan/price">医療脱毛の料金一覧</a></li>
-            </ul>
-        </div>
-    </section>
 </main>
 
 <?php include(__DIR__.'/../../include/footer.php'); ?>

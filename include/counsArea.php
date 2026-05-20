@@ -1,6 +1,9 @@
 <?php
     if( ! isset( $epiPage ) ) $epiPage = true; // 脱毛に関する文章の出し分け（true:表示する、false:表示しない）
     if( ! isset( $linkToTop ) ) $linkToTop = false; // 電話番号の部分をトップへのリンクに変更（true:変更する、false:変更しない）
+    if( ! isset( $isViewTelArea ) ) $isViewTelArea = true; // 電話番号の部分（トップへのリンクの場合も）を表示（true:表示する、false:表示しない）
+
+    
 ?>
     <section id="counsArea">
         <div class="bg"></div>
@@ -31,6 +34,7 @@
                     <div class="arw"></div>
                 </label>
                 <?php /* </a> */ ?>
+<?php if( $isViewTelArea ): ?>
 <?php if( $linkToTop ): ?>
                 <div class="linkTop">
                     <h3 class="txt">当院についてもっと知りたい方</h3>
@@ -50,10 +54,12 @@
                     <p class="txt">受付：平日12：00～21：00<br>土日祝　10：00～19：00<br>休診日：木曜(祝日は除く)</p>
                 </div>
 <?php endif; ?>
+<?php endif; ?>
             </div>
         </div>
     </section>
 <?php 
     // 変数リセット
     unset($linkToTop);
+    unset($isViewTelArea);
 ?>

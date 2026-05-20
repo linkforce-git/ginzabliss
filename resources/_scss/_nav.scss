@@ -724,6 +724,9 @@
         @media (min-width: 768px) {
             width: 358px;
         }
+        .filter {
+            display: none;
+        }
         &.hide {
             opacity: 0;
             pointer-events: none;

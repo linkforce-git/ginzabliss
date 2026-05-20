@@ -261,21 +261,24 @@
         </div>
     </div>
     <div id="floatBtn" class="hide">
-        <label class="menuGrpBtn" for="nav_float_knowledge">
+        <label id="floatBtn_knowledge" class="menuGrpBtn" for="nav_float_knowledge">
             <img class="icon" src="/assets/img/icon_know.svg">
             <span class="txt">脱毛<br>イロハ</span>
         </label>
-        <label class="menuGrpBtn" for="nav_float_features">
+        <label id="floatBtn_features" class="menuGrpBtn" for="nav_float_features">
             <div class="icon shine"></div>
             <span class="txt">ブリス<br>の特長</span>
         </label>
-        <label class="menuGrpBtn" for="nav_float_plan">
+        <label id="floatBtnt_plan" class="menuGrpBtn" for="nav_float_plan">
             <img class="icon" src="/assets/img/icon_plan.svg">
             <span class="txt">プラン<br>と料金</span>
         </label>
         <label class="closeBtn" for="nav_close">CLOSE</label>
         <?php /* <a class="f_reserv" href="https://reservation.medical-force.com/c/c950ae3c1f524f10b649d40de1072856/reservations/new?menu_entrance_id=5cf3a3bd-8bf5-4f3a-8d81-3a30178480a8" target="_blank" rel="noopener">無料<span>カウンセリング</span>予約</a> */ ?>
-        <label class="f_reserv" for="reserv_open">無料<span>カウンセリング</span>予約</label>
+        <label id="floatBtn_reserv" class="f_reserv" for="reserv_open">
+            <div class="filter"><?php include(__DIR__.'/svg_waves.php'); ?></div>
+            無料<span>カウンセリング</span>予約
+        </label>
     </div>
 </nav>
 

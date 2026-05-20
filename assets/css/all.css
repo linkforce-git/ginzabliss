@@ -2602,6 +2602,9 @@ footer .copy {
     width: 358px;
   }
 }
+#gMenu #floatBtn .filter {
+  display: none;
+}
 #gMenu #floatBtn.hide {
   opacity: 0;
   pointer-events: none;
@@ -5919,7 +5922,7 @@ body#lp1 #fv .bg {
   width: 100%;
   height: calc(100% - 116px);
   position: absolute;
-  top: 116px;
+  top: 96px;
   left: 0;
 }
 body#lp1 #fv .bg::after {
@@ -6480,4 +6483,37 @@ body#lp1 #counsArea .linkTop .btn.white .arw {
   background: url(../img/features/lp1/arw_btn2.svg) center/10px 10px no-repeat;
   border: 1px solid #044E58;
   margin-left: 16px;
+}
+body#lp1 #floatBtn #floatBtn_knowledge {
+  display: none;
+}
+body#lp1 #floatBtn #floatBtn_features {
+  display: none;
+}
+body#lp1 #floatBtn #floatBtnt_plan {
+  width: 32.5443786982%;
+}
+body#lp1 #floatBtn #floatBtnt_plan .txt br {
+  display: none;
+}
+body#lp1 #floatBtn #floatBtn_reserv {
+  width: 64.4970414201%;
+  flex-flow: row;
+  position: relative;
+  color: #FFF;
+  font-weight: 700;
+  background: linear-gradient(270deg, #FF85A0 0%, #FF8E7A 16.627%, #FFA94D 33.253%, #FFCC19 49.88%, #9CDB5C 66.587%, #48DBAC 83.293%, #2BCBD5 100%);
+  overflow: hidden;
+}
+body#lp1 #floatBtn #floatBtn_reserv .filter {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(transparent 65px, #044E58 65px);
+  mix-blend-mode: soft-light;
+  padding-top: 25px;
+  position: absolute;
+}
+body#lp1 #floatBtn #floatBtn_reserv .waves {
+  fill: #044E58;
 }
