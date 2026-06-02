@@ -442,6 +442,9 @@ label {
         .shine, &::after {
             background: $colorY1;
         }
+        .ttl {
+            color: $colorY1;
+        }
     }
     &.b {
         .shine, &::after {
