@@ -1,7 +1,7 @@
 <?php
     $title = '医療脱毛だからこそ、ちゃんと抜けるにこだわりたい | 銀座ブリススキンクリニック';
     $description = '銀座ブリススキンクリニックのしっかり抜けて通いやすい医療脱毛。全身5回98,000円。全身+顔+VIO5回198,000円。医療脱毛を考えたとき、気になるのは価格だけではないから、当院は効果と通いやすさを両立させたちゃんと終わる医療脱毛を目指します。';
-    $pageId = 'lp2';
+    $pageId = 'lp3';
     include(__DIR__.'/../../include/head_link.php');
 ?>
 <script type="application/ld+json">
@@ -30,7 +30,7 @@
 
 
 </head>
-<body id="lp2" class="features">
+<body id="lp3" class="features">
 <div class="bodyWrapper">
 
 <?php include(__DIR__.'/../../include/header.php'); ?>
@@ -91,11 +91,13 @@
                 </p>
             </div>
 
-            <h2 class="head1">
-                <span class="text1">銀座ブリススキンクリニックの</span>
-                <span class="text2">しっかり抜けて通いやすい<br>医療脱毛</span>
-            </h2>
-
+            <figure class="box">
+                <figcaption class="cap2">8回以下の施術で<br><b class="big">91</b>％が効果に満足</figcaption>
+                <picture>
+                    <source type="image/webp" srcset="/assets/img/features/lp2/graph1.png.webp">
+                    <img class="fig13" src="/assets/img/features/lp2/graph1.png" alt="「全身脱毛」の施術回数と満足度">
+                </picture>
+            </figure>
 
             <div class="priceBox2">
                 <span class="label1">
@@ -118,18 +120,13 @@
                 </span>
             </div>
 
-            <p class="head2">医療脱毛を考えたとき、<br>気になるのは<br>“価格”だけではないから</p>
-            <picture class="pic01">
-                <source type="image/webp" srcset="/assets/img/features/lp2/pic01.png.webp">
-                <img src="/assets/img/features/lp2/pic01.png" alt="">
-            </picture>
             <p class="head3">
-                当院は<span class="text1">“効果”</span>と<span class="text1">“通いやすさ”</span>を<br>両立させた
+                銀座ブリススキンクリニックは
             </p>
             <p class="head4">
-                <span class="text1">“ちゃんと終わる医療脱毛”</span>
+                <span class="text1">価格を抑えながら<br>しっかり抜ける</span>
             </p>
-            <p class="head5">を目指します</p>
+            <p class="head5">医療脱毛を目指します</p>
         </div>
     </section>
 
@@ -145,72 +142,36 @@
                 <svg class="shadow"><use href="#shadow"/></svg>
                 <div class="icon shine"></div>
             </div>
-            <div class="sub">銀座ブリススキンクリニックの</div>
-            <h2 class="ttl">医療脱毛のこだわり</h2>
+            <h2 class="ttl"><span class="big">91％が効果に満足</span><br>その理由とこだわり</h2>
         </div>
         <div class="wrapper gap52">
             <div>
                 <div class="h3a b">
                     <div class="shine"></div>
-                    <h3 class="ttl">高い総熱量の蓄熱式で、<br>痛みを抑えてしっかり抜ける</h3>
+                    <h3 class="ttl">ちゃんと抜ける熱量<br>にこだわる</h3>
                 </div>
                 <div class="gap40">
                     <p class="txta">
-                        脱毛で気になる「効果」と「痛み」の関係は、実はシンプル。<br>
-                        <b>一発の熱量</b>が高いほど<b>痛みが強く、合計の熱量</b>が高いほど<b>よく抜けます。</b>
+                        医療脱毛で「効果」を出す方法は実はシンプル。<b>「熱量」が高ければよく抜けて、低ければ抜けません。</b>
                     </p>
-                    <picture class="table1">
-                        <source type="image/webp" srcset="/assets/img/features/lp2/table1.png.webp">
-                        <img src="/assets/img/features/lp2/table1.png" alt="">
-                    </picture>
-
-                    <div class="wrap343_350 gap40">
-                        <div class="boxWhite">
-                            <div class="boxHead1">
-                                <h4 class="text1">高熱量の一発照射で<br>毛根を壊す「熱破壊式」</h4>
-                            </div>
-                            <picture class="pic03">
-                                <source type="image/webp" srcset="/assets/img/features/lp2/pic03.png.webp">
-                                <img src="/assets/img/features/lp2/pic03.png" alt="">
-                            </picture>
-                            <p class="boxText1">
-                                痛みは強いものの、高い熱量で確実に毛根を破壊できます。しかし、<b>痛みを抑えるために熱量を下げると、効果が一気に低下</b>します。
-                            </p>
-                        </div>
-
-                        <div class="boxWhite">
-                            <div class="boxHead1">
-                                <h4 class="text1">低い熱量を重ねることで<br>毛根を壊す「蓄熱式」</h4>
-                            </div>
-                            <picture class="pic04">
-                                <source type="image/webp" srcset="/assets/img/features/lp2/pic04.png.webp">
-                                <img src="/assets/img/features/lp2/pic04.png" alt="">
-                            </picture>
-                            <p class="boxText1">
-                                レーザー一発の熱量は低いので、痛みが少ないのがメリットです。一発では当然毛は抜けませんが、<b>重ね打ちすることで合計の熱量を維持すれば、しっかり毛根を破壊</b>できます。
-                            </p>
-                        </div>
-
-                        <div class="boxWhite">
-                            <div class="boxHead2">
-                                <p class="label1"><span class="text1">でも・・・</span></p>
-                                <h4 class="text2">「総熱量を落とした蓄熱式」<br>に要注意！</h4>
-                            </div>
-                            <picture class="pic05">
-                                <source type="image/webp" srcset="/assets/img/features/lp2/pic05.png.webp">
-                                <img src="/assets/img/features/lp2/pic05.png" alt="">
-                            </picture>
-                            <div class="textGrp1">
-                                <p class="boxText1 ls05 green">一部の格安クリニックでは、蓄熱式なのに重ね打ちをしない場合があります。重ね打ちせず、総熱量が足りなければ、当然毛は抜けません。</p>
-                                <p class="boxText1 indent ls05 green">✓やったけど全然抜けなかった</p>
-                                <p class="boxText1 indent ls05 green">✓カウンセリングに行ったら、高いプランじゃないと抜けないと言われた</p>
-                                <p class="boxText1 ls05 green">よくあるトラブルは、<br>このようにして起こっています。</p>
-                            </div>
-                        </div>
+                    <div class="tbl1Wrap">
+                        <table class="tbl1">
+                            <tr>
+                                <th></th>
+                                <th>高い</th>
+                                <th>低い</th>
+                            </tr>
+                            <tr>
+                                <th>総熱量</th>
+                                <td class="red">抜ける</td>
+                                <td>抜けない</td>
+                            </tr>
+                        </table>
                     </div>
+
                     <p class="txta">
-                        当院の医療脱毛は<b>蓄熱式</b>。全身5回98,000円で<b>安全に照射可能な限界熱量を確実に照射</b>します。<br>
-                        A4用紙サイズあたり（600㎠）28.2kJ。お一人お一人の<b>身体の面積に合わせて照射熱量を算出</b>するので、体格によって効果が落ちることもありません。
+                        当院は、全身5回98,000円で<b>安全に照射可能な限界熱量「A4用紙サイズあたり（600㎠）28.2kJ」を確実に照射</b>。<br>
+                        <b>蓄熱式</b>なので、痛みも最小限に抑えられます。
                     </p>
                     <div class="wrap343_350 gap40">
                         <div class="boxWhite gap0">
@@ -220,6 +181,21 @@
                                 <span class="indent"><b>✓ホームページと実際の料金が同じ</b></span><br>
                                 <span class="indent"><b>✓日焼け肌やお肌の弱い方でも施術OK</b></span>
                             </p>
+                        </div>
+                        <div class="boxWhite">
+                            <div class="boxHead2">
+                                <h4 class="text2">「総熱量を落とした蓄熱式」<br>に要注意！</h4>
+                            </div>
+                            <picture class="pic05">
+                                <source type="image/webp" srcset="/assets/img/features/lp2/pic05.png.webp">
+                                <img src="/assets/img/features/lp2/pic05.png" alt="">
+                            </picture>
+                            <div class="textGrp1">
+                                <p class="boxText1 ls05 green">一部の格安クリニックは、時間を短縮するために総熱量を下げてる場合があります。痛みが少なく、早く終わっても、熱量が足りなければ当然毛は抜けません。</p>
+                                <p class="boxText1 indent ls05 green">✓やったけど全然抜けなかった</p>
+                                <p class="boxText1 indent ls05 green">✓カウンセリングに行ったら、高いプランじゃないと抜けないと言われた</p>
+                                <p class="boxText1 ls05 green">よくあるトラブルは、<br>このようにして起こっています。</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -257,47 +233,31 @@
             <div>
                 <div class="h3a b">
                     <div class="shine"></div>
-                    <h3 class="ttl">インモーション照射で<br>すみずみまでキレイ</h3>
+                    <h3 class="ttl">銀座で、通いやすい価格設定</h3>
                 </div>
                 <div class="gap40">
-                    <p class="txta">
-                        医療脱毛は、レーザーの照射ヘッドを少しづつ動かしながら照射部位に熱を入れていきます。その際<b>どうしても、照射のムラ（打ち漏れ）ができてしまいます</b>。
-                    </p>
-                    <div class="video01">
-                        <video src="/assets/video/sejutu.mp4" type="video/mp4" autoplay muted loop playsinline></video>
-                    </div>
-                    <p class="txta">
-                        当院の医療脱毛は、ヘッドをくるくる動かす「インモーション」を採用。<b>ムラ無く満遍なく熱を入れやすいので、照射漏れのリスクが低い</b>のです。
-                    </p>
-                    <div class="wrap343_350 gap40">
-                        <div class="boxWhite gap0">
-                            <p class="txta center">だから、</p>
-                            <p class="txta center">
-                                <b>全身すみずみまでしっかり抜ける</b>
-                            </p>
-                        </div>
+                    <picture class="pica">
+                        <source type="image/webp" srcset="/assets/img/features/lp2/pic08.jpg.webp">
+                        <img src="/assets/img/features/lp2/pic08.jpg" alt="">
+                    </picture>
 
-                        <div class="boxWhite">
-                            <div class="boxHead2">
-                                <p class="label1"><span class="text1">当院の脱毛機</span></p>
-                                <h4 class="text2">次世代蓄熱脱毛機<br>エクレアプロ</h4>
-                            </div>
-                            <div class="flexArea">
-                                <div class="textGrp1">
-                                    <p class="boxText1 ls05 green">当院が使用するのは、<br>次世代型の蓄熱式脱毛機「エクレアプロ」。</p>
-                                    <p class="boxText1 indent ls05 green">✓肌面積に合わせて<br>熱量を調整</p>
-                                    <p class="boxText1 indent ls05 green">✓３つの波長<br>すべて使用可能</p>
-                                    <p class="boxText1 indent ls05 green">✓インモーションで<br>照射漏れし難い</p>
-                                    <p class="boxText1 ls05 green">そんな、最新鋭の脱毛機です。</p>
-                                </div>
-                                <picture class="picEclair">
-                                    <source type="image/webp" srcset="/assets/img/features/lp2/eclair.png.webp">
-                                    <img src="/assets/img/features/lp2/eclair.png" alt="">
-                                </picture>
-                            </div>
-                        </div>
+                    <p class="txta">
+                        もちろん費用も妥協しません。全身５回で98,000円は<b>銀座エリア最安クラス</b>。HPの料金そのまま、<b>追加料金は掛かりません</b>。
+                    </p>
+                    <div class="boxWhite gap0">
+                        <p class="txta center">だから、</p>
+                        <p class="txta center">
+                            <b>コスパよく脱毛したい方にオススメ</b>
+                        </p>
                     </div>
                 </div>
+            </div>
+            <div>
+                <p class="head2">しっかり抜けて低価格<br>でも気になるのは<br>それだけじゃない</p>
+                <picture class="pic01">
+                    <source type="image/webp" srcset="/assets/img/features/lp2/pic01.png.webp">
+                    <img src="/assets/img/features/lp2/pic01.png" alt="">
+                </picture>
             </div>
             <div>
                 <div class="h3a b">
@@ -324,28 +284,6 @@
             <div>
                 <div class="h3a b">
                     <div class="shine"></div>
-                    <h3 class="ttl">銀座で、通いやすい価格設定</h3>
-                </div>
-                <div class="gap40">
-                    <picture class="pica">
-                        <source type="image/webp" srcset="/assets/img/features/lp2/pic08.jpg.webp">
-                        <img src="/assets/img/features/lp2/pic08.jpg" alt="">
-                    </picture>
-
-                    <p class="txta">
-                        もちろん費用も妥協しません。全身５回で98,000円は<b>銀座エリア最安クラス</b>。HPの料金そのまま、<b>追加料金は掛かりません</b>。
-                    </p>
-                    <div class="boxWhite gap0">
-                        <p class="txta center">だから、</p>
-                        <p class="txta center">
-                            <b>コスパよく脱毛したい方にオススメ</b>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="h3a b">
-                    <div class="shine"></div>
                     <h3 class="ttl">施術室もカウンセリング室も<br>全て個室</h3>
                 </div>
                 <div class="gap40">
@@ -362,6 +300,52 @@
                         <p class="txta center">
                             <b>プライバシーも◎で安心</b>
                         </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="h3a b">
+                    <div class="shine"></div>
+                    <h3 class="ttl">インモーション照射で<br>すみずみまでキレイ</h3>
+                </div>
+                <div class="gap40">
+                    <p class="txta">
+                        医療脱毛は、レーザーの照射ヘッドを少しづつ動かしながら照射部位に熱を入れていきます。その際<b>どうしても、照射のムラ（打ち漏れ）ができてしまいます</b>。
+                    </p>
+                    <div class="video01">
+                        <video src="/assets/video/sejutu.mp4" type="video/mp4" autoplay muted loop playsinline></video>
+                    </div>
+                    <p class="txta">
+                        当院の医療脱毛は、ヘッドをくるくる動かす「インモーション」を採用。<b>ムラ無く満遍なく熱を入れやすいので、照射漏れのリスクが低い</b>のです。
+                    </p>
+                    <div class="wrap343_350 gap40">
+                        <div class="boxWhite gap0">
+                            <p class="txta center">だから、</p>
+                            <p class="txta center">
+                                <b>全身すみずみまでしっかり抜ける</b>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wrap343_350 gap40">
+                <div class="boxWhite">
+                    <div class="boxHead2">
+                        <p class="label1"><span class="text1">当院の脱毛機</span></p>
+                        <h4 class="text2">次世代蓄熱脱毛機<br>エクレアプロ</h4>
+                    </div>
+                    <div class="flexArea">
+                        <div class="textGrp1">
+                            <p class="boxText1 ls05 green">当院が使用するのは、<br>次世代型の蓄熱式脱毛機「エクレアプロ」。</p>
+                            <p class="boxText1 indent ls05 green">✓肌面積に合わせて<br>熱量を調整</p>
+                            <p class="boxText1 indent ls05 green">✓３つの波長<br>すべて使用可能</p>
+                            <p class="boxText1 indent ls05 green">✓インモーションで<br>照射漏れし難い</p>
+                            <p class="boxText1 ls05 green">そんな、最新鋭の脱毛機です。</p>
+                        </div>
+                        <picture class="picEclair">
+                            <source type="image/webp" srcset="/assets/img/features/lp2/eclair.png.webp">
+                            <img src="/assets/img/features/lp2/eclair.png" alt="">
+                        </picture>
                     </div>
                 </div>
             </div>
@@ -769,77 +753,6 @@
             <p class="txta"><span class="bgpink b">施術間隔はおよそ1.5か月～2か月に一度です。</span><br>脱毛効果を最大限に高めるため、すべてのお客様に1.5か月～2か月に一度の来院を推奨しています。できる限り1.5か月～2か月に一度の頻度でご来院ください。</p>
 
 
-            <div class="h3a r">
-                <div class="shine"></div>
-                <h3 class="ttl">部位・目標別<br>推奨回数</h3>
-            </div>
-            <div class="timesBox">
-                <h4 class="head body">全身脱毛</h4>
-                <ul>
-                    <li>
-                        <div class="goal">ツルツルにしたい</div>
-                        <div class="times"><span class="num">8</span>回以上</div>
-                    </li>
-                    <li>
-                        <div>
-                            <div class="goal">8割減目標</div>
-                            <div class="note">(産毛以外ほぼない)</div>
-                        </div>
-                        <div class="times"><span class="num">5～8</span>回</div>
-                    </li>
-                    <li>
-                        <div>
-                            <div class="goal">5割減目標</div>
-                            <div class="note">(自己処理を楽にしたい)</div>
-                        </div>
-                        <div class="times"><span class="num">5</span>回</div>
-                    </li>
-                </ul>
-            </div>
-            <div class="timesBox">
-                <h4 class="head vio">VIO脱毛</h4>
-                <ul>
-                    <li>
-                        <div class="goal">ハイジニーナ</div>
-                        <div class="times"><span class="num">10</span>回以上</div>
-                    </li>
-                    <li>
-                        <div class="goal">デザインシェイプ</div>
-                        <div class="times"><span class="num">10</span>回以上</div>
-                    </li>
-                    <li>
-                        <div>
-                            <div class="goal">薄く細くしたい</div>
-                            <div class="note">(5割減程度)</div>
-                        </div>
-                        <div class="times"><span class="num">5～8</span>回</div>
-                    </li>
-                </ul>
-            </div>
-            <div class="timesBox">
-                <h4 class="head face">顔脱毛</h4>
-                <ul>
-                    <li>
-                        <div class="goal">ツルツルにしたい</div>
-                        <div class="times"><span class="num">10</span>回以上</div>
-                    </li>
-                    <li>
-                        <div>
-                            <div class="goal">8割減目標</div>
-                            <div class="note">(産毛以外ほぼない)</div>
-                        </div>
-                        <div class="times"><span class="num">8～10</span>回</div>
-                    </li>
-                    <li>
-                        <div>
-                            <div class="goal">5割減目標</div>
-                            <div class="note">(自己処理を楽にしたい)</div>
-                        </div>
-                        <div class="times"><span class="num">5</span>回</div>
-                    </li>
-                </ul>
-            </div>
-            <p class="txta">推奨回数は目安です。<br>お客様の毛質により推奨回数は変わります。カウンセラーが肌を拝見したうえで推奨回数をご提案しますので、まずはご来院ください。</p>
         </div>
     </section>
 
