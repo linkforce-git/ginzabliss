@@ -194,6 +194,11 @@ body#lp2 {
             width: 40px;
             height: 40px;
         }
+        .ttl {
+            .big {
+                font-size: 30px;
+            }
+        }
     }
 
     .boxWhite {
@@ -604,22 +609,6 @@ body#lp2 {
                 }
             }
         }
-        .head2 {
-            color: #FFF;
-            text-align: center;
-            font-family: "Shippori Mincho B1";
-            font-size: 24px;
-            font-style: normal;
-            font-weight: 500;
-            line-height: 38px;
-            margin: 68px auto 0;
-        }
-        .pic01 {
-            display: block;
-            width: 362px;
-            height: 324px;
-            margin: 0 auto;
-        }
         .head3 {
             color: #FFF;
             text-align: center;
@@ -627,26 +616,27 @@ body#lp2 {
             font-size: 20px;
             font-weight: 500;
             line-height: 36px;
+            margin-top: 10px;
             .text1 {
                 font-size: 24px;
             }
         }
         .head4 {
             display: flex;
-            padding: 0 20px;
+            padding: 10px 20px;
             justify-content: center;
             align-items: center;
             gap: 10px;
             border-radius: 4px;
             background: #FFF;
-            margin: 6px auto;
+            margin: 10px auto;
             .text1 {
                 color: #00C3B7;
                 text-align: center;
                 font-family: "Shippori Mincho B1";
                 font-size: 24px;
                 font-weight: 500;
-                line-height: 50px;
+                line-height: 37px;
             }
         }
         .head5 {
@@ -657,6 +647,7 @@ body#lp2 {
             font-style: normal;
             font-weight: 500;
             line-height: 39px; /* 195% */
+            margin-top: 10px;
         }
     }
 
@@ -665,9 +656,57 @@ body#lp2 {
             display: block;
             width: 100%;
         }
-        .table1 {
+        .head2 {
+            color: #044E58;
+            text-align: center;
+            font-family: "Shippori Mincho B1";
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 38px;
+        }
+        .pic01 {
             display: block;
+            width: 362px;
+            height: 324px;
+            margin: 0 auto;
+        }
+        .tbl1Wrap {
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #E3E3E3;
+        }
+        .tbl1 {
             width: 100%;
+            border-collapse: collapse;
+            th, td {
+                padding: 14px 8px;
+                font-family: "Noto Sans JP";
+                font-size: 16px;
+                font-weight: 500;
+                text-align: center;
+                border: 1px solid #E3E3E3;
+            }
+            tr:first-child th {
+                background: #044E58;
+                color: #FFF;
+                font-weight: 400;
+                border-color: #044E58;
+            }
+            tr:not(:first-child) {
+                th {
+                    background: #00C3B7;
+                    color: #FFF;
+                }
+                td {
+                    background: #FFF;
+                    color: #044E58;
+                }
+            }
+            .red {
+                color: #F3597B;
+                font-weight: 700;
+            }
         }
         .boxWhite {
         }

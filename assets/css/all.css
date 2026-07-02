@@ -6710,6 +6710,9 @@ body#lp2 .h2b .icon {
   width: 40px;
   height: 40px;
 }
+body#lp2 .h2b .ttl .big {
+  font-size: 30px;
+}
 body#lp2 .boxWhite {
   display: flex;
   width: 100%;
@@ -7113,22 +7116,6 @@ body#lp2 #sec01 .priceBox2 .price1 .zei {
   line-height: 100%;
   /* 13.151px */
 }
-body#lp2 #sec01 .head2 {
-  color: #FFF;
-  text-align: center;
-  font-family: "Shippori Mincho B1";
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 38px;
-  margin: 68px auto 0;
-}
-body#lp2 #sec01 .pic01 {
-  display: block;
-  width: 362px;
-  height: 324px;
-  margin: 0 auto;
-}
 body#lp2 #sec01 .head3 {
   color: #FFF;
   text-align: center;
@@ -7136,19 +7123,20 @@ body#lp2 #sec01 .head3 {
   font-size: 20px;
   font-weight: 500;
   line-height: 36px;
+  margin-top: 10px;
 }
 body#lp2 #sec01 .head3 .text1 {
   font-size: 24px;
 }
 body#lp2 #sec01 .head4 {
   display: flex;
-  padding: 0 20px;
+  padding: 10px 20px;
   justify-content: center;
   align-items: center;
   gap: 10px;
   border-radius: 4px;
   background: #FFF;
-  margin: 6px auto;
+  margin: 10px auto;
 }
 body#lp2 #sec01 .head4 .text1 {
   color: #00C3B7;
@@ -7156,7 +7144,7 @@ body#lp2 #sec01 .head4 .text1 {
   font-family: "Shippori Mincho B1";
   font-size: 24px;
   font-weight: 500;
-  line-height: 50px;
+  line-height: 37px;
 }
 body#lp2 #sec01 .head5 {
   color: #FFF;
@@ -7167,14 +7155,61 @@ body#lp2 #sec01 .head5 {
   font-weight: 500;
   line-height: 39px;
   /* 195% */
+  margin-top: 10px;
 }
 body#lp2 #sec02 .pic02 {
   display: block;
   width: 100%;
 }
-body#lp2 #sec02 .table1 {
+body#lp2 #sec02 .head2 {
+  color: #044E58;
+  text-align: center;
+  font-family: "Shippori Mincho B1";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 38px;
+}
+body#lp2 #sec02 .pic01 {
   display: block;
+  width: 362px;
+  height: 324px;
+  margin: 0 auto;
+}
+body#lp2 #sec02 .tbl1Wrap {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #E3E3E3;
+}
+body#lp2 #sec02 .tbl1 {
   width: 100%;
+  border-collapse: collapse;
+}
+body#lp2 #sec02 .tbl1 th, body#lp2 #sec02 .tbl1 td {
+  padding: 14px 8px;
+  font-family: "Noto Sans JP";
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  border: 1px solid #E3E3E3;
+}
+body#lp2 #sec02 .tbl1 tr:first-child th {
+  background: #044E58;
+  color: #FFF;
+  font-weight: 400;
+  border-color: #044E58;
+}
+body#lp2 #sec02 .tbl1 tr:not(:first-child) th {
+  background: #00C3B7;
+  color: #FFF;
+}
+body#lp2 #sec02 .tbl1 tr:not(:first-child) td {
+  background: #FFF;
+  color: #044E58;
+}
+body#lp2 #sec02 .tbl1 .red {
+  color: #F3597B;
+  font-weight: 700;
 }
 body#lp2 #sec02 .flexArea {
   display: flex;
