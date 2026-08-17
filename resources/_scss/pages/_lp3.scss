@@ -314,7 +314,10 @@ body#lp3 {
                 width: 83px;
                 height: auto;
             }
-            
+            .btn_menu {
+                display: none;
+            }
+
         }
     }
 
@@ -1128,15 +1131,10 @@ body#lp3 {
             display: none;
         }
         #floatBtnt_plan {
-            width: calc(110 / 338 * 100%);
-            .txt {
-                br {
-                    display: none;
-                }
-            }
+            display: none;
         }
         #floatBtn_reserv {
-            width: calc(218 / 338 * 100%);
+            width: 100%;
             flex-flow: row;
             position: relative;
             color: #FFF;

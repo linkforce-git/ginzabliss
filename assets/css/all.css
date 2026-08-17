@@ -7890,6 +7890,9 @@ body#lp3 header.fv > .wrapper .logo {
   width: 83px;
   height: auto;
 }
+body#lp3 header.fv > .wrapper .btn_menu {
+  display: none;
+}
 body#lp3 #fv {
   background: #ffffff;
   width: 100%;
@@ -8653,13 +8656,10 @@ body#lp3 #floatBtn #floatBtn_features {
   display: none;
 }
 body#lp3 #floatBtn #floatBtnt_plan {
-  width: 32.5443786982%;
-}
-body#lp3 #floatBtn #floatBtnt_plan .txt br {
   display: none;
 }
 body#lp3 #floatBtn #floatBtn_reserv {
-  width: 64.4970414201%;
+  width: 100%;
   flex-flow: row;
   position: relative;
   color: #FFF;
