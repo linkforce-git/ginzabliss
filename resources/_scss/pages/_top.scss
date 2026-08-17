@@ -1,6 +1,12 @@
 @charset "UTF-8";
 
 body#top {
+    header.fv {
+        .logo, .h_txt {
+            display: none;
+        }
+    }
+
     #top_fv {
         height: 550px;
         padding-top: 193px;

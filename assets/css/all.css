@@ -3055,6 +3055,9 @@ footer .copy {
   display: flex;
 }
 
+body#top header.fv .logo, body#top header.fv .h_txt {
+  display: none;
+}
 body#top #top_fv {
   height: 550px;
   padding-top: 193px;
