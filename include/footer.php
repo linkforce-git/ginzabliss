@@ -38,6 +38,12 @@
             受付：<br>
             　平日　12：00～21：00<br>土日祝　10：00～19：00<br>休診日　木曜(祝日は除く)
         </p>
+        <a class="mensBanner" href="https://www.bscginza.com/">
+            <picture>
+                <source type="image/webp" srcset="/assets/img/banner_mens.png.webp">
+                <img src="/assets/img/banner_mens.png" alt="メンズ脱毛サイトはこちら">
+            </picture>
+        </a>
     </div>
     <div class="waveBox">
         <img class="sun" src="/assets/img/f_sun.svg">

@@ -1,9 +1,34 @@
 @charset "UTF-8";
 
 body#top {
-    header.fv {
-        .logo, .h_txt {
+    header {
+        .mensLinkBtn {
             display: none;
+        }
+        &.fv {
+            .logo, .h_txt {
+                display: none;
+            }
+            .mensLinkBtn {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 40px;
+                padding: 0 14px;
+                margin-left: auto;
+                background: rgba(#fff, .9);
+                border: 1px solid rgba($colorBk, .1);
+                border-radius: 6px;
+                color: $colorBk;
+                font-family: $fontM;
+                font-size: 11px;
+                font-weight: 700;
+                letter-spacing: .02em;
+                white-space: nowrap;
+            }
+            .btn_menu {
+                margin-left: 8px;
+            }
         }
     }
 

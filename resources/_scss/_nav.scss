@@ -702,6 +702,24 @@
         font-weight: 600;
         text-decoration: underline;
     }
+    .mensLinkBtn {
+        width: fit-content;
+        height: 40px;
+        padding: 0 14px;
+        margin-top: 20px;
+        background: rgba(#fff, .9);
+        border: 1px solid rgba($colorBk, .1);
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: $colorBk;
+        font-family: $fontM;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: .02em;
+        white-space: nowrap;
+    }
     .bClose {
         margin-top: auto;
     }

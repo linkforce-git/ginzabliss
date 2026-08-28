@@ -1849,6 +1849,18 @@ footer .schedule tbody td .close {
   height: 1px;
   background: currentColor;
 }
+footer .mensBanner {
+  display: block;
+  width: 100%;
+  max-width: 310px;
+  margin: 30px auto 0;
+}
+footer .mensBanner img {
+  display: block;
+  width: 100%;
+  vertical-align: top;
+  border-radius: 6px;
+}
 footer .waveBox {
   height: 200px;
   background: linear-gradient(transparent 30px, #2BD5CB 30px, #2BD5CB 66px, #00AFAF);
@@ -2580,6 +2592,25 @@ footer .copy {
   font-weight: 600;
   text-decoration: underline;
 }
+#gMenu .mensLinkBtn {
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 40px;
+  padding: 0 14px;
+  margin-top: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(4, 78, 88, 0.1);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #044E58;
+  font-family: YakuHanMPs, "Shippori Mincho", serif;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
 #gMenu .bClose {
   margin-top: auto;
 }
@@ -3055,8 +3086,31 @@ footer .copy {
   display: flex;
 }
 
+body#top header .mensLinkBtn {
+  display: none;
+}
 body#top header.fv .logo, body#top header.fv .h_txt {
   display: none;
+}
+body#top header.fv .mensLinkBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  padding: 0 14px;
+  margin-left: auto;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(4, 78, 88, 0.1);
+  border-radius: 6px;
+  color: #044E58;
+  font-family: YakuHanMPs, "Shippori Mincho", serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+body#top header.fv .btn_menu {
+  margin-left: 8px;
 }
 body#top #top_fv {
   height: 550px;

@@ -256,6 +256,7 @@
                     <div class="arw"></div>
                 </a>
                 <p class="other_link"><a href="/privacy">プライバシーポリシー</a></p>
+                <a class="mensLinkBtn" href="https://www.bscginza.com/">メンズ脱毛サイトはこちら</a>
                 <label class="closeBtn bClose" for="nav_close">CLOSE</label>
             </div>
         </div>

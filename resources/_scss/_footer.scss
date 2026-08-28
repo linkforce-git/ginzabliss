@@ -112,6 +112,18 @@ footer {
             }
         }
     }
+    .mensBanner {
+        display: block;
+        width: 100%;
+        max-width: 310px;
+        margin: 30px auto 0;
+        img {
+            display: block;
+            width: 100%;
+            vertical-align: top;
+            border-radius: 6px;
+        }
+    }
     .waveBox {
         height: 200px;
         background: linear-gradient(transparent 30px, $colorB2 30px, $colorB2 66px, #00AFAF);
