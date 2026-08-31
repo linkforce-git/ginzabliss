@@ -50,7 +50,7 @@
                     <h3 class="txt">お電話でのご質問・ご予約はこちら</h3>
                 </div>
                 <div class="telBox">
-                    <a class="link" href="tel:0363272322"><span class="tel">TEL.</span><span class="num">03-6327-2322</span></a>
+                    <a class="link" href="tel:0335286954"><span class="tel">TEL.</span><span class="num">03-3528-6954</span></a>
                     <p class="txt">受付：平日12：00～21：00<br>土日祝　10：00～19：00<br>休診日：木曜(祝日は除く)</p>
                 </div>
 <?php endif; ?>
